@@ -1,0 +1,277 @@
+[
+	{
+		"chapter" : {
+		  "title": "Preface, Acknowledgments and Introduction",
+		  "url": "/swag-content/0-1",
+		  "ionicIcon" : null,
+		  "sections" : [
+			  {"_id" : "0-1",
+			   "section" : "PREFACE, ACKNOWLEDGEMENTS AND INTRODUCTION",
+			   "icon" : ""}
+		  ]
+		}
+	},
+	{
+		"chapter" : {
+			"title": "Chapter 1: Manual Snow and Weather Observations",
+			"url": "/swag-index/1",
+			"ionicIcon": "list-outline",
+			"sections" : [
+				{"_id" : "1-1",
+				 "section" : "1.1 INTRODUCTION",
+				 "icon" : ""},
+				
+				{"_id" : "1-2",
+				 "section" : "1.2 OBJECTIVES",
+				 "icon" : ""},
+				
+				{"_id" : "1-3",
+				 "section" : "1.3 STANDARD MORNING SNOW AND WEATHER OBSERVATION",
+				 "icon" : ""},
+				
+				{"_id" : "1-4",
+				 "section" : "1.4 MANUAL VS. AUTOMATED OBSERVATIONS",
+				 "icon" : ""},
+				
+				{"_id" : "1-5",
+				 "section" : "1.5 TIME PERIODS FOR MANUAL SNOW AND WEATHER OBSERVATIONS",
+				 "icon" : ""},
+				
+				{"_id" : "1-6",
+				 "section" : "1.6 EQUIPMENT FOR MANUAL STANDARD OBSERVATIONS",
+				 "icon" : ""},
+				
+				{"_id" : "1-7",
+				 "section" : "1.7 FIELD BOOK NOTES",
+				 "icon" : ""},
+				
+				{"_id" : "1-8",
+				 "section" : "1.8 FIELD WEATHER OBSERVATIONS",
+				 "icon" : ""},
+				
+				{"_id" : "1-9",
+				 "section" : "1.9 LOCATION <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-10",
+				 "section" : "1.10 DATE <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-11",
+				 "section" : "1.11 TIME <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-12",
+				 "section" : "1.12 SKY CONDITION <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-13",
+				 "section" : "1.13 PRECIPITATION TYPE, RATE, AND INTENSITY <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-14",
+				 "section" : "1.14 AIR TEMPERATURE <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-15",
+				 "section" : "1.15 RELATIVE HUMIDITY (<i>RH<\/i>)",
+				 "icon" : ""},
+				
+				{"_id" : "1-16",
+				 "section" : "1.16 BAROMETRIC PRESSURE AT STATION",
+				 "icon" : ""},
+				
+				{"_id" : "1-17",
+				 "section" : "1.17 20 CM SNOW TEMPERATURE (<i>T20<\/i>)",
+				 "icon" : ""},
+				
+				{"_id" : "1-18",
+				 "section" : "1.18 SURFACE PENETRABILITY (<i>P<\/i>) <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-19",
+				 "section" : "1.19 FORM <i>(F)<\/i> AND SIZE (<i>E<\/i>) OF SURFACE SNOW <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-20",
+				 "section" : "1.20 HEIGHT OF SNOWPACK (<i>HS<\/i>) <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-21",
+				 "section" : "1.21 HEIGHT OF NEW SNOW (<i>HN24<\/i>) <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-22",
+				 "section" : "1.22 WATER EQUIVALENT OF NEW SNOW (<i>HN24W<\/i>) <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-23",
+				 "section" : "1.23 DENSITY OF NEW SNOW (<i style = \"text-transform:lowercase !important\">&rho;<\/i>)",
+				 "icon" : ""},
+				
+				{"_id" : "1-24",
+				 "section" : "1.24 RAIN <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-25",
+				 "section" : "1.25 ACCUMULATED PRECIPITATION",
+				 "icon" : ""},
+				
+				{"_id" : "1-26",
+				 "section" : "1.26 WIND <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "1-27",
+				 "section" : "1.27 BLOWING SNOW",
+				 "icon" : ""}
+			]
+		}
+	},
+	{	
+		"chapter" : {
+			"title": "Chapter 2: Snowpack Observation",
+			"url": "/swag-index/2",
+			"ionicIcon": "list-outline",
+			"sections" : [
+				{"_id" : "2-1",
+				 "section" : "2.1 INTRODUCTION",
+				 "icon" : ""},
+				
+				{"_id" : "2-2",
+				 "section" : "2.2 OBJECTIVES",
+				 "icon" : ""},
+				
+				{"_id" : "2-3",
+				 "section" : "2.3 STANDARD SNOWPACK OBSERVATION",
+				 "icon" : ""},
+				
+				{"_id" : "2-4",
+				 "section" : "2.4 SNOW PROFILES",
+				 "icon" : ""},
+				
+				{"_id" : "2-5",
+				 "section" : "2.5 SNOWPACK OBSERVATIONS",
+				 "icon" : ""},
+				
+				{"_id" : "2-6",
+				 "section" : "2.6 CHARACTERIZING FRACTURES IN COLUMN AND BLOCK TESTS",
+				 "icon" : ""},
+				
+				{"_id" : "2-7",
+				 "section" : "2.7 COLUMN AND BLOCK TESTS",
+				 "icon" : ""},
+				
+				{"_id" : "2-8",
+				 "section" : "2.8 SLOPE CUT TESTING",
+				 "icon" : ""},
+				
+				{"_id" : "2-9",
+				 "section" : "2.9 NON-STANDARDIZED SNOW TESTS",
+				 "icon" : ""},
+				
+				{"_id" : "2-10",
+				 "section" : "2.10 INSTRUMENTED METHODS",
+				 "icon" : ""}
+			]
+		}
+	},
+	{	
+		"chapter" : {
+			"title": "Chapter 3: Avalanche Observations",
+			"url": "/swag-index/3",
+			"ionicIcon": "list-outline",
+			"sections" : [
+				{"_id" : "3-1",
+				 "section" : "3.1 INTRODUCTION",
+				 "icon" : ""},
+				
+				{"_id" : "3-2",
+				 "section" : "3.2 OBJECTIVES",
+				 "icon" : ""},
+				
+				{"_id" : "3-3",
+				 "section" : "3.3 IDENTIFICATION OF AVALANCHE PATHS",
+				 "icon" : ""},
+				
+				{"_id" : "3-4",
+				 "section" : "3.4 STANDARD AVALANCHE OBSERVATION",
+				 "icon" : ""},
+				
+				{"_id" : "3-5",
+				 "section" : "3.5 AVALANCHE PATH CHARACTERISTICS <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "3-6",
+				 "section" : "3.6 AVALANCHE EVENT CHARACTERISTICS <ion-icon ng-reflect-name='snow' aria-label='snow' role='img' class='sm hydrated' name='snow'></ion-icon>",
+				 "icon" : "snow"},
+				
+				{"_id" : "3-7",
+				 "section" : "3.7 MULTIPLE AVALANCHE EVENTS",
+				 "icon" : ""},
+				
+				{"_id" : "3-8",
+				 "section" : "3.8 ADDITIONAL OBSERVATIONS",
+				 "icon" : ""}
+			]
+		}
+	},
+	{	
+		"chapter" : {
+			"title": "Glossary",
+			"url": "/swag-content/4-1",
+			"ionicIcon": null,
+			"sections" : [
+				{"_id" : "4-1",
+				"section" : "GLOSSARY",
+				"icon" : ""} 
+			]
+		}
+	},
+	{	
+		"chapter" : {
+			"title": "Appendixes",
+			"url": "/swag-index/5",
+			"ionicIcon": "list-outline",
+			"sections" : [
+				{"_id" : "5-1",
+				 "section" : "APPENDIX A: REFERENCES",
+				 "icon" : ""},
+				
+				{"_id" : "5-2",
+				 "section" : "APPENDIX B: UNITS",
+				 "icon" : ""},
+				
+				{"_id" : "5-3",
+				 "section" : "APPENDIX C: METADATA",
+				 "icon" : ""},
+				
+				{"_id" : "5-4",
+				 "section" : "APPENDIX D: OBSERVATION SITES FOR METEOROLOGICAL MEASUREMENTS",
+				 "icon" : ""},
+				
+				{"_id" : "5-5",
+				 "section" : "APPENDIX E: AUTOMATED WEATHER STATIONS",
+				 "icon" : ""},
+				
+				{"_id" : "5-6",
+				 "section" : "APPENDIX F: ICSI CLASSIFICATION FOR SEASONAL SNOW ON THE GROUND",
+				 "icon" : ""},
+				
+				{"_id" : "5-7",
+				 "section" : "APPENDIX G: AVALANCHE DANGER, HAZARD, AND SNOW STABILITY SCALES",
+				 "icon" : ""},
+				
+				{"_id" : "5-8",
+				 "section" : "APPENDIX H: REPORTING AVALANCHE INVOLVEMENTS",
+				 "icon" : ""},
+				
+				{"_id" : "5-9",
+				 "section" : "APPENDIX I: MISCELLANEOUS",
+				 "icon" : ""}
+			]
+		}
+		
+	}
+	
+]
+	

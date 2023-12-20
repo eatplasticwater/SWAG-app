@@ -1,0 +1,430 @@
+{
+     "_id" :  "2-10",
+     "chapter" : "Chapter 2: SNOWPACK OBSERVATION",
+     "header" : "2.10 INSTRUMENTED METHODS",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+    <main>
+      <div class=\"container-lg\">
+        <!-- START sections index accordion -->
+        <div class=\"accordion\" id=\"sectionIndexAccordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"sectionIndexheading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#sectionIndexcollapse\" aria-expanded=\"false\" aria-controls=\"sectionIndexcollapse\">
+          Sections
+          <\/button>
+          <\/h2>
+          <div id=\"sectionIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"sectionIndexheading\" data-bs-parent=\"#sectionIndexAccordion\">
+          <!-- START table -->
+          <!-- START page navigation -->
+          <div class=\"list-group\">
+            <a href=\"#2-10-1\" class=\"list-group-item list-group-item-action\">2.10.1 Ram Penetrometer<\/a>
+            <a href=\"#2-10-2\" class=\"list-group-item list-group-item-action\">2.10.2 Shear Frame Test<\/a>
+          <\/div>
+          <!-- END page navigation -->
+            <!-- END table -->
+          <\/div>
+          <\/div>
+          <\/div>
+        <!-- END sections index accordion -->
+        <!-- START figures index accordion -->
+        <div class=\"accordion\" id=\"figureIndexAccordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"figureIndexheading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureIndexcollapse\" aria-expanded=\"false\" aria-controls=\"figureIndexcollapse\">
+          Figures
+          <\/button>
+          <\/h2>
+          <div id=\"figureIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureIndexheading\" data-bs-parent=\"#figureIndexAccordion\">
+          <!-- START table -->
+          <div class=\"list-group\">
+            <a href=\"#figure2-22Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.22 Ram Penetrometer Schematic<\/a>
+            <a href=\"#figure2-23Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.23 Ram Profiles Field Book<\/a>
+            <a href=\"#figure2-24Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.24 Ram Profiles Worksheet<\/a>
+            <a href=\"#figure2-25Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.25 Ram profile Presentation<\/a>
+            <a href=\"#figure2-26Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.26 Shear Frame<\/a>
+          <\/div>
+          <!-- END table -->
+          <\/div>
+          <\/div>
+        <\/div>
+        <!-- END figures index accordion -->
+        <hr>
+        <!-- START 1st section -->
+        <h2 id=\"2-10-1\">2.10.1 Ram Penetrometer<\/h2>
+        <h3>Objectives<\/h3>
+        <p>The Ram Penetrometer is used to obtain a quantifiable measure of the relative hardness or resistance of the snow layers. It can be applied on its own as an index of snow strength, but it is not recommended as the sole tool for determining snow stability. When used in combination with a snow profile, a ram profile should be taken about 0.5 m from the pit wall after observation of the snow profile, but before any Shovel Shear Tests are performed. It is a valuable tool for tracking changes in relative hardness over time at study plots and slopes, or for measuring many hardness profiles over an area without digging pits.<\/p>
+        <p>The ram profile describes the hardness of layers in the snowpack. However, it often fails to identify thin weak layers in the snowpack, surface hoar layers or other weak layers that are one centimeter or less are difficult to detect. Its sensitivity is dependent on the hammer weight, particularly when used in soft or very soft snow. The magnitude of this problem may be reduced by using a lightweight hammer (500 g or less), or by using a powder or \"Alta\" ram (Perla, 1969).<\/p>
+        <p>Refer to Chapter 7 of <i>The Avalanche Handbook<\/i> (McClung and Schaerer, 2006) for a complete discussion on ram profiles.<\/p>
+        <h3>Equipment<\/h3>
+        <p>The standard Ram Penetrometer (<a href=\"#figure2-22Accordion\">Figure 2.22<\/a>), also called ramsonde, consists of:<\/p>
+        <ul>
+          <li>1 m lead section tube with 40 mm diameter cone and an apex angle of 60&deg;<\/li>
+          <li>Guide rod and anvil<\/li>
+          <li>Hammer of mass 2 kg, 1 kg, 0.5 kg, 0.2 kg or 0.1 kg<\/li>
+          <li>One or two (1.0 m each) extension tubes<\/li>
+        <\/ul>
+        <p>The powder ram, also called an Alta Ram (Perla, 1969), consists of:<\/p>
+        <ul>
+          <li>0.50 m to 1.0 m lead section and guide rod and anvil
+            weighing 100 g<\/li>
+          <li>A hammer of mass 0.1 kg<\/li>
+          <li>Lead section cone has the same dimensions as a standard
+            ram<\/li>
+        <\/ul>
+        <!-- START figure 2-22 accordion -->
+        <div class=\"accordion\" id=\"figure2-22Accordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"figure2-22heading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-22collapse\" aria-expanded=\"false\" aria-controls=\"figure2-22collapse\">
+          Figure 2.22 Ram Penetrometer Schematic
+          <\/button>
+          <\/h2>
+          <div id=\"figure2-22collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-22heading\" data-bs-parent=\"#figure2-22Accordion\">
+          <!-- START image -->
+            <img src=\"images\/figures\/2-22.jpg\" class=\"img-fluid\" alt=\"Schematic of the Ram Penetrometer (after Perla and Martinelli, 1976).\">
+            <div class=\"accordion-body\">
+          <p>Schematic of the Ram Penetrometer (after Perla and Martinelli, 1976).<\/p>
+          <!-- <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Howie Garber<\/small><\/p> -->
+            <\/div>
+          <!-- END image -->
+          <\/div>
+          <\/div>
+        <\/div>
+        <!-- END figure 2-22 accordion -->
+        <p>The mass of hammer chosen depends on the expected hardness of the snow and desired sensitivity.<\/p>
+        <h3>Unit of Measure<\/h3>
+        <p>A ram profile depicts the force required to penetrate the snow with a Ram Penetrometer. The mass of the tubes, the mass of the hammer, and the dynamic load of the falling hammer all contribute to the applied force. Ram profiles can display two different quantities: ram number (RN), which is a mass (kg), and ram resistance (RR), which is a force (N).<\/p>
+        <p>Weight is a gravity force that is calculated by multiplying mass by the acceleration due to gravity (9.81 m\/s&sup2;). Although not strictly correct, most practitioners multiply by 10 to simplify the calculations. Since the ram number is an index of hardness, there is little danger in rounding this value. Force, and consequently the ram resistance, are measured in newtons. A mass of 1 kg has a gravity force (weight) of 1 kg x acceleration which is approximately 10 N (1kg x 10m\/s&sup2; =10N).<\/p>
+        <h3>Procedure<\/h3>
+        <p>Record the location, date, time, observers, slope angle, aspect, and ram type at the head of the data sheet. Also record any notes that will be pertinent to data analysis after leaving the field (<a href=\"#figure2-23Accordion\">Figures 2.23<\/a> and <a href=\"#figure2-24Accordion\">2.24<\/a>).<\/p>
+        <p>Work in pairs if possible. One person holds the Ram Penetrometer in a vertical (plumb) position with the guide rod attached. This person drops the hammer, counts the number of blows, and observes the depth of penetration. The other person records the information. The person holding the ram and dropping the hammer calls three numbers to the recorder: the drop number, drop height and penetration. For example, &apos;5 from 20 is 143&apos;, means 5 drops from a drop height of 20 cm penetrated to 143 cm (<a href=\"#figure2-24Accordion\">Figure 2.24<\/a>).<\/p>
+        <!-- START steps accordion -->
+        <div class=\"accordion\" id=\"stepsAccordion-2\">
+        
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading01-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-2\" aria-expanded=\"false\" aria-controls=\"collapse01-2\">
+                1. Let instrument drop
+              <\/button>
+            <\/h2>
+            <div id=\"collapse01-2\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                Hold the first sectional tube with the guide rod attached directly above the snow surface with the point touching the snow. Let the instrument drop and penetrate the snow under its own weight without slowing it down with your hand. You will need to guide it in many cases so it does not fall over. Record its mass in column T + H. Read the penetration (cm) and record in column p (see <a href=\"#figure2-24Accordion\">Figure 2.24<\/a> for field data sheet example). Since the tube weight T is 1.0 kg with the guide rod, it should be attached before the surface measurement is taken. Sometimes a greater sensitivity of the surface layer is desired. Dropping only the lead section without the guide rod will reduce the weight and may cause less of an initial plunge through the surface layers since the total mass will be lighter. If this method is used, then the weight of the lead section alone should be recorded for the <i>T<\/i> value, not the combined lead section and guide rod value of 1.0 kg.
+              <\/div>
+            <\/div>
+          <\/div>
+        
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading02-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-2\" aria-expanded=\"false\" aria-controls=\"collapse02-2\">
+                2. Add the hammer
+              <\/button>
+            <\/h2>
+            <div id=\"collapse02-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+               Carefully add the hammer, or guide rod and hammer if using the lead section only for the surface measurement. Record the mass of the tube + hammer under <i>T + H<\/i>. Read the new penetration and record under <i>p<\/i>. If the ram does not penetrate further, as is often the case in this step, record the previous <i>p<\/i> value again.
+              <\/div>
+            <\/div>
+          <\/div>
+        
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading03-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-2\" aria-expanded=\"false\" aria-controls=\"collapse03-2\">
+                3. Drop the hammer
+              <\/button>
+            <\/h2>
+            <div id=\"collapse03-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+               Drop the hammer from a height between 1 cm and 5 cm; record the penetration. The low drop height (1–5 cm) is appropriate for near-surface layers. Larger drop heights (20–60 cm) and increased hammer weights may be desired as depth, and therefore, resistance increases. Continue dropping the hammer from the same height until the rate of penetration changes. Record fall height f, number of blows n, and penetration p up to the point. Some experience will allow the user to anticipate changes in the structure of the snow and record measurements before the rate of penetration changes. Continue with another series of blows; choose a fall height that produces a penetration of about 1 cm per blow. Do not change fall height or hammer weight within a series of measurements. Record the series then adjust fall height or change hammer weight if desired before beginning another series. Resolution of the profile depends on the frequency of recorded measurements and the snowpack structure. Many recorded measurements in a homogeneous layer will provide no more resolution than fewer measurements since the calculated <i>RN<\/i> will be the same for both. However, resolution will be lost in varied layers if too many drops are made between recordings as the layer will receive a single <i>RN<\/i> over the entire range of <i>p<\/i> for that layer.
+              <\/div>
+            <\/div>
+          <\/div>
+        
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading04-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-2\" aria-expanded=\"false\" aria-controls=\"collapse04-2\">
+                4. Add another section
+              <\/button>
+            <\/h2>
+            <div id=\"collapse04-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+               Add another section of tube when necessary and record the new <i>T + H<\/i>.
+              <\/div>
+            <\/div>
+          <\/div>
+        
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading05-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-2\" aria-expanded=\"false\" aria-controls=\"collapse05-2\">
+                5. Repeat
+              <\/button>
+            <\/h2>
+            <div id=\"collapse05-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+               Repeat the measurements (b and c) until the ground surface is reached.
+              <\/div>
+            <\/div>
+          <\/div>
+        
+        <\/div>
+        <!-- END steps accordion -->
+        <h3>Calculation<\/h3>
+        <!-- START steps accordion -->
+        <div class=\"accordion\" id=\"stepsAccordion-3\">
+        
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading01-3\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-3\" aria-expanded=\"false\" aria-controls=\"collapse01-3\">
+                1. Calculate increment of penetration
+              <\/button>
+            <\/h2>
+            <div id=\"collapse01-3\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-3\" data-bs-parent=\"#stepsAccordion-3\">
+              <div class=\"accordion-body\">
+                Calculate the increment of penetration <i>p<\/i> for each series of blows by subtracting the previous <i>p<\/i> value from the present <i>p<\/i> value (<a href=\"#figure2-25Accordion\">Figure 2.25<\/a>).
+              <\/div>
+            <\/div>
+          <\/div>
+        
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading02-3\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-3\" aria-expanded=\"false\" aria-controls=\"collapse02-3\">
+                2. Calculate ram number
+              <\/button>
+            <\/h2>
+            <div id=\"collapse02-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-3\" data-bs-parent=\"#stepsAccordion-3\">
+              <div class=\"accordion-body\">
+                Calculate ram number (RN) or ram resistance (RR) with the following equations:
+                <img src=\"images\/figures\/2-10a.svg\" alt=\"ram number calculation\" class=\"responsive-image\">
+                where:
+                <ul>
+                  <li><i>RN<\/i> = ram number (kg)<\/li>
+                  <li><i> <\/i>RR= ram resistance (N)<\/li>
+                  <li><i>n<\/i> = number of blows of the hammer<\/li>
+                  <li><i>f<\/i> = fall height of the hammer (cm)<\/li>
+                  <li><i>p<\/i> = increment of penetration for n blows (cm)<\/li>
+                  <li><i>T<\/i> = mass of tubes including guide rod (kg)<\/li>
+                  <li><i>H<\/i> = mass of hammer (kg)<\/li>
+                <\/ul>
+              <\/div>
+            <\/div>
+          <\/div>
+        
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading03-3\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-3\" aria-expanded=\"false\" aria-controls=\"collapse03-3\">
+                3. Plot results
+              <\/button>
+            <\/h2>
+            <div id=\"collapse03-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-3\" data-bs-parent=\"#stepsAccordion-3\">
+              <div class=\"accordion-body\">
+                Plot on graph paper the ram number or resistance vs. depth of snow (see <a href=\"#figure2-25Accordion\">Figure 2.25<\/a>).
+              <\/div>
+            <\/div>
+          <\/div>
+        
+        <\/div>
+        <!-- END steps accordion -->
+        <!-- START figure 2-23 accordion -->
+        <div class=\"accordion\" id=\"figure2-23Accordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"figure2-23heading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-23collapse\" aria-expanded=\"false\" aria-controls=\"figure2-23collapse\">
+          Figure 2.23 Ram profiles field book
+          <\/button>
+          <\/h2>
+          <div id=\"figure2-23collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-23heading\" data-bs-parent=\"#figure2-23Accordion\">
+          <!-- START image -->
+            <img src=\"images\/figures\/2-23.png\" class=\"img-fluid\" alt=\"Schematic of the Ram Penetrometer (after Perla and Martinelli, 1976).\">
+            <div class=\"accordion-body\">
+          <p>Sample field book page for ram profiles.<\/p>
+          <!-- <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Howie Garber<\/small><\/p> -->
+            <\/div>
+          <!-- END image -->
+          <\/div>
+          <\/div>
+        <\/div>
+        <!-- END figure 2-23 accordion -->
+        <!-- START figure 2-24 accordion -->
+        <div class=\"accordion\" id=\"figure2-24Accordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"figure2-24heading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-24collapse\" aria-expanded=\"false\" aria-controls=\"figure2-24collapse\">
+          Figure 2.24 Ram profiles worksheet
+          <\/button>
+          <\/h2>
+          <div id=\"figure2-24collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-24heading\" data-bs-parent=\"#figure2-24Accordion\">
+          <!-- START image -->
+            <img src=\"images\/figures\/2-24.png\" class=\"img-fluid\" alt=\"Schematic of the Ram Penetrometer (after Perla and Martinelli, 1976).\">
+            <div class=\"accordion-body\">
+          <p>Sample worksheet page for calculating ram profiles.<\/p>
+          <!-- <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Howie Garber<\/small><\/p> -->
+            <\/div>
+          <!-- END image -->
+          <\/div>
+          <\/div>
+        <\/div>
+        <!-- END figure 2-24 accordion -->
+        <!-- START figure 2-25 accordion -->
+        <div class=\"accordion\" id=\"figure2-25Accordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"figure2-25heading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-25collapse\" aria-expanded=\"false\" aria-controls=\"figure2-25collapse\">
+          Figure 2.25 Ram profile representation
+          <\/button>
+          <\/h2>
+          <div id=\"figure2-25collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-25heading\" data-bs-parent=\"#figure2-25Accordion\">
+          <!-- START image -->
+            <img src=\"images\/figures\/2-25.jpg\" class=\"img-fluid\" alt=\"Schematic of the Ram Penetrometer (after Perla and Martinelli, 1976).\">
+            <div class=\"accordion-body\">
+          <p>Graphical representation of a ram profile from data listed in Figures 2.23 and 2.24.<\/p>
+          <!-- <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Howie Garber<\/small><\/p> -->
+            <\/div>
+          <!-- END image -->
+          <\/div>
+          <\/div>
+        <\/div>
+        <!-- END figure 2-25 accordion -->
+        <!-- END 1st section -->
+        <hr>
+        <!-- START Section 4 -->
+        <h2 id=\"2-10-2\">2.10.2 Shear Frame Test<\/h2>
+        <p>The Shear Frame Test is used to measure the shear strength of snow layers and interfaces between snow layers (<a href=\"figure2-26Accordion\">Figure 2.26<\/a>). The Shear Frame Test requires experience but provides useful information when done correctly and consistently. The test combined with a stability ratio is a useful tool for assessing the strength of snow layers. Discussions of shear frame methods can be found in Jamieson, 2001; Jamieson, 1995; F&ouml;hn, 1987b, Perla and Beck, 1983, and Roch, 1966.<\/p>
+        <!-- START figure 2-26 accordion -->
+        <div class=\"accordion\" id=\"figure2-26Accordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"figure2-26heading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-26collapse\" aria-expanded=\"false\" aria-controls=\"figure2-26collapse\">
+          Figure 2.26 Shear frame
+          <\/button>
+          <\/h2>
+          <div id=\"figure2-26collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-26heading\" data-bs-parent=\"#figure2-26Accordion\">
+          <!-- START image -->
+            <img src=\"images\/figures\/2-26.jpg\" class=\"img-fluid\" alt=\"Measuring shear strength with a shear frame.\">
+            <div class=\"accordion-body\">
+          <p>Measuring shear strength with a shear frame.<\/p>
+          <!-- <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Howie Garber<\/small><\/p> -->
+            <\/div>
+          <!-- END image -->
+          <\/div>
+          <\/div>
+        <\/div>
+        <!-- END figure 2-26 accordion -->
+        <h3>Equipment<\/h3>
+        <p>The Shear Frame Test requires the following equipment:<\/p>
+        <ol>
+          <li>Putty knife<\/li>
+          <li>Metal cutting plate about 30 cm x 30 cm<\/li>
+          <li>Shear frame, usually 100 cm2 or 250 cm&sup2;<\/li>
+          <li>Force gauge, maximum capacity 10 to 250 N (1 to 25 kg).<\/li>
+        <\/ol>
+        <p>If you are calculating the stability ratio, you will also need the following equipment:<\/p>
+        <ol start=\"5\">
+          <li>Sampling tube, 50 to 80 cm<\/li>
+          <li>Weighing scale<\/li>
+        <\/ol>
+        <h4>Procedure<\/h4>
+        <p>The Shear Frame Test can be performed on storm snow layers and persistent weak layers. Typically 100 cm&sup2; frames are used for storm snow layers and 250 cm&sup2; are used for persistent weak layers.<\/p>
+        <p>Observers generally perform 7 to 12 consecutive tests and average the results. Once a series of measurements is started it is important to not switch frame sizes.<\/p>
+        <!-- START steps accordion -->
+        <div class=\"accordion\" id=\"stepsAccordion-5\">
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading01-5\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-5\" aria-expanded=\"false\" aria-controls=\"collapse01-5\">
+                1. Identify weak layer
+              <\/button>
+            <\/h2>
+            <div id=\"collapse01-5\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-5\" data-bs-parent=\"#stepsAccordion-5\">
+              <div class=\"accordion-body\">
+                Identify weak layer using tilt board or other method.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading02-5\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-5\" aria-expanded=\"false\" aria-controls=\"collapse02-5\">
+                2. Remove overlying snow
+              <\/button>
+            <\/h2>
+            <div id=\"collapse02-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-5\" data-bs-parent=\"#stepsAccordion-5\">
+              <div class=\"accordion-body\">
+                Remove the overlying snow to within 4 or 5 cm of the
+                layer or interface being measured.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading03-5\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-5\" aria-expanded=\"false\" aria-controls=\"collapse03-5\">
+                3. Insert shear frame
+              <\/button>
+            <\/h2>
+            <div id=\"collapse03-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-5\" data-bs-parent=\"#stepsAccordion-5\">
+              <div class=\"accordion-body\">
+                Carefully insert the shear frame into the snow so the bottom of the frame is 2 to 5 mm above the layer.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading04-5\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-5\" aria-expanded=\"false\" aria-controls=\"collapse04-5\">
+                4. Remove snow from shear frame
+              <\/button>
+            <\/h2>
+            <div id=\"collapse04-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-5\" data-bs-parent=\"#stepsAccordion-5\">
+              <div class=\"accordion-body\">
+                Pass a thin blade (putty knife) around the shear frame to
+                remove snow that was in contact with the frame.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading05-5\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-5\" aria-expanded=\"false\" aria-controls=\"collapse05-5\">
+                5. Pull
+              <\/button>
+            <\/h2>
+            <div id=\"collapse05-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-5\" data-bs-parent=\"#stepsAccordion-5\">
+              <div class=\"accordion-body\">
+                Attach an appropriate force gauge and pull so that fracture occurs within 1 second. This method ensures brittle fracture. It is essential that the operator loads the force gauge at a constant rate and is consistent between all  measurements.
+              <\/div>
+            <\/div>
+          <\/div>
+
+        <\/div>
+        <!-- END steps accordion -->
+        <h3>Shear Strength Calculation<\/h3>
+        <p>Once you have obtained the average shear force for the weak layer or interface, calculate the shear strength from the formula:<\/p>
+        <img src=\"images\/figures\/2-10b.svg\" alt=\"Shear Strength Calculation\" class=\"responsive-image formula-img-xl\">
+        <p>&nbsp;<\/p>
+        <p>where F<sub>average<\/sub> is the average shear force in newtons <i>(N),A<sub>frame<\/sub><\/i> is the area of the shear frame in m&sup2;, and <i>T<sub>frame<\/sub><\/i> is the shear strength of the layer in pascals (Pa). This calculation produces a shear strength that is dependent on the shear frame size (<i>T<sub>frame<\/sub>= T<sub>250<\/sub> or T<sub>100<\/sub><\/i>). For a value of shear strength that is independent of frame size use the
+        following equations (F&ouml;hn, 1987b; Jamieson, 1995):<\/p>
+        <img src=\"images\/figures\/2-10c.svg\" alt=\"calculation produces a shear strength that is dependent on the shear frame size\" class=\"responsive-image formula-img-lg\">
+        <p>&nbsp;<\/p>
+        <p>where <i>T<sub>&#8734;<\/sub><\/i> is the shear strength independent of shear frame size and <i>T<sub>250<\/sub><\/i> and <i>T<sub>100<\/sub><\/i> are the shear strengths measured with a 250 cm&sup2; and 100 cm&sup2; shear frame respectively.<\/p>
+        <h3>Stability Ratios<\/h3>
+        <p>The stability ratio is the shear strength of a layer divided by the overlying slab's weight per unit area. The stability ratio has a complex relationship with avalanche occurrence, but in general the lower the ratio the greater the likelihood of avalanches.<\/p>
+        <img src=\"images\/figures\/2-10d.svg\" alt=\"stability ratio calculation\" class=\"responsive-image formula-img\">
+        <p>&nbsp;<\/p>
+        <p>To determine the slab's weight per unit area, slide a small plate such as a putty knife or crystal card horizontally into the pit wall at a depth equal to the sampling tube length. Now slide the sampling tube vertically down through the surface until it strikes the plate. Excavate the sampling tube, taking care not to lose any snow out of the end of the tube. Transfer the contents of the sampling tube to a plastic bag for weighing. Divide the sample weight by the cross sectional area of the tube to calculate the slab weight per unit area. For weak layers deeper than the sampling tube length, use a stepped sampling method.<\/p>
+        <h3>Results<\/h3>
+        <p>The shear frame works best for thin weak layers or storm snow interfaces. Thick weak layers (i.e. depth hoar) tend not to produce consistent fracture planes. The shear frame works poorly in situations where very hard layers (i.e. wind slabs and crusts) are directly above weak layers. The problem is inserting the shear frame into the hard layer without fracturing the weak layer below. In addition, there is little operational experience and literature on the use of shear frames with wet snow. The shear frame is sensitive to user variability.<\/p>
+        <!-- END Section 6 -->
+        <h3>Shear Frame References<\/h3>
+        <p class=\"small\">F&ouml;hn, P.M.B., 1987: The stability index and various triggering mechanisms. Avalanche Formation, Movement, and Effects, In: B. Salm and H. Gubler, (eds.), <i>IAHS-AISH Publication No. 162, 195–211<\/i>.<br>
+          Jamieson, J.B., 1995: Avalanche prediction for persistent snow slabs, Ph.D. dissertation, University of Calgary, Alberta. 53–58.<br> Jamieson, J.B., and C.D. Johnston, 2001: Evaluation of the Shear Frame Test for weak snowpack layers. <i>Annals of Glaciology<\/i>, 32,
+          59–66.<br>
+          Perla, R.I., and T.M.K. Beck, 1983: Experience with shear frames.
+          Journal of Glaciology, 29, 485–491.<br>
+          Roch, A., 1966: Les variations de la resistence de la neige.
+          <i>Proceedings of the International Symposium on Scientific aspects of Snow and Ice Avalanches<\/i>. Gentbrugge, Belgium, IAHS Publication, 182–195.<\/p>
+        
+        <!-- END content -->
+      <\/div>
+    <\/main>"
+}

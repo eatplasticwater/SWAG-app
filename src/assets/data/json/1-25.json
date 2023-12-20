@@ -1,0 +1,17 @@
+{
+     "_id" :  "1-25",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.25 ACCUMULATED PRECIPITATION",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Accumulated precipitation gauges collect snowfall, rainfall and other forms of precipitation and continuously record their water equivalent. There are a variety of commercial gauges (both manual and automated) available.<\/p>
+          <h3>Procedure<\/h3>
+          <p>Record the amount of precipitation accumulated in the recording precipitation gauge to the nearest tenth of a millimeter (0.1 mm) or 0.01 of an inch. The amount of precipitation that fell during a single event can be obtained by taking the difference between the present reading and the previous reading.<\/p>
+          <!-- END 1st section -->
+         
+        <\/div>
+      <\/main>"
+}

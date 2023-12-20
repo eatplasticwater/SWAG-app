@@ -1,0 +1,29 @@
+{
+     "_id" :  "3-8",
+     "chapter" : "Chapter 3: AVALANCHE OBSERVATIONS",
+     "header" : "3.8 ADDITIONAL OBSERVATIONS",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Additional observations may be selected as applicable from those listed in this section. Certain additional observations are valuable in areas where avalanches are either mitigated or affect traffic and\/or communication lines.<\/p>
+          <hr>
+          <h2 id=\"3-8-1\">3.8.1 Avalanche Hazard Mitigation Missions<\/h2>
+          <h3 id=\"3-8-1-1\">3.8.1.1 Number of Explosive Charges \/ Number Of Detonations<\/h3>
+          <p>Record the number of projectiles or explosive charges applied to a target. Record the number of confirmed detonations. The difference in the two values gives a dud count.<\/p>
+          <h3 id=\"3-8-1-2\">3.8.1.2 Size of Explosive Charge<\/h3>
+          <p>Note the mass (kg) of the explosive charge used at each shot location.<\/p>
+          <hr>
+          <h2 id=\"3-8-2\">3.8.2 Road And Railway Operations<\/h2>
+          <h3 id=\"3-8-2-1\">3.8.2.1 Deposit on Road Or Railway<\/h3>
+          <p>Record in meters (feet) the length of road, railway line, ski run, power line, or other facility buried in avalanche debris.<\/p>
+          <p>Record average depth at center line and maximum depth of avalanche debris on the road, etc., in meters and tenths of a meter (feet\/inches). Add \"M\" when length and depth are measured.<\/p>
+          <h3 id=\"3-8-2-2\">3.8.2.2 Toe Mass Distance<\/h3>
+          <p>Measure or estimate the distance between the uphill edge of the road, or other development, and the farthest point reached by the mass of avalanche. Negative values are used when the deposited mass failed to reach the road or facility. Some operations may also wish to document the occurrence of snow dust on the road. Dust results from the fallout of an avalanche's powder cloud. Its main impact is on driver visibility.<\/p>
+          <h3 id=\"3-8-2-3\">3.8.2.3 Road \/ Line Status<\/h3>
+          <p>Transportation operations should record the status (open or closed) and danger rating (<a href=\"placeholder\">Appendix G<\/a>) in effect for any roads or railway lines at the time when the avalanche occurred. During closures due to mitigation missions or avalanche activity, the start and end time of the closure should be recorded.<\/p>
+          <!-- END 3rd section -->
+        <\/div>
+      <\/main>"
+}

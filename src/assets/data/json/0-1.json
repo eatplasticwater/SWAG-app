@@ -1,0 +1,93 @@
+{
+     "_id" :  "0-1",
+     "chapter" : "INTRODUCTION",
+     "header" : "PREFACE, ACKNOWLEDGEMENTS AND INTRODUCTION",
+     "icon" : "",
+     "contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START page navigation -->
+          <div class=\"list-group\">
+            <a href=\"#1-2\" class=\"list-group-item list-group-item-action\">Structure of This Manual<\/a>
+            <a href=\"#1-3\" class=\"list-group-item list-group-item-action\">Units<\/a>
+            <a href=\"#1-4\" class=\"list-group-item list-group-item-action\">Data Codes and Symbols<\/a>
+          <\/div>
+          <!-- END page navigation -->
+          <hr>
+          <!-- START first section -->
+          <p>This document contains a set of guidelines for observing and
+            recording snow, weather, and avalanche phenomena. These
+            guidelines were prepared for avalanche forecasting operations,
+            but can be applied to other programs as well. The guidelines are
+            presented as a resource of common methods and are intended
+            to promote efficient and fruitful communication among professional
+            operations and between research and operational
+            communities.<\/p>
+            <p>The observations presented in this manual were selected to support
+              active avalanche forecasting programs. Observing these
+              parameters will help avalanche forecasters make informed and
+              consistent decisions, provide current and accurate information,
+              and document methods and rationale for operational decisions.
+              Recording these parameters will assist program managers in
+              documenting and analyzing unusual events, applying pattern
+              recognition and statistical forecasting methods, and assisting
+              research into snow and avalanche phenomena. In addition, there
+              is often little snow and weather data collected in mountainous
+              areas, and data collected by avalanche forecasting programs can
+              be used in climatological and mountain systems research. Our
+              hope is that this manual will help forecasters carefully choose the
+              observations that support their programs, and that those observations
+              will generate consistent, high-quality data sets.<\/p>
+              <p>It is unlikely that any one operation will make all of the observations
+                outlined within this document. Individual program
+                managers should select a set of parameters that their staff can
+                observe routinely. Programs with specialized needs may have to
+                look elsewhere for information on additional observations. A set
+                of references is listed in Appendix A as a starting point.<\/p>
+          <!-- END first section -->
+          <hr>
+          <!-- START 2nd section -->
+          <h2 id=\"1-2\">Structure of This Manual<\/h2>
+          <p>This manual is divided into three chapters and nine appendices.
+            Within each chapter, methods for composing an observational
+            scheme are presented first. A standard observation is presented
+            next, and the remainder of each chapter is devoted to describing
+            detailed methods for observing and recording a particular phenomenon.
+            The appendices provide additional information without
+            distracting from the main topics within the manual.<\/p>
+          <!-- END 2nd section -->
+          <hr>
+          <!-- START 3rd section -->
+          <h2 id=\"1-3\">Units<\/h2>
+          <p>The avalanche community within the United States typically uses
+            a combination of English and International (SI) unit systems. In
+            this document we have attempted to adhere to the SI system
+            whenever possible. In the United States, personnel of avalanche
+            operations and users of their products may not be familiar with
+            all SI units. Individual programs should choose a unit system
+            that suits their particular application. A recommended system
+            of units, an alternative system of English units, and methods
+            for converting values between the two systems are presented in
+            Appendix B. The most noticeable deviation from the SI system is
+            the unit for elevation. In North America most topographic maps
+            use feet as the unit for elevation. Therefore the recommended
+            unit for elevation remains the foot. Throughout the document the
+            recommended unit appears in the text with the common alternative
+            unit adjacent in parentheses. Long-term data records should
+            be stored in the recommended system of units in Appendix B.
+            Data records submitted to a central database are assumed to
+            be in the recommended system unless otherwise stated in the
+            accompanying metadata file (<a href=\"#placeholder\">see Appendix C<\/a>).<\/p>
+          <!-- END 3rd section -->
+          <hr>
+          <h2 id=\"1-4\">Data Codes and Symbols<\/h2>
+          <p>Symbols and data codes for many of the observations in this
+            document appear in tables within each section. The use of these
+            codes will save space in field books and on log sheets. Many of
+            the codes in Chapter 1 follow conventions from the meteorological
+            community. The codes in Chapters 2 and 3 were chosen to
+            conform to common methods in the avalanche community and
+            to promote efficient communication.<\/p>
+        <\/div>
+      <\/main>"
+}

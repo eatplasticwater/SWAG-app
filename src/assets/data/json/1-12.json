@@ -1,0 +1,90 @@
+{
+     "_id" :  "1-12",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.12 SKY CONDITION",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Classify the amount of cloud cover and record it using the definitions in <a href=\"#table1-1Accordion\">Table 1.1<\/a>. Observers may select a separate data code for each cloud layer or one code for the total cloud cover.<\/p>
+          
+          <!-- START table 1-1 accordion -->
+          <div class=\"accordion\" id=\"table1-1Accordion\">
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"table1-1heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table1-1collapse\" aria-expanded=\"false\" aria-controls=\"table1-1collapse\">
+              Table 1.1 Sky Condition
+            <\/button>
+            <\/h2>
+            <div id=\"table1-1collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table1-1heading\" data-bs-parent=\"#table1-1Accordion\">
+            <div class=\"accordion-body\">
+              <div class=\"table-responsive\">
+              <h5 id=\"table-1-1\">Table 1.1 Sky Condition<\/h5>
+              <table class=\"table table table-bordered\">
+              <thead class=\"thead-light\">
+                <tr>
+                <th scope=\"col\">Class<\/th>
+                <th scope=\"col\">Symbol<\/th>
+                <th scope=\"col\">Data Code<\/th>
+                <th scope=\"col\">Definition<\/th>
+                <\/tr>
+              <\/thead>
+              <tbody>
+                <tr>
+                <td>Clear<\/td>
+                <td><img src=\"images\/tables\/1-1a.png\" class=\"icon\" alt=\"CLR icon\"><\/td>
+                <td>CLR<\/td>
+                <td>No clouds<\/td>
+                <\/tr>
+                <tr>
+                <td>Few<\/td>
+                <td><img src=\"images\/tables\/1-1b.png\" class=\"icon\" alt=\"FEW icon\"><\/td>
+                <td>FEW<\/td>
+                <td>Few clouds: up to 2\/8 of the sky is covered with clouds<\/td>
+                <\/tr>
+                <tr>
+                <td>Scattered<\/td>
+                  <td><img src=\"images\/tables\/1-1b.png\" class=\"icon\" alt=\"SCT icon\"><\/td>
+                  <td>SCT<\/td>
+                <td>Partially cloudy: 3\/8 to 4\/8 of the sky is covered with clouds<\/td>
+                <\/tr>
+                <tr>
+                <td>Broken<\/td>
+                  <td><img src=\"images\/tables\/1-1d.png\" class=\"icon\" alt=\"BKN icon\"><\/td>
+                  <td>BKN<\/td>
+                <td>Cloudy: more than half but not all of the sky is covered with <br>clouds (more than 4\/8 but less than 8\/8 cover)<\/td>
+                <\/tr>
+                <tr>
+                <td>Overcast<\/td>
+                  <td><img src=\"images\/tables\/1-1e.png\" class=\"icon\" alt=\"OVC icon\"><\/td>
+                  <td>OVC<\/td>
+                <td>Overcast: the sky is completely covered (8\/8 cover)<\/td>
+                <\/tr>
+                <tr>
+                <td>Obscured<\/td>
+                  <td><img src=\"images\/tables\/1-1f.png\" class=\"icon\" alt=\"CLR icon\"><\/td>
+                  <td>X<\/td>
+                <td>A surface-based layer (i.e. fog) or a non-cloud layer prevents <br>observer from seeing the sky<\/td>
+                <\/tr>
+                
+              <\/tbody>
+              <\/table>
+              <\/div>
+              <!-- END table01 -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <\/div>
+          <!-- END table 1-1 accordion -->
+          
+          <h3>Valley Fog\/Cloud<\/h3>
+          <p>Where valley fog or valley cloud exists below the observation site, estimate the elevation of the top and bottom of the fog layer in feet (meters) above sea level. Give the elevation to the nearest 100 ft (or 50 m). Data code: VF.<\/p>
+          <p><strong>Example:<\/strong> Clear sky with valley fog from 7,500 to 9,000 ft is coded as CLR VF 7500-9000.<\/p>
+          <h3>Thin Cloud<\/h3>
+          <p>The amount of cloud, not the opacity, is the primary classification criterion. Thin cloud has minimal opacity, such that the disk of the sun would still be clearly visible through the clouds if they were between the observer and the sun, and shadows would still be cast on the ground. When the sky condition features a thin scattered, broken or overcast cloud layer then precede the symbol with a dash.<\/p>
+          <p><strong>Example:<\/strong> A sky completely covered with thin clouds is coded as &ndash; OVC.<\/p>
+         <!-- END 1st section -->
+        <\/div>
+      <\/main>"
+}

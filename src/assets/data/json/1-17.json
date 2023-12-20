@@ -1,0 +1,16 @@
+{
+     "_id" :  "1-17",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.17 20 CM SNOW TEMPERATURE (T20)",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Dig into the snow deep enough to allow access to an area 20 cm (or 8 in) below the surface. Cut a shaded wall of the pit smooth and vertical. Shade the snow surface above the area where the sensor will rest in the snow. Cool the thermometer in the snow at the same height, but a different location than where the measurement will be taken. Insert the thermometer horizontally 20 cm (or 8 in) below the snow surface and allow it to adjust to the temperature of the snowpack. Once the sensor has reached equilibrium, read the thermometer while the sensor is still in the snow.<\/p>
+          <p>Record snow temperature to the nearest degree or fraction of a degree based on the accuracy and precision of the thermometer.<\/p>
+          <!-- END 1st section -->
+         
+        <\/div>
+      <\/main>"
+}

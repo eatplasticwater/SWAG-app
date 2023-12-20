@@ -1,0 +1,24 @@
+{
+  "projects": {
+    "dev": "dev-ion4fullpwa",
+    "basic": "basic-ionic-6-full-app",
+    "default": "swag-app-7d964"
+  },
+  "targets": {
+    "basic-ionic-6-full-app": {
+      "hosting": {
+        "02-2023-release": [
+          "basic-ionic-6-full-app"
+        ]
+      }
+    },
+    "dev-ion4fullpwa": {
+      "hosting": {
+        "02-2023-release": [
+          "dev-ionic-6-full-app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

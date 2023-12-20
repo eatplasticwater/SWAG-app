@@ -1,0 +1,36 @@
+{
+     "_id" :  "2-1",
+     "chapter" : "Chapter 2: SNOWPACK OBSERVATION",
+     "header" : "2.1 INTRODUCTION",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Information on the structure and stability of the snowpack within an area is essential to assessing current and future avalanche conditions. In certain applications, starting zones may be inaccessible and snowpack properties can be estimated with careful analysis of past and present weather and avalanche events. Snowpack parameters vary in time and space, and observation schemes should address these variations. Snowpack information is generally observed and recorded separately from the snow and weather observations outlined in Chapter 1. However, weather observations can be combined in many ways with snowpack observations (<a href=\"#figure2-1Accordion\">Figure 2.1<\/a>).
+          <\/p>
+          <!-- START figure 2-1 accordion -->
+          <div class=\"accordion\" id=\"figure2-1Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figure2-1heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-1collapse\" aria-expanded=\"false\" aria-controls=\"figure2-1collapse\">
+            Figure 2.1 Different approaches
+            <\/button>
+            <\/h2>
+            <div id=\"figure2-1collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-1heading\" data-bs-parent=\"#figure2-1Accordion\">
+            <!-- START image -->
+              <img src=\"images\/figures\/2-1.jpg\" class=\"img-fluid\" alt=\"Evidence of current blowing snow.\">
+              <div class=\"accordion-body\">
+              <p>There are many different approaches to observing snowpack properties. <\/p>
+              <p class=\"card-text\"><small class=\"text-muted\"> Illustration by Sue Ferguson<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure 2-1 accordion -->
+          <p>Broad objectives are outlined in <a href=\"#placeholder\">Section 2.2<\/a>. A set of standard parameters to be collected with any snowpack observation follows in <a href=\"#placeholder\">Section 2.3<\/a>. Snow profiles and snowpack measurements are described in Sections <a href=\"#placeholder\">2.4<\/a> and <a href=\"#placeholder\">2.5<\/a>. In <a href=\"#placeholder\">Section 2.6<\/a> methods for observing and recording shear quality are discussed. <a href=\"#placeholder\">Section 2.7<\/a> presents column and block stability tests; slope cuts are described in <a href=\"#placeholder\">Section 2.8<\/a>; non-standardized tests are described in <a href=\"#placeholder\">Section 2.9<\/a> and instrumented measures are listed in <a href=\"#placeholder\">Section 2.10<\/a>.<\/p>
+          <!-- END 3rd section -->
+        <\/div>
+      <\/main>"
+}

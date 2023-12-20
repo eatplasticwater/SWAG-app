@@ -1,0 +1,248 @@
+{
+     "_id" :  "2-8",
+     "chapter" : "Chapter 2: SNOWPACK OBSERVATION",
+     "header" : "2.8 SLOPE CUT TESTING",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START figures index accordion -->
+          <div class=\"accordion\" id=\"figureIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figureIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureIndexcollapse\" aria-expanded=\"false\" aria-controls=\"figureIndexcollapse\">
+            Figures
+            <\/button>
+            <\/h2>
+            <div id=\"figureIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureIndexheading\" data-bs-parent=\"#figureIndexAccordion\">
+            <!-- START table -->
+            <div class=\"list-group\">
+              <a href=\"#figure2-18Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.18 Slope cut<\/a>
+              <\/div>
+            <!-- END table -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figures index accordion -->
+          <!-- START tables index accordion -->
+          <div class=\"accordion\" id=\"tablesIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"tablesIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#tablesIndexcollapse\" aria-expanded=\"false\" aria-controls=\"tablesIndexcollapse\">
+            Tables
+            <\/button>
+            <\/h2>
+            <div id=\"tablesIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"tablesIndexheading\" data-bs-parent=\"#tablesIndexAccordion\">
+            <!-- START table -->
+            <div class=\"list-group\">
+              <a href=\"#table2-16Accordion\" class=\"list-group-item list-group-item-action\">table 2.16 Slope cut test<\/a>
+              
+            <\/div>
+            <!-- END table -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END tables index accordion -->
+          <hr>
+          <!-- START 1st section -->
+          <p>Slope cutting can provide valuable snowpack information. Safety is the primary concern when attempting slope cuts; inexperienced observers should not perform this type of testing. There are many approaches and tricks of the trade that can be applied to slope cutting. All of them are beyond the scope of this manual. Slope cutting techniques should only be taught in the field or as on the job training. More information on slope cuts can be found in Tremper (2008), McClung and Schaerer (2006) and Perla and Martinelli (1976).<\/p>
+          <!-- END 1st section -->
+          <h3>Objective<\/h3>
+          <p>Slope cutting can provide valuable information on snowpack stability. A tester attempts to initiate failure on a given slope by quickly applying a dynamic force (with skis, snowboard, snowmobile, etc.) to a test slope and then escaping to a safe location (<a href=\"#figure2-18Accordion\">Figure 2.18<\/a>).<\/p>
+          <!-- START figure 2-18 accordion -->
+          <div class=\"accordion\" id=\"figure2-18Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figure2-18heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-18collapse\" aria-expanded=\"false\" aria-controls=\"figure2-18collapse\">
+            Figure 2.18 Slope cut
+            <\/button>
+            <\/h2>
+            <div id=\"figure2-18collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-18heading\" data-bs-parent=\"#figure2-18Accordion\">
+            <!-- START image -->
+              <img src=\"images\/figures\/2-18.jpg\" class=\"img-fluid\" alt=\"Slope cut producing a small slab avalanche\">
+              <div class=\"accordion-body\">
+            <p>Slope cut producing a small slab avalanche.<\/p>
+            <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Bruce Tremper<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure 2-18 accordion -->
+          <!-- START 2nd section -->
+          <h3>Procedure<\/h3>
+          <!-- START steps accordion -->
+             <div class=\"accordion\" id=\"stepsAccordion\">
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading01\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01\" aria-expanded=\"false\" aria-controls=\"collapse01\">
+             1. Site Selection
+             <\/button>
+             <\/h2>
+             <div id=\"collapse01\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Choose a relatively small slope that is representative of the starting zones you wish to learn about.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading02\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02\" aria-expanded=\"false\" aria-controls=\"collapse02\">
+             2. Place observers
+             <\/button>
+             <\/h2>
+             <div id=\"collapse02\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+            Place one or more people in zones of safety that allow them to observe the entire cut and avalanche path, if possible.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading03\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03a\" aria-expanded=\"false\" aria-controls=\"collapse03a\">
+             3. Choose start zone
+             <\/button>
+             <\/h2>
+             <div id=\"collapse03a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+            Begin from a zone of safety.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading04\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04a\" aria-expanded=\"false\" aria-controls=\"collapse04a\">
+             4. Choose a line
+             <\/button>
+             <\/h2>
+             <div id=\"collapse04a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Examine the starting zone and choose a line that crosses relatively high on the slope and ends in a zone of safety.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading05\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05a\" aria-expanded=\"false\" aria-controls=\"collapse05a\">
+             5. Cross the slope
+             <\/button>
+             <\/h2>
+             <div id=\"collapse05a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Travel along the line maintaining enough speed to cross the slope in one fast motion. The tester can bounce or jump during the cut to increase the load on the slope.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading06\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06a\" aria-expanded=\"false\" aria-controls=\"collapse06a\">
+             6. Exit
+             <\/button>
+             <\/h2>
+             <div id=\"collapse06a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+           Exit the slope to a zone of safety.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <\/div>
+            <!-- END steps accordion -->
+            <h3>Results<\/h3>
+            <p>Record the results of the test using the data codes listed in <a href=\"#table2-16Accordion\">Table 2.16<\/a> along with the aspect and angle of the slope. When a slope cut produces a slab avalanche the avalanche size (Relative and\/or Destructive) can be included in the data code. Additional information about the terrain and resulting avalanche can be recorded in comments as needed.<\/p>
+            <!-- START table 2-16 accordion -->
+            <div class=\"accordion\" id=\"table2-16Accordion\">
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"table2-16heading\">
+              <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table2-16collapse\" aria-expanded=\"false\" aria-controls=\"table2-16collapse\">
+                Table 2.16 Slope Cut Test
+              <\/button>
+              <\/h2>
+              <div id=\"table2-16collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table2-16heading\" data-bs-parent=\"#table2-16Accordion\">
+              <div class=\"accordion-body\">
+               <!-- START table -->
+                 <div class=\"table-responsive\">
+                   <h5 id=\"table-2-9\">Table 2.16 Slope Cut Test Description and Data Codes<\/h5>
+                     <table class=\"table table-bordered\">
+                   <thead class=\"thead-light\">
+                       <tr>
+                     <th scope=\"col\">Term<\/th>
+                     <th scope=\"col\">Description<\/th>
+                     <th scope=\"col\">Data Code<\/th>
+                       <\/tr>
+                   <\/thead>
+                   <tbody>
+                       <tr>
+                     <th scope=\"row\">No release<\/th>
+                     <td>No result<\/td>
+                     <td>SCN<\/td>
+                     <\/tr>
+                     <tr>
+                     <th scope=\"row\">Whumpfing<\/th>
+                     <td>Slope cut produces a collapse in the snowpack<\/td>
+                     <td>SCW<\/td>
+                     <\/tr>
+                     <tr>
+                     <th scope=\"row\">Cracking<\/th>
+                     <td>Slope cut produces shooting cracks<\/td>
+                     <td>SCC<\/td>
+                     <\/tr>
+                     <tr>
+                       <th scope=\"row\">Avalanche Slab<\/th>
+                       <td>Slope cut produces a slab avalanche<\/td>
+                       <td>SCS<\/td>
+                     <\/tr>
+                     <tr>
+                       <th scope=\"row\">Avalanche Loose<\/th>
+                      <td>Slope cut produces a loose snow or sluff avalanche<\/td>
+                      <td>SCL<\/td>
+                     <\/tr>
+                   <\/tbody>
+                   <\/table>
+                 <\/div>
+                 <!-- END table -->
+              <\/div>
+              <\/div>
+            <\/div>
+            <\/div>
+            <!-- END table 2-16 accordion -->
+            
+            <h4>Example:<\/h4>
+            <!-- START table 2.5 -->
+            <div class=\"table-responsive\">
+              <table class=\"table table-bordered\">
+              <tbody class=\"table-striped\">
+                <tr>
+                <th scope=\"row\">SCW35NE<\/th>
+                <td>Test produced a collapse (whumpf) on a 35&deg; northeast-facing slope.<\/td>
+                <\/tr>
+                <tr>
+                <th scope=\"row\">SCL40S<\/th>
+                <td> Test produced a sluff on a 40&deg; south-facing slope.<\/td>
+                <\/tr>
+                <tr>
+                <th scope=\"row\">SCN30N<\/th>
+                <td>Test produced no result on a 30&deg; north-facing slope.<\/td>
+                <\/tr>
+                <tr>
+                  <th scope=\"row\">SCS45NWR3D2<\/th>
+                  <td>Test produced a slab avalanche on a 45&deg; northwest-facing slope. <br>
+                  The avalanche was medium size for the path but large enough to injure or kill a person.<\/td>
+                <\/tr>
+              <\/tbody>
+              <\/table>
+            <\/div>
+            <!-- END table 2.5 -->
+           
+              <!-- END Section 7 -->
+              
+          
+        <\/div>
+      <\/main>"
+}

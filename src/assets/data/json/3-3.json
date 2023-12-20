@@ -1,0 +1,36 @@
+{
+     "_id" :  "3-3",
+     "chapter" : "Chapter 3: AVALANCHE OBSERVATIONS",
+     "header" : "3.3 IDENTIFICATION OF AVALANCHE PATHS",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Avalanche paths should be identified by a key name, number, aspect, or a similar identifier which should be referred to on lists, maps, or photographs. For roads, railway lines, and power lines it is convenient to refer to avalanche paths by the running mile or kilometer. Every effort should be made to retain historical names. Changing historical names creates confusing records and decreases the usefulness of past data records. Historical paths that have multiple starting zones can be reclassified with subcategories of the original name. Any reclassification should be clearly explained in the metadata (see <a href=\"#placeholder\">Appendix C<\/a>).
+          <\/p>
+          <p>Avalanche paths with multiple starting zones are often divided into sub-zones. Separate targets for explosive placement may be identified within each starting zone (<a href=\"#figure3-1Accordion\">Figure 3.1<\/a>).<\/p>
+          <!-- START figure 3-1 accordion -->
+          <div class=\"accordion\" id=\"figure3-1Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figure3-1heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure3-1collapse\" aria-expanded=\"false\" aria-controls=\"figure3-1collapse\">
+            Figure 3.1 Slab avalanche
+            <\/button>
+            <\/h2>
+            <div id=\"figure3-1collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure3-1heading\" data-bs-parent=\"#figure3-1Accordion\">
+            <!-- START image -->
+              <img src=\"images\/figures\/3-1.jpg\" class=\"img-fluid\" alt=\"Explosive triggered slab avalanche. \">
+              <div class=\"accordion-body\">
+            <p>Explosive triggered slab avalanche. <\/p>
+               <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Matt Steen<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure 3-1 accordion -->
+          <!-- END 3rd section -->
+        <\/div>
+      <\/main>"
+}

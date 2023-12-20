@@ -1,0 +1,18 @@
+{
+     "_id" :  "1-15",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.15 RELATIVE HUMIDITY (RH)",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Read the relative humidity to the nearest one percent (1%) from the hygrograph or weather station output.<\/p>
+            <p>The accuracy of relative humidity measurements decreases at low temperatures. Furthermore, the accuracy of any mechanical hygrograph is unlikely to be better than five percent (5%) but trends may be important, especially at high RH values. Refer to <a href=\"#placeholder\">Appendix D<\/a> for information on exposure issues and relative humidity measurements.<\/p>
+            <p>Depending on location, humidity measurements may be more relevant from mid-slope or upper-elevation sites than from valleybottom sites.<\/p>
+            <p>Hygrographs should be calibrated at the beginning of each season, mid-season, and after every time the instrument is moved. Calibration is most important when data from multiple instruments are compared with each other. The simplest calibration method is to make a relative humidity measurement near the instrument shelter with a psychrometer (aspirated or sling). Calibration should be done midday or at a time when the air temperature is relatively stable. Psychrometer measurements are easier to perform when the air temperature is near or above freezing.<\/p>
+          <!-- END 1st section -->
+         
+        <\/div>
+      <\/main>"
+}

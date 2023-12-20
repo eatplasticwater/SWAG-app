@@ -1,0 +1,178 @@
+{
+     "_id" :  "1-22",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.22 WATER EQUIVALENT OF NEW SNOW (HN24W)",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START sections index accordion -->
+          <div class=\"accordion\" id=\"sectionIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"sectionIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#sectionIndexcollapse\" aria-expanded=\"false\" aria-controls=\"sectionIndexcollapse\">
+            Sections
+            <\/button>
+            <\/h2>
+            <div id=\"sectionIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"sectionIndexheading\" data-bs-parent=\"#sectionIndexAccordion\">
+            <!-- START table -->
+            <!-- START page navigation -->
+            <div class=\"list-group\">
+              <a href=\"#weighing\" class=\"list-group-item list-group-item-action\">Method 1 Snow Board Tube and Weighing Scale<\/a>
+              <a href=\"#melting\" class=\"list-group-item list-group-item-action\">Method 2 Melting the Snow Sample<\/a>
+              <a href=\"#indirect\" class=\"list-group-item list-group-item-action\">Method 3 Indirect Method<\/a>
+            <\/div>
+            <!-- END page navigation -->
+              <!-- END table -->
+            <\/div>
+            <\/div>
+            <\/div>
+          <!-- END sections index accordion -->
+          
+          <hr>
+          <!-- START 1st section -->
+          <p>The water equivalent is the depth of the layer of water that would form if the snow on the board melted. It is equal to the amount of liquid precipitation. The standard morning observation includes the water equivalent of the new snow on a 24-hour interval. The same snow board used for a 24-hour or other interval measurement should be used to calculate the water equivalent. There are several suitable methods for making this measurement. Three different methods are described in the following section.<\/p>
+          
+          <h3>Procedure<\/h3>
+          <p>Use one of the following methods to calculate the water equivalent of the new snow. Record the value to the nearest 0.1 mm (or 0.01 in). Make several measurements and report the average value. Record \"T\" (signifying a trace) when the snow depth is less than 1 cm (or 0.5 in). If there is no new snow, record a zero. Do not consider surface hoar on the boards as snowfall; clear off hoar layer after observation.<\/p>
+          
+          <h3 id=\"weighing\">Snow Board Tube and Weighing Scale<\/h3>
+          <!-- START steps accordion -->
+           <div class=\"accordion\" id=\"stepsAccordion\">
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading01\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01\" aria-expanded=\"false\" aria-controls=\"collapse01\">
+             Step 1 Cooling the tube
+             <\/button>
+             <\/h2>
+             <div id=\"collapse01\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Cool the measurement tube in the shade prior to making the measurement and tare the empty tube on the scale
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading02\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02\" aria-expanded=\"false\" aria-controls=\"collapse02\">
+             Step 2 Holding the tube
+             <\/button>
+             <\/h2>
+             <div id=\"collapse02\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Hold the tube vertically above the surface of the snow on the snow board
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading03\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03a\" aria-expanded=\"false\" aria-controls=\"collapse03a\">
+             Step 3 Pressing the tube
+             <\/button>
+             <\/h2>
+             <div id=\"collapse03a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Press the tube into the snow at a slow and constant rate until it hits the base plate of the snow board
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading04\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04a\" aria-expanded=\"false\" aria-controls=\"collapse04a\">
+             Step 4 Recording
+             <\/button>
+             <\/h2>
+             <div id=\"collapse04a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Record the height of the snow sample in the tube
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading05\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05a\" aria-expanded=\"false\" aria-controls=\"collapse05a\">
+             Step 5 Isolating the tube
+             <\/button>
+             <\/h2>
+             <div id=\"collapse05a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Remove the snow next to one side of the tube with a large
+             putty knife or scraper
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading06\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06a\" aria-expanded=\"false\" aria-controls=\"collapse06a\">
+            Step 6 Sliding the putty knife
+             <\/button>
+             <\/h2>
+             <div id=\"collapse06a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Slide putty knife under the tube and remove the sample
+             from the board
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading07\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse07a\" aria-expanded=\"false\" aria-controls=\"collapse07a\">
+            Step 7 Weighing the sample
+             <\/button>
+             <\/h2>
+             <div id=\"collapse07a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading07\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             <p>Weigh the sample and read the water content from  the scale, or use the equation listed below, or the SWE nomogram in <a href=\"#placeholder\">Appendix I<\/a><\/p>
+             <img src=\"images\/figures\/1-22.svg\" alt=\"Formula for Water Equivalent\" class=\"image-responsive\">
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading08\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse08a\" aria-expanded=\"false\" aria-controls=\"collapse08a\">
+            Step 8 Repeat
+             <\/button>
+             <\/h2>
+             <div id=\"collapse08a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading08\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Repeat and record the average of several measurements to the nearest 0.1 mm (or 0.01 in)
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading09\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse09a\" aria-expanded=\"false\" aria-controls=\"collapse09a\">
+             Step 9 Record
+             <\/button>
+             <\/h2>
+             <div id=\"collapse09a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading09\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Record the measurement by indicating the snow board it was taken from. For example, HN24W is the water equivalent of the snow on the HN24 board
+             <\/div>
+             <\/div>
+             <\/div>
+             
+           <\/div>
+            <!-- END steps accordion -->
+            
+            <h3 id=\"melting\">Melting the Snow Sample<\/h3>
+            <p>The water equivalent of the new snow can be obtained by melting a sample of snow and measuring the resulting amount of melt water. The height of the melt water in mm (in) is the water equivalent of the sample. When using this method, the base area of the snow sample and the melted sample must remain the same.<\/p>   
+            
+            <h3 id =\"indirect\">Indirect Method<\/h3>
+            <p>The water equivalent of snow can also be obtained by weighing a snow sample of known cross-sectional area. Water equivalent is calculated by using the following equation:<\/p>  
+            
+            <img src=\"images\/figures\/1-22.svg\" alt=\"Formula for Water Equivalent\" class=\"image-responsive formula-img\">
+            <p>&nbsp;<\/p>
+            <p>This method is commonly used by avalanche operations because of its ease (Note: 1 cm3 of water has a mass of 1 g). The expanded equation is in <a href=\"#placeholder\">Appendix B, Section B.5<\/a>.<\/p>      
+            
+        <\/div>
+      <\/main>"
+}

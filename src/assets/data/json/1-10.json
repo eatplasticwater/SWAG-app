@@ -1,0 +1,15 @@
+{
+     "_id" :  "1-10",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.10 DATE",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Record the year, month and day. Avoid spaces, commas etc.; i.e. December 5, 2022, is noted as 20221205 (YYYYMMDD). This representation of the date is conducive to automated sorting routines.<\/p>
+          <!-- END 1st section -->
+         
+        <\/div>
+      <\/main>"
+}

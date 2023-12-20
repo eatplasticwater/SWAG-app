@@ -1,0 +1,101 @@
+
+      <!-- START SWAG content -->
+      <main>
+        <div class="container-lg">
+          <!-- START sections index accordion -->
+          <ion-accordion-group>
+                <ion-accordion value="sections" class="standalone-accordion">
+                      <ion-item slot="header" color="tertiary">
+                            <ion-label>Sections</ion-label>
+                      </ion-item>
+                      <div class="ion-padding" slot="content"><!-- START page navigation -->
+                            <div class="list-group">
+                              <a onclick="document.getElementById('1-21-1').scrollIntoView(true);" class="list-group-item list-group-item-action">1.21.1 Snow Board Naming Conventions</a>
+                            </div>
+                            <!-- END page navigation --></div>
+                </ion-accordion>
+          </ion-accordion-group>
+          <!-- END sections index accordion -->
+          
+          <!-- START 1st section -->
+          <hr>
+          <p>The new snow measurement in the standard morning observation uses a 24-hour interval. Many operations will find it useful to observe snowfall on more than one interval. However, the 24-hour interval snow board should only be used for 24-hour observations. Additional snow boards should be added for additional observations as necessary. It is highly recommended that both 24-hour and Storm intervals be observed by operations that maintain a study plot. Other commonly used intervals appear in the Snow Board Naming Convention <a href="/swag-content/1-21">Section 1.21.1</a>.</p>
+          
+          <p>New snow measurements should be made on a snow board <a onclick="document.getElementById('1-3').scrollIntoView(true);">Figure 1.3</a>). The base plate should have minimum dimensions of 40 cm x 40 cm (or 15 in x 15 in), with an attached rod of 1 m (or 3 ft) in length. Larger boards (60 cm x 60 cm) provide more room to make measurements. The base plate and rod should be painted white to reduce the effects of solar heating.</p>
+          <!-- START figure 1-3 accordion -->
+              <ion-accordion-group id="1-3">
+                    <ion-accordion value="figure" class="standalone-accordion">
+                          <ion-item slot="header" color="tertiary">
+                                <ion-label>Figure 1.3 Snow boards</ion-label>
+                          </ion-item>
+                          <div slot="content">
+                                <!-- START image -->
+                                  <img src="/assets/images/figures/1-3.jpg" class="img-fluid" alt="Snow board graduated in centimeters">
+                                  <img src="/assets/images/figures/1-3b.jpg" class="img-fluid" alt="Snow board graduated in inches">
+                                  <div class="accordion-body">
+                                  <p>Top: Snow board graduated in centimeters. <br>Bottom: Automated snow board and snow board graduated in inches. </p>
+                                  <p class="card-text"><img src="/assets/images/icons/camera.svg" alt="Icon: Camera" style="margin:2px !important"><small class="text-muted">Tom Leonard</small></p>
+                                  </div>
+                                <!-- END image -->
+                                <hr>
+                          </div>
+                    </ion-accordion>
+              </ion-accordion-group>
+              <!-- END figure 1-3 accordion -->
+          <h3>Procedure</h3>
+          <p>Use a ruler graduated in centimeters (or inches) to measure the depth of snow accumulated on the snow board. Take measurements in several spots on the board. Calculate the average of the measurements and record to the nearest cm (in). Record "T" (signifying a trace) when the depth is less than 1 cm (or 0.5 in), or when snow fell but did not accumulate. If there is no new snow, record zero. Do not consider surface hoar on the boards as snowfall; clear off hoar layer after observation. If both rain and snow fell, it should be noted in the remarks.</p>
+          <p>The sample on the snow board can also be used to measure the water equivalent of new snow (<a href="/swag-content/1-22">Section 1.22</a>). Once the observations are complete, redeposit the snow in the depression left by the snow board, adding additional snow if necessary to reposition the board level with the surrounding snow surface.</p>
+          <p>If the snow board was not level, the measurement should be made normal to the surface of the board.</p>
+          <hr>
+          <h2 id="1-21-1">1.21.1 Snow Board Naming Conventions</h2>
+          <p>The following conventions can be used to identify snow boards used for different interval measurements.</p>
+          
+          <!-- START steps accordion -->
+           <ion-accordion-group>
+                 <ion-accordion value="first">
+                       <ion-item slot="header" color="light">
+                             <ion-label>HN24—24-hour Board</ion-label>
+                       </ion-item>
+                       <div class="ion-padding" slot="content">The HN24 board is used to measure snow that has been deposited over a 24-hour period. It is cleared at the end of the morning standard observation.</div>
+                 </ion-accordion>
+           
+                 <ion-accordion value="second">
+                       <ion-item slot="header" color="light">
+                             <ion-label>HST—Storm Board</ion-label>
+                       </ion-item>
+                       <div class="ion-padding" slot="content">Storm snowfall is the depth of snow that has accumulated since the beginning of a storm period. The storm board is cleared at the end of a standard observation prior to the next storm and after useful settlement observations have been obtained. The symbol "c" is appended to the recorded data when the storm board is cleared.</div>
+                 </ion-accordion>
+           
+                 <ion-accordion value="third">
+                       <ion-item slot="header" color="light">
+                             <ion-label>H2D—Twice-a-Day Board</ion-label>
+                       </ion-item>
+                       <div class="ion-padding" slot="content">An H2D board is used when standard observations are made twice a day. In this case both the HN24 and H2D boards should be cleared in the morning and then the H2D board is cleared again in the afternoon.</div>
+                 </ion-accordion>
+           
+                 <ion-accordion value="fourth">
+                       <ion-item slot="header" color="light">
+                             <ion-label>HSB—Shoot Board</ion-label>
+                       </ion-item>
+                       <div class="ion-padding" slot="content">The shoot board holds the snow accumulated since the last time avalanches were shot with explosives. The symbol "c" is appended to the recorded data when the shoot board is cleared.</div>
+                 </ion-accordion>
+           
+                 <ion-accordion value="fifth">
+                       <ion-item slot="header" color="light">
+                             <ion-label>HIN—Interval Board</ion-label>
+                       </ion-item>
+                       <div class="ion-padding" slot="content">An interval board is used to measure the accumulated snow in periods shorter than the time between standard observations. The interval board is cleared at the end of every observation.</div>
+                 </ion-accordion>
+           
+                 <ion-accordion value="sixth">
+                       <ion-item slot="header" color="light">
+                             <ion-label>HIT—Intermittent Board</ion-label>
+                       </ion-item>
+                       <div class="ion-padding" slot="content">Snow boards may be used at sites that are visited on an occasional basis. Snow that accumulates on the board may result from more than one storm. The intermittent snow board is cleared at the end of each observation.</div>
+                 </ion-accordion>
+           
+           </ion-accordion-group>
+            <!-- END steps accordion -->
+          
+        </div>
+            </main>

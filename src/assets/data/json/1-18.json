@@ -1,0 +1,59 @@
+{
+     "_id" :  "1-18",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.18 SURFACE PENETRABILITY (P)",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>An indication of the snowpack's ability to support a given load and a relative measure of snow available for wind transport can be gained from surface penetrability measurements. There are several common methods for examining surface penetration. Ram penetration is the preferred method of observation because it produces more consistent results than ski or foot penetration. When performing foot or ski penetration on an incline, average the uphill and downhill depths of the track.<\/p>
+          
+          <h3>Procedure<\/h3>
+          <!-- START steps accordion -->
+           <div class=\"accordion\" id=\"stepsAccordion\">
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading01\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01\" aria-expanded=\"false\" aria-controls=\"collapse01\">
+             Ram Penetration (PR)
+             <\/button>
+             <\/h2>
+             <div id=\"collapse01\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Let the first section of a standard Ram Penetrometer (cone diameter 40 mm, apex angle 60&deg; and mass 1 kg) penetrate the snow slowly under its own weight by holding it vertically with the tip touching the snow surface and dropping it. Read the depth of penetration in centimeters.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading02\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02\" aria-expanded=\"false\" aria-controls=\"collapse02\">
+             Foot Penetration (PF)
+             <\/button>
+             <\/h2>
+             <div id=\"collapse02\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             <p>Step into undisturbed snow and gently put full body weight on one foot. Measure the depth of the footprint to the nearest centimeter (or whole inch) from 0 to 5 cm and thereafter, to the nearest increment of 5 cm (or 2 in)<\/p>
+             <p>The footprint depth varies between observers. It is recommended that all observers working on the same program compare their foot penetration. Observers who consistently produce penetrations more than 10 cm (or 4 in) above or below the average should not record foot penetrations.<\/p>
+             <\/div>
+             <\/div>
+             <\/div>
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading03\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03a\" aria-expanded=\"false\" aria-controls=\"collapse03a\">
+             Ski Penetration (PS)
+             <\/button>
+             <\/h2>
+             <div id=\"collapse03a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             <p>Step into undisturbed snow and gently put full body weight on one ski. Measure the depth of the ski track from its centerline to the nearest centimeter (or whole inch) from 0 to 5 cm and thereafter, to the nearest increment of 5 cm (or 2 in).<\/p>
+               <p>Ski penetration is sensitive to the weight of the observer and the surface area of the ski.<\/p>
+             <\/div>
+             <\/div>
+             <\/div>
+           <\/div>
+            <!-- END steps accordion -->
+        <\/div>
+      <\/main>"
+}

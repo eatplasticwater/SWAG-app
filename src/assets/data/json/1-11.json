@@ -1,0 +1,15 @@
+{
+     "_id" :  "1-11",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.11 TIME",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Record the time of observation using a 24-hour clock (avoid spaces, colons etc.) (i.e. 5:10 p.m. is noted as 1710). Use local standard time (i.e. Pacific, Mountain, etc. as appropriate). Operations that overlap time zones should standardize to one time.<\/p>
+          <!-- END 1st section -->
+         
+        <\/div>
+      <\/main>"
+}

@@ -1,0 +1,48 @@
+    <!-- START SWAG content -->
+      <main>
+        <div class="container-lg">
+          <!-- START sections index accordion -->
+          <ion-accordion-group>
+              <ion-accordion value="sections" class="standalone-accordion">
+                  <ion-item slot="header" color="tertiary">
+                      <ion-label>Sections</ion-label>
+                  </ion-item>
+                  <div class="ion-padding" slot="content">
+                      <a onclick="document.getElementById('e-1').scrollIntoView(true);" class="list-group-item list-group-item-action">E.1 Introduction</a>
+                      <a onclick="document.getElementById('e-2').scrollIntoView(true);" class="list-group-item list-group-item-action">E.2 Objectives</a>
+                      <a onclick="document.getElementById('e-3').scrollIntoView(true);" class="list-group-item list-group-item-action">E.3 Combining Manual And Automated Data</a>
+                      <a onclick="document.getElementById('e-4').scrollIntoView(true);" class="list-group-item list-group-item-action">E.4 Sampling Rates and Averaging Periods</a></div>
+              </ion-accordion>
+          </ion-accordion-group>
+          <!-- END sections index accordion -->
+          <hr>
+          <h2 id="e-1">E.1 Introduction</h2>
+          <p>Automated measurements of snow and weather phenomena are extremely useful components of an observational record (World Meteorological Organization No. 8, 2018). Automated sites pro- vide an uninterrupted record and yield information about areas that are not commonly visited. Automated measurements allow observers to fill in the periods between manual observations, and may provide key information that would otherwise be missed. In many cases it may be more practical to maintain a weather record that is a combination of manual and automated measurements. When possible, automated measurements should be used to augment and not replace manual observations.</p>
+          <hr>
+          <h2 id="e-2">E.2 Objectives</h2>
+          <p>The purpose of this Appendix is to:</p>
+          <ul class="list-group">
+            <li>Establish common methods for recording and reporting
+              data collected by automated stations</li>
+            <li>Encourage uniformity of measurements</li>
+            <li>Provide methods for combining manual and automated
+              data</li>
+            <li>Encourage methods that produce data that is compatible
+              with other long-term records</li>
+          </ul>
+          <hr>
+          <h2 id="e-3">E.3 Combining Manual and Automated Data</h2>
+          <p>Maintaining a separate manual and automated data record is generally preferred. Replacing manual observations with auto- mated measurements should only be employed when the operation headquarters are a significant distance from the avalanche terrain, or if access to a study site is unreliable.</p>
+          <p>Daily weather summaries that include a combination of manual observations and automated measurements are often useful for operations that make decisions based on these data. This practice is not a problem until the data set is transmitted to another user or central database. Manual and automated records can be co-located as long as a careful record of the source and type of measurement is present in the metadata file (see <a href="/swag-content/5-3">Appendix C</a>). However, maintaining separate manual and automated data records is recommended.</p>
+          <p>The most common parameters obtained from automated weather stations are wind speed, wind direction, and temperature. Automated measurements of precipitation and total snow depth have become more common with improvements in sensors. Automated depth sensors can be used to record valuable interval measurements at stations that can not be visited regularly.</p>
+          <p>Values for wind speed and direction for daily observation sheets can be obtained by recording the hourly average from the period during which the manual observations were made. Maximum and minimum temperatures can also be obtained from an automated station provided that system explicitly records these values. The 24-hour maximum and minimum temperature should be averages of a period no longer than one minute (WMO, 1996).</p>
+          <hr>
+          <h2 id="e-4">E.4 Sampling Rates and Averaging Periods</h2>
+          <p>The time interval between measurements (sampling rate) is an important and complex issue. Avalanche forecasting operations typically use a sampling rate of 3 to 5 seconds for temperature, wind, relative humidity, and pressure measurements. However, longer execution intervals (up to 60 sec) may be necessary at remote stations where power is limited. Precipitation measurement rates will depend on the instrument. Snow depth sensors can be sampled at the same rate that data is stored (i.e. 10 minute, 1 hour, etc.). Other precipitation sensors may require the computation of a running total rather than an average. These are practical solutions that work for many applications. Operations that require more robust sampling schemes are referred to World Meteorological Organization Publication No. 8 (see <a href="/swag-content/5-1">Appendix A</a> for full reference).</p>
+          <p>Power constraints may dictate sampling schemes in remote locations. If these issues prevent continuous sampling, measurements can be sampled for 5 minutes before the hour and data can be recorded and reported on the hour.</p>
+          <p>The period over which a parameter is averaged depends upon the application. Many avalanche forecasting operations find it useful to look at averages of 5- 10- or 15-minute periods. These short interval averages will be most useful during storm periods, while one-hour averages are more useful for daily operations. Parameters stored in six-hour averages will conform to other long-term records such as climatic datasets. It is recommended that one-hour averages be stored as the long-term record.</p>
+          <p>Most parameters measured at automated weather stations can be averaged with a simple arithmetic scheme. Wind direction is the most notable exception. Wind direction averages must be computed with a scheme that accounts for the circular nature of the values. Most data logger programming structures have a specific averaging scheme for these data. Otherwise it is common practice to use a vector representation of wind and average its two horizontal components (Fisher, 1993: p. 31).</p>
+          
+          
+        </div>
+            </main>

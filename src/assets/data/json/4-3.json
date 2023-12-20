@@ -1,0 +1,139 @@
+{
+     "_id" :  "4-3",
+     "chapter" : "",
+     "header" : "APPENDIX C: METADATA",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START sections index accordion -->
+          <div class=\"accordion\" id=\"sectionIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"sectionIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#sectionIndexcollapse\" aria-expanded=\"false\" aria-controls=\"sectionIndexcollapse\">
+            Sections
+            <\/button>
+            <\/h2>
+            <div id=\"sectionIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"sectionIndexheading\" data-bs-parent=\"#sectionIndexAccordion\">
+            <a href=\"#b-1\" class=\"list-group-item list-group-item-action\">C.1 Introduction<\/a>
+            <a href=\"#b-2\" class=\"list-group-item list-group-item-action\">C.2 File Format and Content<\/a>
+            <a href=\"#b-3\" class=\"list-group-item list-group-item-action\">C.3 Metadata Example for Meteorological Observation Sites<\/a>
+            <\/div>
+            <\/div>
+            <\/div>
+          <!-- END sections index accordion -->
+          <hr>
+          <h2 id=\"c-1\">C.1 Introduction<\/h2>
+          <p>Metadata is information about data (data about data). It is an integral part of maintaining a long-term record. Metadata pro- vides a chronology of methods used to obtain a dataset and can provide important information for observers and data users alike.<\/p>
+          <hr>
+          <h2 id=\"c-2\">C.2 File Format and Content<\/h2>
+          <p>There is no clear method for collecting and recording metadata. What should be recorded and how to record it depends on the application. For avalanche operations we recommend maintaining a \"field book\" for each observation site. This field book could be an actual book stored at the site or an electronic or paper file stored in an office. An example of commonly recorded metadata fields for a meteorological site are listed in <a href=\"placeholder\">Section C.3<\/a>.<\/p>
+          <p>A metadata file should contain a basic description of the observation site. This includes, but is not limited to, location, aspect, elevation and exposure. A photographic record of the site and changes to the site may be useful. A description of each instrument should be included. Metadata files should also contain a record of site maintenance (e.g. new tower, growth\/removal surrounding vegetation) and instrument calibration; and a list of measurements made at the site should be in the order that they are listed in the record or data file. Data is assumed to be in the recommended system of international units listed in Appendix B unless other units are specified in the metadata file. Metadata and data archives should be stored and formatted to facilitate efficient retrieval.<\/p>
+          <hr>
+          <h2 id=\"c-3\">C.3 Metadata Example for Meteorological Observation Sites<\/h2>
+          <ol  class=\"list-group\">
+            <li class=\"li-glossary\">Site
+              <ol  class=\"list-group\" type=\"a\">
+                <li class=\"li-glossary\">Station\/site name\/site ID<\/li>
+                <li class=\"li-glossary\">Lock combination<\/li>
+                <li class=\"li-glossary\">Lat \/ Lon (map datum: NAD27 or NAD83\/ WSG84) or UTM<\/li>
+                <li class=\"li-glossary\">Elevation<\/li>
+                <li class=\"li-glossary\">Aspect<\/li>
+                <li class=\"li-glossary\">Slope angle<\/li>
+                <li class=\"li-glossary\">Photographs from each aspect<\/li>
+                <li class=\"li-glossary\">Changes to site (date and type)<\/li>
+                <li class=\"li-glossary\">Comments<\/li>
+              <\/ol>
+            <\/li>
+            <li class=\"li-glossary\">Operation Status
+              <ol  class=\"list-group\" type=\"a\">
+                <li class=\"li-glossary\">Year-round<\/li>
+                <li class=\"li-glossary\">Seasonal<\/li>
+                <li class=\"li-glossary\">Special<\/li>
+                <li class=\"li-glossary\">Start date<\/li>
+                <li class=\"li-glossary\">End date<\/li>
+              <\/ol>
+            <\/li>
+            <li class=\"li-glossary\">Type
+              <ol  class=\"list-group\" type=\"a\">
+                <li class=\"li-glossary\">Study plot<\/li>
+                <li class=\"li-glossary\">Mountaintop<\/li>
+                <li class=\"li-glossary\">Ridgetop<\/li>
+              <\/ol>
+            <\/li>
+            <li class=\"li-glossary\">Power
+              <ol  class=\"list-group\" type=\"a\">
+                <li class=\"li-glossary\">None<\/li>
+                <li class=\"li-glossary\">Solar\/battery<\/li>
+                <li class=\"li-glossary\">AC<\/li>
+              <\/ol>
+            <\/li>
+            <li class=\"li-glossary\">Sensors
+              <ol  class=\"list-group\" type=\"a\">
+                <li class=\"li-glossary\">Properties
+                  <ol  class=\"list-group\" type=\"i\">
+                    <li class=\"li-glossary\">Make<\/li>
+                    <li class=\"li-glossary\">Model<\/li>
+                    <li class=\"li-glossary\">Serial Number<\/li>
+                    <li class=\"li-glossary\">Type<\/li>
+                  <\/ol>
+                <\/li>
+                <li class=\"li-glossary\">Installation
+                  <ol  class=\"list-group\" type=\"i\">
+                    <li class=\"li-glossary\">Height above ground<\/li>
+                    <li class=\"li-glossary\">Distance from tower or obstacle<\/li>
+                    <li class=\"li-glossary\">Date installed<\/li>
+                    <li class=\"li-glossary\">Sampling rate<\/li>
+                    <li class=\"li-glossary\">Average length and technique<\/li>
+                    <li class=\"li-glossary\">Service and calibration dates<\/li>
+                    <li class=\"li-glossary\">Units of stored values<\/li>
+                    <li class=\"li-glossary\">Comments<\/li>
+                  <\/ol>
+                <\/li>
+              <\/ol>
+            <\/li>
+            <li class=\"li-glossary\">Data loggers
+              <ol  class=\"list-group\" type=\"a\">
+                <li class=\"li-glossary\">Brand<\/li>
+                <li class=\"li-glossary\">Model<\/li>
+                <li class=\"li-glossary\">Serial number<\/li>
+                <li class=\"li-glossary\">Type<\/li>
+                <li class=\"li-glossary\">Acquisition date<\/li>
+                <li class=\"li-glossary\">Service dates<\/li>
+                <li class=\"li-glossary\">Comments<\/li>
+              <\/ol>
+            <\/li>
+            <li class=\"li-glossary\">Data Retrieval
+              <ol  class=\"list-group\" type=\"a\">
+                <li class=\"li-glossary\">Direct-manual<\/li>
+                <li class=\"li-glossary\">Radio telemetry<\/li>
+                <li class=\"li-glossary\">Cellular phone<\/li>
+                <li class=\"li-glossary\">Telephone<\/li>
+                <li class=\"li-glossary\">Short haul modem<\/li>
+                <li class=\"li-glossary\">Satellite<\/li>
+              <\/ol>
+            <\/li>
+            <li class=\"li-glossary\">Software
+              <ol  class=\"list-group\" type=\"a\">
+                <li class=\"li-glossary\">Product name<\/li>
+                <li class=\"li-glossary\">Version number<\/li>
+                <li class=\"li-glossary\">Program name<\/li>
+                <li class=\"li-glossary\">Installation date<\/li>
+                <li class=\"li-glossary\">Upgrade date<\/li>
+                <li class=\"li-glossary\">Comments<\/li>
+              <\/ol>
+            <\/li>
+            <li class=\"li-glossary\">Observer Contact Information
+              <ol  class=\"list-group\" type=\"a\">
+                <li class=\"li-glossary\">Name<\/li>
+                <li class=\"li-glossary\">Agency<\/li>
+                <li class=\"li-glossary\">Address<\/li>
+                <li class=\"li-glossary\">Telephone<\/li>
+                <li class=\"li-glossary\">Email<\/li>
+              <\/ol>
+            <\/li>
+          <\/ol>
+          
+        <\/div>
+      <\/main>"
+}

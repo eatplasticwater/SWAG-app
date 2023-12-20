@@ -1,0 +1,149 @@
+{
+     "_id" :  "1-19",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.19 FORM <i>(F)<\/i> AND SIZE <i>(E)<\/i> OF SURFACE SNOW",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Record the form and size in millimeters of snow grains at the surface using the International Classification for Seasonal Snow on the Ground, (Fierz and others, 2009) basic classification (<a href=\"#table1-6Accordion\">Table 1.6<\/a>).<\/p>
+          <!-- START table 1-6 accordion -->
+          <div class=\"accordion\" id=\"table1-6Accordion\">
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"table1-6heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table1-6collapse\" aria-expanded=\"false\" aria-controls=\"table1-6collapse\">
+              Table 1.6 Snow on the Ground
+            <\/button>
+            <\/h2>
+            <div id=\"table1-6collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table1-6heading\" data-bs-parent=\"#table1-6Accordion\">
+            <div class=\"accordion-body\">
+              <!-- START table 1-6 -->
+               <div class=\"table-responsive\">
+              <h5 id=\"table-1-6\">Table 1.6 Basic Classification of <br>Snow on the Ground<\/h5>
+              <table class=\"table table-bordered\">
+              <thead class=\"thead-light\">
+                <tr>
+                <th scope=\"col\">Symbol<\/th>
+                <th scope=\"col\">Description<\/th>
+                <th scope=\"col\">Data Code<\/th>
+                <\/tr>
+              <\/thead>
+              <tbody class=\"table-striped\">
+                <tr>
+                <td><img src=\"images\/icons\/snow-PP.svg\" alt=\"Precipitation Particles (New Snow) Icon\" class=\"icon\"><\/td>
+                <td>Precipitation Particles (New Snow)<\/td>
+                <td>PP<\/td>
+                <\/tr>
+                <tr>
+                <td><img src=\"images\/icons\/snow-MM.svg\" alt=\"Machine Made Snow\" class=\"icon\"><\/td>
+                <td>Machine Made Snow<\/td>
+                <td>MM<\/td>
+                <\/tr>
+                <tr>
+                <td><img src=\"images\/icons\/snow-DF.svg\" alt=\"Decomposing and Fragmented Particles\" class=\"icon\"><\/td>
+                <td>Decomposing and Fragmented Particles<\/td>
+                <td>DF<\/td>
+                <\/tr>
+                <tr>
+                 <td><img src=\"images\/icons\/snow-RG.svg\" alt=\"Rounded Grains (monocrystalline) Icon\" class=\"icon\"><\/td>
+                 <td>Rounded Grains (monocrystalline)<\/td>
+                 <td>RG<\/td>
+                 <\/tr>
+               <tr>
+                  <td><img src=\"images\/icons\/snow-FC.svg\" alt=\"Faceted Crystals Icon\" class=\"icon\"><\/td>
+                  <td>Faceted Crystals<\/td>
+                  <td>FC<\/td>
+                <\/tr>
+                <tr>
+                <td><img src=\"images\/icons\/snow-DH.svg\" alt=\"Depth Hoar Icon\" class=\"icon\"><\/td>
+                <td>Depth Hoar<\/td>
+                <td>DH<\/td>
+                <\/tr>
+                <tr>
+                <td><img src=\"images\/icons\/snow-SH.svg\" alt=\"Surface Hoar Icon\" class=\"icon\"><\/td>
+                <td>Surface Hoar<\/td>
+                <td>SH<\/td>
+                <\/tr>
+                <tr>
+                <td><img src=\"images\/icons\/snow-MF.svg\" alt=\"Melt Forms\" class=\"icon\"><\/td>
+                <td>Melt Forms<\/td>
+                <td>MF<\/td>
+                <\/tr>
+                <tr>
+                <td><img src=\"images\/icons\/snow-IF.svg\" alt=\"Ice Formations Icon\" class=\"icon\"><\/td>
+                <td>Ice Formations<\/td>
+                <td>IF<\/td>
+                <\/tr>
+              <\/tbody>
+              <\/table>
+              <\/div>
+               <!-- END table 1-6 -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <\/div>
+          <!-- END table 1-6 accordion -->
+          <!-- START table 1-7 accordion -->
+          <div class=\"accordion\" id=\"table1-7Accordion\">
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"table1-7heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table1-7collapse\" aria-expanded=\"false\" aria-controls=\"table1-7collapse\">
+              Table 1.7 Surface Deposits and Crusts
+            <\/button>
+            <\/h2>
+            <div id=\"table1-7collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table1-7heading\" data-bs-parent=\"#table1-7Accordion\">
+            <div class=\"accordion-body\">
+              <!-- START table 1-7 -->
+              <div class=\"table-responsive\">
+               <h5 id=\"table-1-7\">Table 1.7 Surface Deposits and Crusts Subclasses<\/h5>
+               <table class=\"table table-bordered\">
+               <thead class=\"thead-light\">
+                 <tr>
+                 <th scope=\"col\">Symbol<\/th>
+                 <th scope=\"col\">Description<\/th>
+                 <th scope=\"col\">Data Code<\/th>
+                 <\/tr>
+               <\/thead>
+               <tbody class=\"table-striped\">
+                 <tr>
+                 <td><img src=\"images\/icons\/snow-PPrm.svg\" alt=\"Rime Icon\" class=\"icon\"><\/td>
+                 <td>Rime<\/td>
+                 <td>PPrm<\/td>
+                 <\/tr>
+                 <tr>
+                 <td><img src=\"images\/icons\/snow-IFrc.svg\" alt=\"Rain crust Icons\" class=\"icon\"><\/td>
+                 <td>Rain crust<\/td>
+                 <td>IFrc<\/td>
+                 <\/tr>
+                 <tr>
+                 <td><img src=\"images\/icons\/snow-IFsc.svg\" alt=\"Sun crust, Firnspiegel Icon\" class=\"icon\"><\/td>
+                 <td>Sun crust, Firnspiegel<\/td>
+                 <td>IFsc<\/td>
+                 <\/tr>
+                 <tr>
+                  <td><img src=\"images\/icons\/snow-RGwp.svg\" alt=\"Wind packed Icon\" class=\"icon\"><\/td>
+                  <td>Wind packed<\/td>
+                  <td>RGwp<\/td>
+                <\/tr>
+                <tr>
+                   <td><img src=\"images\/icons\/snow-MFcr.svg\" alt=\"Melt freeze crust Icon\" class=\"icon\"><\/td>
+                   <td>Melt freeze crust<\/td>
+                   <td>IFrc<\/td>
+                 <\/tr>
+               <\/tbody>
+               <\/table>
+               <\/div>
+              <!-- END table 1-7 -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <\/div>
+          <!-- END table 1-7 accordion -->
+          <p>Experienced observers may use the subclasses (<a href=\"#placeholder\">Table 1.7<\/a>) to discriminate between various types of surface deposits and crusts (refer to <a href=\"#table1-7Accordion\">Appendix F<\/a> for more detailed information about grain forms).<\/p>
+          <!-- END 1st section -->
+         
+        <\/div>
+      <\/main>"
+}
+    

@@ -1,0 +1,47 @@
+{
+     "_id" :  "1-4",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.4 MANUAL VS. AUTOMATED OBSERVATIONS",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Observation networks for avalanche forecasting programs
+            usually involve at least one set of manual observations and
+            one or more automated weather stations (<a href=\"#figure1-1Accordion\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure1-1collapse\">Figure 1.1<\/a>). 
+            <!-- START figure 1-1 accordion -->
+            <div class=\"accordion\" id=\"figure1-1Accordion\">
+              <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"figure1-1heading\">
+              <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure1-1collapse\" aria-expanded=\"false\" aria-controls=\"figure1-1collapse\">
+              Figure 1.1 Alpine weather station
+              <\/button>
+              <\/h2>
+              <div id=\"figure1-1collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure1-1heading\" data-bs-parent=\"#figure1-1Accordion\">
+              <!-- START image -->
+                <img src=\"images\/figures\/1-1.jpg\" class=\"img-fluid\" alt=\"Alpine weather station in the Colorado Rocky Mountains.\">
+                <div class=\"accordion-body\">
+                <p>Alpine weather station in the Colorado Rocky Mountains.<\/p>
+                <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Kelly Elder<\/small><\/p>
+                <\/div>
+              <!-- END image -->
+              <\/div>
+              <\/div>
+            <\/div>
+            <!-- END figure 1-1 accordion -->
+            <p>Manual observations can be used to maintain a long-term record and
+            observe and record data not amenable to sensing by automated
+            systems. Automated observations provide unattended continuous
+            weather (and some snowpack) information about a certain
+            region or regions within a forecast or ski area. Automated
+            weather stations can be co-located at study sites where manual
+            weather observations and\/or snowpack observations are collected.
+            Programs that maintain a study plot should use data from
+            automated weather stations to augment and not replace manual
+            observations. The following chapter discusses how to make and
+            record manual observations. Details regarding automated snow
+            and weather observations appear in <a href=\"#placeholder\">Appendix E<\/a>.<\/p>
+        <\/div>
+      <\/main>"
+}

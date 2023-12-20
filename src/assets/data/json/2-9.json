@@ -1,0 +1,880 @@
+{
+     "_id" :  "2-9",
+     "chapter" : "Chapter 2: SNOWPACK OBSERVATION",
+     "header" : "2.9 NON-STANDARDIZED SNOW TESTS",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+    <main>
+      <div class=\"container-lg\">
+        <!-- START sections index accordion -->
+        <div class=\"accordion\" id=\"sectionIndexAccordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"sectionIndexheading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#sectionIndexcollapse\" aria-expanded=\"false\" aria-controls=\"sectionIndexcollapse\">
+          Sections
+          <\/button>
+          <\/h2>
+          <div id=\"sectionIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"sectionIndexheading\" data-bs-parent=\"#sectionIndexAccordion\">
+          <!-- START table -->
+          <!-- START page navigation -->
+          <div class=\"list-group\">
+            <a href=\"#2-9-1\" class=\"list-group-item list-group-item-action\">2.9.1 COMMUNICATING THE RESULTS OF NON-STANDARDIZED SNOW TESTS<\/a>
+            <a href=\"#2-9-2\" class=\"list-group-item list-group-item-action\">2.9.2 CANTILEVER BEAM TEST<\/a>
+            <a href=\"#2-9-3\" class=\"list-group-item list-group-item-action\">2.9.3 LOADED COLUMN TEST<\/a>
+            <a href=\"#2-9-4\" class=\"list-group-item list-group-item-action\">2.9.4 BURP-THE-BABY<\/a>
+            <a href=\"#2-9-5\" class=\"list-group-item list-group-item-action\">2.9.5 HAND SHEAR TESTS<\/a>
+            <a href=\"#2-9-6\" class=\"list-group-item list-group-item-action\">2.9.6 SKI POLE PENETROMETER<\/a>
+            <a href=\"#2-9-7\" class=\"list-group-item list-group-item-action\">2.9.7 TILT BOARD TEST<\/a>
+            <a href=\"#2-9-8\" class=\"list-group-item list-group-item-action\">2.9.8 SHOVEL TILT TEST<\/a>
+          <\/div>
+          <!-- END page navigation -->
+            <!-- END table -->
+          <\/div>
+          <\/div>
+          <\/div>
+        <!-- END sections index accordion -->
+        <!-- START tables index accordion -->
+        <div class=\"accordion\" id=\"tablesIndexAccordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"tablesIndexheading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#tablesIndexcollapse\" aria-expanded=\"false\" aria-controls=\"tablesIndexcollapse\">
+          Tables
+          <\/button>
+          <\/h2>
+          <div id=\"tablesIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"tablesIndexheading\" data-bs-parent=\"#tablesIndexAccordion\">
+          <!-- START table -->
+          <div class=\"list-group\">
+            <a href=\"#table2-17Accordion\" class=\"list-group-item list-group-item-action\">Table 2.17 Cantilever Beam test<\/a>
+          <\/div>
+          <!-- END table -->
+          <\/div>
+          <\/div>
+        <\/div>
+        <!-- END tables index accordion -->
+        <!-- START figures index accordion -->
+        <div class=\"accordion\" id=\"figureIndexAccordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"figureIndexheading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureIndexcollapse\" aria-expanded=\"false\" aria-controls=\"figureIndexcollapse\">
+          Figures
+          <\/button>
+          <\/h2>
+          <div id=\"figureIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureIndexheading\" data-bs-parent=\"#figureIndexAccordion\">
+          <!-- START table -->
+          <div class=\"list-group\">
+            <a href=\"#figure2-19Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.19 Hand Shear test<\/a>
+            <a href=\"#figure2-20Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.20 Ski Ploe Penetrometer<\/a>
+            <a href=\"#figure2-21Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.21 Shovel Tilt test<\/a>
+            <\/div>
+          <!-- END table -->
+          <\/div>
+          <\/div>
+        <\/div>
+        <!-- END figures index accordion -->
+        <hr>
+        <!-- START 1st section -->
+        <p>All of the stability tests described in Chapter 2 were developed from many years of work by many observers. Each test went through several iterations before a standard procedure was established. Field practitioners and researchers eventually wrote protocols and conducted research on these tests to provide information on their response and suitability.<\/p>
+        <p>In addition to the standardized tests, there are many other tests that do not have specific field protocols. In this section, some of the more common non-standardized snow tests and suggested methods for communicating their results are presented. Field workers who are not satisfied with the standardized tests are encouraged to use additional methods for determining physical properties of the snowpack. As new methods evolve and we learn more about their responses and limitations, those methods may become standard practice.<\/p>
+        <!-- END 1st section -->
+        <hr>
+        <!-- START 2nd section -->
+        <h2 id=\"2-9-1\">2.9.1 COMMUNICATING THE RESULTS OF NON-STANDARDIZED SNOW TESTS<\/h2>
+        <p>There is no standard method for communicating the results of non-standardized tests. A common method is to rate the amount of force required to produce a fracture using the descriptors Easy, Moderate, or Hard (with easy being the smallest amount), and note the height of the resulting fracture. Suggestions for communicating specific tests are presented below.<\/p>
+        <!-- END Section 2 -->
+        <hr>
+        <!-- START Section 3 -->
+        <h2 id=\"2-9-2\">2.9.2 CANTILEVER BEAM TEST<\/h2>
+        <p>Most of the standardized snow tests examine a weak snow layer or interface between snow layers. This type of information is critical for determining the snow stability. However, the weak layer is only one component of a slab avalanche and knowing more about the mechanical properties of the slab is also useful.<\/p>
+        <p>Several investigators have used cantilever beam tests to examine mechanical properties of snow beams and snow slabs (Johnson and others, 2000; Mears, 1998; Sterbenz, 1998; Perla, 1969). Sterbenz (1998) describes a cantilever beam test developed for avalanche forecasting in the San Juan Mountains of Colorado.<\/p>
+        <h3>Procedure<\/h3>
+
+        <!-- START steps accordion -->
+        <div class=\"accordion\" id=\"stepsAccordion-2\">
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading01-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-2\" aria-expanded=\"false\" aria-controls=\"collapse01-2\">
+                1 &mdash; Site Selection
+              <\/button>
+            <\/h2>
+            <div id=\"collapse01-2\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                Select a geographically representative site and dig a test profile.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading02-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-2\" aria-expanded=\"false\" aria-controls=\"collapse02-2\">
+                2 &mdash; Observe
+              <\/button>
+            <\/h2>
+            <div id=\"collapse02-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                Collect snowpack data as needed and conduct stability tests as desired.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading03-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-2\" aria-expanded=\"false\" aria-controls=\"collapse03-2\">
+                3 &mdash; Identify weak layer
+              <\/button>
+            <\/h2>
+            <div id=\"collapse03-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                Identify weak layer or interface and potential snow slab.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading04-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-2\" aria-expanded=\"false\" aria-controls=\"collapse04-2\">
+                4 &mdash; Mark section
+              <\/button>
+            <\/h2>
+            <div id=\"collapse04-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                Above a smooth pit wall, mark a horizontal section of the
+                slab 1 m (or 40\") in length on the snow surface.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading05-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-2\" aria-expanded=\"false\" aria-controls=\"collapse05-2\">
+                5 &mdash; Mark block
+              <\/button>
+            <\/h2>
+            <div id=\"collapse05-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                Mark 1 m (or 40\") lengths perpendicular to the pit wall so a 1 m x 1 m square block is outlined on the snow surface.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading06-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06-2\" aria-expanded=\"false\" aria-controls=\"collapse06-2\">
+                6 &mdash; Remove supporting snow
+              <\/button>
+            <\/h2>
+            <div id=\"collapse06-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                At the identified weak layer, remove the supporting snow from below the slab to be tested (1 m x 1 m square block).
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading07-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse07-2\" aria-expanded=\"false\" aria-controls=\"collapse07-2\">
+                7 &mdash; Make vertical cut
+              <\/button>
+            <\/h2>
+            <div id=\"collapse07-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading07-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                <p>Using a snow saw, make a vertical cut 0.5 m (or 20\") along one side of the block.<\/p>
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading08-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse08-2\" aria-expanded=\"false\" aria-controls=\"collapse08-2\">
+                8 &mdash; Cut other side
+              <\/button>
+            <\/h2>
+            <div id=\"collapse08-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading08-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                <p>Using a snow saw, make a vertical cut 0.5 m (or 20\") along the other side of the block.<\/p>
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading09-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse09-2\" aria-expanded=\"false\" aria-controls=\"collapse09-2\">
+                9 &mdash; Isolate side of block
+              <\/button>
+            <\/h2>
+            <div id=\"collapse09-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading09-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                <p>Using a snow saw, extend the first cut an additional 0.5 m(or20\") so that one side of the 1 m x 1 m square block is isolated.<\/p>
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading10-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse10-2\" aria-expanded=\"false\" aria-controls=\"collapse10-2\">
+                10 &mdash; Isolate other side
+              <\/button>
+            <\/h2>
+            <div id=\"collapse10-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading10-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                <p>Using a snow saw, extend the second cut an additional 0.5
+                  m (or 20\") so that the other side of the 1 m x 1 m square
+                  block is isolated.<\/p>
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading11-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse11-2\" aria-expanded=\"false\" aria-controls=\"collapse11-2\">
+                11 &mdash; Strike block
+              <\/button>
+            <\/h2>
+            <div id=\"collapse11-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading11-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                <p>At this point the block should be suspended, with its only
+                  connection point along the uphill edge of the block. Place a shovel along the downhill side of the block and strike it with successive blows until the beam breaks.<\/p>
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading12-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse12-2\" aria-expanded=\"false\" aria-controls=\"collapse12-2\">
+                12 &mdash; Record results
+              <\/button>
+            <\/h2>
+            <div id=\"collapse12-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading12-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+                <p>Record with the data codes in <a href=\"#table2-17Accordion\">Table 2.17<\/a>.<\/p>
+              <\/div>
+            <\/div>
+          <\/div>
+
+
+        <\/div>
+        <!-- END steps accordion -->
+        <hr>
+        <!-- START table 2-17 accordion -->
+        <div class=\"accordion\" id=\"table2-17Accordion\">
+        <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"table2-17heading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table2-17collapse\" aria-expanded=\"false\" aria-controls=\"table2-17collapse\">
+            Table 2.17 Cantilever Beam Test
+          <\/button>
+          <\/h2>
+          <div id=\"table2-17collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table2-17heading\" data-bs-parent=\"#table2-17Accordion\">
+          <div class=\"accordion-body\">
+           <!-- START table -->
+             <div class=\"table-responsive\">
+             <h5 id=\"table-2-17\">Table 2.17 Cantilever Beam Test from Sterbenz (1998)<\/h5>
+             <table class=\"table table-bordered\">
+               <thead class=\"thead-light\">
+               <tr>
+                 <th scope=\"col\">Loading Step<\/th>
+                 <th scope=\"col\">Block Breaks When<\/th>
+               <\/tr>
+               <\/thead>
+               <tbody class=\"table-striped\">
+               <tr>
+                 <th scope=\"row\">CB0<\/th>
+                 <td>Removing snow from below the block.<\/td>
+               <\/tr>
+               <tr>
+                 <th scope=\"row\">CB1<\/th>
+                 <td>0.5 m cut along one side.<\/td>
+               <\/tr>
+               <tr>
+                 <th scope=\"row\">CB2<\/th>
+                 <td>0.5 m cut along the second side.<\/td>
+               <\/tr>
+               <tr>
+                 <th scope=\"row\">CB3<\/th>
+                 <td>1 m cut along the first side.<\/td>
+               <\/tr>
+               <tr>
+                 <th scope=\"row\">CB4<\/th>
+                 <td>1 m cut along the second side.<\/td>
+               <\/tr>
+               <tr>
+                 <th scope=\"row\">CB5<\/th>
+                 <td>Loading the block that is isolated on three sides.<\/td>
+               <\/tr>
+               <\/tbody>
+             <\/table>
+             <\/div>
+             <!-- END table -->
+          <\/div>
+          <\/div>
+        <\/div>
+        <\/div>
+        <!-- END table 2-17 accordion -->
+        <h3>Cantilever Beam Test References<\/h3>
+        <p class=\"small\">Johnson, B.C., J.B. Jamieson, and C.D. Johnston. 2000: Field studies of the cantilever beam test. The Avalanche Review, 18, 8–9.<\/p>
+        <p class=\"small\">Mears, A., 1998: Tensile strength and strength changes in new
+          snow layers. Proceedings of the International Snow Science
+          Workshop, Sunriver, Oregon, 574–576.<\/p>
+        <p class=\"small\">Perla, R.I., 1969: Strength tests on newly fallen snow. Journal of
+          Glaciology, 8, 427–440.<\/p>
+        <p class=\"small\">Sterbenz, C., 1998: The cantilever beam or \"Bridgeblock\" snow
+          strength test. Proceedings of the International Snow Science Workshop, Sunriver, Oregon, p. 566–573.<\/p>
+
+        <h3>Results<\/h3>
+        <p>The rutschblock only tests layers deeper than ski penetration. For example, a weak layer 20 cm below the surface is not tested by skis that penetrate 20 cm or more. Higher and more variable rutschblock scores are sometimes observed near the top of a slope where the layering may differ from the middle and lower part of the slope (Jamieson & Johnston, 1993). Higher scores may contribute to an incorrect decision. The rutschblock may not effectively test weak layers deeper than about 1 m below ski penetration.<\/p>
+        <p>Schweizer, McCammon and Jamieson (2008) found that rutschblock scores combined with release type correlated well with observed avalanche occurrence. Johnson and Birkeland (2002) found that combining rutschblock scores with shear quality ratings reduced the number of false-stable results.<\/p>
+        <p>Research demonstrates that rutschblock results can vary over short distances. As such, interpret the results of any stability test in conjunction with snowpack and weather histories, and other snowpack and avalanche information.<\/p>
+
+        <!-- END Section 3 -->
+        <hr>
+        <!-- START Section 4 -->
+        <h2 id=\"2-7-4\">2.9.3 LOADED COLUMN TEST<\/h2>
+        <p>The Loaded Column Test allows an observer to estimate how much additional mass a weak layer might support before it will fracture. Although this test describes a finite mass that will produce fracture, the results of this test should be regarded only as a general indicator of the additional load that the snowpack can sustain. As stated previously, operational decisions should not be made on a single number or test.<\/p>
+        <h3>Procedure<\/h3>
+
+        <!-- START steps accordion -->
+        <div class=\"accordion\" id=\"stepsAccordion-3\">
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading01-3\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-3\" aria-expanded=\"false\" aria-controls=\"collapse01-3\">
+                1 &mdash; Site Selection
+              <\/button>
+            <\/h2>
+            <div id=\"collapse01-3\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-3\" data-bs-parent=\"#stepsAccordion-3\">
+              <div class=\"accordion-body\">
+                Select a geographically representative site and dig a test profile.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading02-3\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-3\" aria-expanded=\"false\" aria-controls=\"collapse02-3\">
+                2 &mdash; Collect data
+              <\/button>
+            <\/h2>
+            <div id=\"collapse02-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-3\" data-bs-parent=\"#stepsAccordion-3\">
+              <div class=\"accordion-body\">
+                Collect snowpack data as needed and conduct stability tests as desired.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading03-3\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-3\" aria-expanded=\"false\" aria-controls=\"collapse03-3\">
+                3 &mdash; Identify weak layer
+              <\/button>
+            <\/h2>
+            <div id=\"collapse03-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-3\" data-bs-parent=\"#stepsAccordion-3\">
+              <div class=\"accordion-body\">
+                Identify weak layer or interface and potential snow slab.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading04-3\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-3\" aria-expanded=\"false\" aria-controls=\"collapse04-3\">
+                4 &mdash; Isolate column
+              <\/button>
+            <\/h2>
+            <div id=\"collapse04-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-3\" data-bs-parent=\"#stepsAccordion-3\">
+              <div class=\"accordion-body\">
+                Using a snow saw isolate a column 30 cm wide and 30 cm
+                in the upslope direction.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading05-3\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-3\" aria-expanded=\"false\" aria-controls=\"collapse05-3\">
+                5 &mdash; Stack blocks of snow
+              <\/button>
+            <\/h2>
+            <div id=\"collapse05-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-3\" data-bs-parent=\"#stepsAccordion-3\">
+              <div class=\"accordion-body\">
+                Excavate blocks of snow and stack them on the column
+                until the column fractures.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading06-3\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06-3\" aria-expanded=\"false\" aria-controls=\"collapse06-3\">
+                6 &mdash; Record
+              <\/button>
+            <\/h2>
+            <div id=\"collapse06-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06-3\" data-bs-parent=\"#stepsAccordion-3\">
+              <div class=\"accordion-body\">
+                Note the level of the fracture, shear quality, and amount of
+                load that caused the test column to fail.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading07-3\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse07-3\" aria-expanded=\"false\" aria-controls=\"collapse07-3\">
+                7 &mdash; Calculate total load
+              <\/button>
+            <\/h2>
+            <div id=\"collapse07-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading07-3\" data-bs-parent=\"#stepsAccordion-3\">
+              <div class=\"accordion-body\">
+                <p>The mass of each block can be measured and a total load
+                  calculated.<\/p>
+              <\/div>
+            <\/div>
+          <\/div>
+
+        <\/div>
+        <!-- END steps accordion -->
+
+        <!-- END Section 4 -->
+        <hr>
+        <!-- START Section 5 -->
+       <h2 id=\"2-9-4\">2.9.4 BURP-THE-BABY<\/h2>
+        <p>This test is generally used to identify shear layers missed by the Shovel Shear Test. Buried thin weak layers (often surface hoar) gain strength over time and their presence may be obscured or missed by the Shovel Shear Test.<\/p>
+        <h3>Procedure<\/h3>
+        <p>When an isolated column remains intact after it breaks on a deeply buried layer, pick it up and cradle it in your arms. Burp the reclining column across your knee or with a hand. Clean shear planes can often be located above the original shovel shear plane.<\/p>
+        <!-- END Section 5 -->
+        <hr>
+        <!-- START Section 6 -->
+        <h2 id=\"2-9-5\">2.9.5 HAND SHEAR TESTS<\/h2>
+        <p>These tests can be used to quickly gain information about snow structure. They should not be used to replace stability tests, but can be used to estimate the spatial extent of a relatively shallow weak layer (<a href=\"#figure2-19Accordion\">Figure 2.19<\/a>).<\/p>
+        <!-- START figure 2-19 accordion -->
+        <div class=\"accordion\" id=\"figure2-19Accordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"figure2-19heading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-19collapse\" aria-expanded=\"false\" aria-controls=\"figure2-19collapse\">
+          Figure 2.19 Hand shear test
+          <\/button>
+          <\/h2>
+          <div id=\"figure2-19collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-19heading\" data-bs-parent=\"#figure2-19Accordion\">
+          <!-- START image -->
+            <img src=\"images\/figures\/2-19.jpg\" class=\"img-fluid\" alt=\"A hand shear test.\">
+            <div class=\"accordion-body\">
+          <p>A hand shear test.<\/p>
+          <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Bruce Tremper<\/small><\/p>
+            <\/div>
+          <!-- END image -->
+          <\/div>
+          <\/div>
+        <\/div>
+        <!-- END figure 2-19 accordion -->
+        <h4>Procedure<\/h4>
+        <!-- START steps accordion -->
+        <div class=\"accordion\" id=\"stepsAccordion-5\">
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading01-5\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-5\" aria-expanded=\"false\" aria-controls=\"collapse01-5\">
+                1 &mdash; Make a hole in the snow
+              <\/button>
+            <\/h2>
+            <div id=\"collapse01-5\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-5\" data-bs-parent=\"#stepsAccordion-5\">
+              <div class=\"accordion-body\">
+                With your hand or a ski pole make a hole in the snow deeper than the layer you wish to test.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading02-5\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-5\" aria-expanded=\"false\" aria-controls=\"collapse02-5\">
+                2 &mdash; Isolate column
+              <\/button>
+            <\/h2>
+            <div id=\"collapse02-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-5\" data-bs-parent=\"#stepsAccordion-5\">
+              <div class=\"accordion-body\">
+                Carve out an isolated column of snow.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading03-5\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-5\" aria-expanded=\"false\" aria-controls=\"collapse03-5\">
+                3 &mdash; Tap or pull on column
+              <\/button>
+            <\/h2>
+            <div id=\"collapse03-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-5\" data-bs-parent=\"#stepsAccordion-5\">
+              <div class=\"accordion-body\">
+                Tap on the surface or pull on the column of snow in the
+                down slope direction.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading04-5\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-5\" aria-expanded=\"false\" aria-controls=\"collapse04-5\">
+                4 &mdash; Record results
+              <\/button>
+            <\/h2>
+            <div id=\"collapse04-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-5\" data-bs-parent=\"#stepsAccordion-5\">
+              <div class=\"accordion-body\">
+                Record your results with the name of the test, weak layer
+                depth, and rate the result as Easy, Moderate, or Hard (example: Hand Easy or Hand-E). Also include pertinent terrain parameters such as slope angle, aspect, and elevation.
+              <\/div>
+            <\/div>
+          <\/div>
+
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading05-5\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-5\" aria-expanded=\"false\" aria-controls=\"collapse05-5\">
+                5 &mdash; Investigate weak laer
+              <\/button>
+            <\/h2>
+            <div id=\"collapse05-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-5\" data-bs-parent=\"#stepsAccordion-5\">
+              <div class=\"accordion-body\">
+                Use other methods to investigate the weak layer or interface as needed.
+              <\/div>
+            <\/div>
+          <\/div>
+
+        <\/div>
+        <!-- END steps accordion -->
+
+        <!-- END Section 6 -->
+        <hr>
+        <!-- START Section 7 -->
+        <h2 id=\"2-9-6\">2.9.6 SKI POLE PENETROMETER<\/h2>
+        <p>The ski pole can be used like a penetrometer to look for or estimate the spatial extent of distinct weak layers or significant changes in layer hardness (<a href=\"#figure2-20Accordion\">Figure 2.20<\/a>). In harder snow, an avalanche probe can be used.<\/p>
+        <!-- START figure 2-20 accordion -->
+        <div class=\"accordion\" id=\"figure2-20Accordion\">
+          <div class=\"accordion-item\">
+          <h2 class=\"accordion-header\" id=\"figure2-20heading\">
+          <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-20collapse\" aria-expanded=\"false\" aria-controls=\"figure2-20collapse\">
+          Figure 2.20 Ski Pole Penetrometer
+          <\/button>
+          <\/h2>
+          <div id=\"figure2-20collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-20heading\" data-bs-parent=\"#figure2-20Accordion\">
+                <!-- START image -->
+                  <img src=\"images\/figures\/2-20.jpg\" class=\"img-fluid\" alt=\"The ski pole poke, aka Ski Pole Penetrometer.\">
+                  <div class=\"accordion-body\">
+                <p>The ski pole poke, aka Ski Pole Penetrometer.<\/p>
+                <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Bruce Tremper<\/small><\/p>
+                  <\/div>
+                <!-- END image -->
+                <\/div>
+                <\/div>
+              <\/div>
+              <!-- END figure 2-20 accordion -->
+              <h3>Procedure<\/h3>
+              <!-- START steps accordion -->
+              <div class=\"accordion\" id=\"stepsAccordion-6\">
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading01-6\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-6\" aria-expanded=\"false\" aria-controls=\"collapse01-6\">
+                      1 &mdash; Push ski pole into snow
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse01-6\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-6\" data-bs-parent=\"#stepsAccordion-6\">
+                    <div class=\"accordion-body\">
+                      Place the ski pole perpendicular to the snow surface and push it into the snow (basket end down for soft snow, handle down for harder snow).
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading02-6\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-6\" aria-expanded=\"false\" aria-controls=\"collapse02-6\">
+                      2 &mdash; Feel for changes
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse02-6\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-6\" data-bs-parent=\"#stepsAccordion-6\">
+                    <div class=\"accordion-body\">
+                      Feel for changes in resistance as the ski pole moves through the snowpack.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading03-6\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-6\" aria-expanded=\"false\" aria-controls=\"collapse03-6\">
+                      3 &mdash; Remove pole
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse03-6\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-6\" data-bs-parent=\"#stepsAccordion-6\">
+                    <div class=\"accordion-body\">
+                      Feel for more subtle layers as the pole is removed from the snowpack by tilting it slightly to the side.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading04-6\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-6\" aria-expanded=\"false\" aria-controls=\"collapse04-6\">
+                      4 &mdash; Record results
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse04-6\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-6\" data-bs-parent=\"#stepsAccordion-6\">
+                    <div class=\"accordion-body\">
+                      Record the depth, thickness and spatial extent of buried layers.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading05-6\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-6\" aria-expanded=\"false\" aria-controls=\"collapse05-6\">
+                      5 &mdash; Keep observing
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse05-6\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-6\" data-bs-parent=\"#stepsAccordion-6\">
+                    <div class=\"accordion-body\">
+                      Use other methods to investigate the snowpack as needed.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+              <\/div>
+              <!-- END steps accordion -->
+              <hr>
+              <!-- END Section 7 -->
+              <h2 id=\"2-9-7\">2.9.7 TILT BOARD TEST<\/h2>
+              <p>This description follows material published in McClung and Schaerer (2006). The Tilt Board Test is typically used to identify weaknesses in new snow or storm snow layers. The test is generally conducted at an established study plot. It can be used to identify weak layers that will be tested with a shear frame.<\/p>
+              <!-- START steps accordion -->
+              <h3>Equipment<\/h3>
+              <div class=\"accordion\" id=\"stepsAccordion-7\">
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading01-7\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-7\" aria-expanded=\"false\" aria-controls=\"collapse01-7\">
+                      1 &mdash; Metal plate
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse01-7\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-7\" data-bs-parent=\"#stepsAccordion-7\">
+                    <div class=\"accordion-body\">Thin metal plate (30 cm x 30 cm).
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading02-7\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-7\" aria-expanded=\"false\" aria-controls=\"collapse02-7\">
+                      2 &mdash; Tilt Board
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse02-7\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-7\" data-bs-parent=\"#stepsAccordion-7\">
+                    <div class=\"accordion-body\">
+                      A board painted white and mounted on a
+                      frame. The frame is mounted to a joint that allows it to rotate in the vertical plane. The Tilt Board can be locked in the horizontal position or tilted about 15 degrees. This allows the test block to fracture in shear without sliding off the lower portion of the block.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+              <\/div>
+              <!-- END steps accordion -->
+              <h3>Procedure<\/h3>
+              <!-- START steps accordion -->
+              <div class=\"accordion\" id=\"stepsAccordion-8\">
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading01-8\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-8\" aria-expanded=\"false\" aria-controls=\"collapse01-8\">
+                      1 &mdash; Cut block
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse01-8\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-8\" data-bs-parent=\"#stepsAccordion-8\">
+                    <div class=\"accordion-body\">
+                      Cut a block of snow that is deeper than the suspected weak layer or that contains all of the new or storm snow. McClung and Schaerer (2006) recommend using a block no deeper than 0.4 m.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading02-8\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-8\" aria-expanded=\"false\" aria-controls=\"collapse02-8\">
+                      2 &mdash; Lift block
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse02-8\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-8\" data-bs-parent=\"#stepsAccordion-8\">
+                    <div class=\"accordion-body\">
+                      Using a thin metal plate, lift the block on to the Tilt Board.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading03-8\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-8\" aria-expanded=\"false\" aria-controls=\"collapse03-8\">
+                      3 &mdash; Tap board
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse03-8\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-8\" data-bs-parent=\"#stepsAccordion-8\">
+                    <div class=\"accordion-body\">
+                      Tap the bottom of the board until the snow fractures.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading04-8\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-8\" aria-expanded=\"false\" aria-controls=\"collapse04-8\">
+                      4 &mdash; Record results
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse04-8\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-8\" data-bs-parent=\"#stepsAccordion-8\">
+                    <div class=\"accordion-body\">
+                      Record your results with the name of the test and rate the result as Easy, Moderate, or Hard (example: Tilt Board Easy or Tilt Board-E).
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading05-8\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-8\" aria-expanded=\"false\" aria-controls=\"collapse05-8\">
+                      5 &mdash; Keep observing
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse05-8\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-8\" data-bs-parent=\"#stepsAccordion-8\">
+                    <div class=\"accordion-body\">
+                      Use other methods to investigate the weak layer or interface as needed.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+              <\/div>
+              <!-- END steps accordion -->
+              <hr>
+              <h2 id=\"2-9-8\">2.9.8 SHOVEL TILT TEST<\/h2>
+              <p>The Shovel Tilt Test is the field worker's version of the Tilt Board Test but requires no additional equipment be taken into the field. This test can be especially helpful for finding shears within storm snow (<a href=\"#figure2-21Accordion\">Figure 2.21<\/a>).<\/p>
+              <!-- START figure 2-21 accordion -->
+              <div class=\"accordion\" id=\"figure2-21Accordion\">
+                <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"figure2-21heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-21collapse\" aria-expanded=\"false\" aria-controls=\"figure2-21collapse\">
+                Figure 2.21 Shovel Tilt Test
+                <\/button>
+                <\/h2>
+                <div id=\"figure2-21collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-21heading\" data-bs-parent=\"#figure2-21Accordion\">
+                <!-- START image -->
+                  <img src=\"images\/figures\/2-21.jpg\" class=\"img-fluid\" alt=\"The Shovel Tilt Test.\">
+                  <div class=\"accordion-body\">
+                <p>The Shovel Tilt Test.<\/p>
+                <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Howie Garber<\/small><\/p>
+                  <\/div>
+                <!-- END image -->
+                <\/div>
+                <\/div>
+              <\/div>
+              <!-- END figure 2-21 accordion -->
+              <h3>Procedure<\/h3>
+              <!-- START steps accordion -->
+              <div class=\"accordion\" id=\"stepsAccordion-9\">
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading01-9\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-9\" aria-expanded=\"false\" aria-controls=\"collapse01-9\">
+                      1 &mdash; Isolate column
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse01-9\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-9\" data-bs-parent=\"#stepsAccordion-9\">
+                    <div class=\"accordion-body\">
+                      Isolate a column of snow of similar dimensions to your shovel blade.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading02-9\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-9\" aria-expanded=\"false\" aria-controls=\"collapse02-9\">
+                      2 &mdash; Insert shovel
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse02-9\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-9\" data-bs-parent=\"#stepsAccordion-9\">
+                    <div class=\"accordion-body\">
+                      Insert the shovel blade horizontally into the side of the column below the layers you wish to test (limited to about 0.4 m from the surface).
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading03-9\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-9\" aria-expanded=\"false\" aria-controls=\"collapse03-9\">
+                      3 &mdash; Lift sample
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse03-9\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-9\" data-bs-parent=\"#stepsAccordion-9\">
+                    <div class=\"accordion-body\">
+                      Lift the shovel and snow sample into the air and hold the shovel handle and bottom of the snow column in one hand,
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading04-9\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-9\" aria-expanded=\"false\" aria-controls=\"collapse04-9\">
+                      4 &mdash; Tilt shovel
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse04-9\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-9\" data-bs-parent=\"#stepsAccordion-9\">
+                    <div class=\"accordion-body\">
+                      Tilt the shovel blade about 5 to 15 degrees steeper than the slope angle of the sample.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading05-9\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-9\" aria-expanded=\"false\" aria-controls=\"collapse05-9\">
+                      5 &mdash; Tap shovel
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse05-9\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-9\" data-bs-parent=\"#stepsAccordion-9\">
+                    <div class=\"accordion-body\">
+                      Tap the bottom of the shovel blade with increasing force until fracture is observed.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading06-9\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06-9\" aria-expanded=\"false\" aria-controls=\"collapse06-9\">
+                      6 &mdash; Record results
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse06-9\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06-9\" data-bs-parent=\"#stepsAccordion-9\">
+                    <div class=\"accordion-body\">
+                      Record the force required to produce the fracture as Easy, Moderate, or Hard.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading07-9\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse07-9\" aria-expanded=\"false\" aria-controls=\"collapse07-9\">
+                      7 &mdash; Make adjustments
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse07-9\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading07-9\" data-bs-parent=\"#stepsAccordion-9\">
+                    <div class=\"accordion-body\">
+                      Shovel tilt may be increased and angle recorded if no fracture occurs at 15 degrees.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+                <div class=\"accordion-item\">
+                  <h2 class=\"accordion-header\" id=\"heading08-9\">
+                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse08-9\" aria-expanded=\"false\" aria-controls=\"collapse08-9\">
+                      8 &mdash; Continue observing
+                    <\/button>
+                  <\/h2>
+                  <div id=\"collapse08-9\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading08-9\" data-bs-parent=\"#stepsAccordion-9\">
+                    <div class=\"accordion-body\">
+                      Use other methods to investigate the weak layer or interface as needed.
+                    <\/div>
+                  <\/div>
+                <\/div>
+          
+              <\/div>
+              <!-- END steps accordion -->
+              <!-- END content -->
+            <\/div>
+          <\/main>"
+}

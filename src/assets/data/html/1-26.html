@@ -1,0 +1,186 @@
+
+      <!-- START SWAG content -->
+      <main>
+        <div class="container-lg">
+          <!-- START tables index accordion -->
+          <ion-accordion-group>
+                <ion-accordion value="tables" class="standalone-accordion">
+                      <ion-item slot="header" color="tertiary">
+                            <ion-label>Tables</ion-label>
+                      </ion-item>
+                      <div class="ion-padding" slot="content"><!-- START table -->
+                            <div class="list-group">
+                              <a onclick="document.getElementById('1-8').scrollIntoView(true);" class="list-group-item list-group-item-action">Table 1.8 Wind Speed Estimation</a>
+                              <a onclick="document.getElementById('1-10').scrollIntoView(true);" class="list-group-item list-group-item-action">Table 1.10 Direction of Wind</a>
+                            </div>
+                            <!-- END table --></div>
+                </ion-accordion>
+          </ion-accordion-group>
+          <!-- END tables index accordion -->
+          <!-- START 1st section -->
+          <hr>
+          <p>Both estimates and measurements of wind speed and direction are useful to observe and record. However, it is important to distinguish between the two types of observations. Measurements are made with an instrument located at a fixed point. Estimates are made without instruments or with hand-held instruments, and typically represent wind in a local area rather than at a fixed point.</p>
+          <!-- END 1st section -->
+          <h3>Procedure</h3>
+         <!-- START steps accordion -->
+          <ion-accordion-group>
+                <ion-accordion value="first">
+                      <ion-item slot="header" color="light">
+                            <ion-label> Measured Wind Speed</ion-label>
+                      </ion-item>
+                      <div class="ion-padding" slot="content">The SI unit for wind speed is meters per second (miles per hour). Refer to <a href="/swag-content/5-2">Appendix B</a> for unit conversions.</div>
+                </ion-accordion>
+          
+                <ion-accordion value="second">
+                      <ion-item slot="header" color="light">
+                            <ion-label>Measured Maximum Wind Gust</ion-label>
+                      </ion-item>
+                      <div class="ion-padding" slot="content">Record the speed and time of occurrence of the maximum wind gust.</div>
+                </ion-accordion>
+          
+                <ion-accordion value="third">
+                      <ion-item slot="header" color="light">
+                            <ion-label>Measured Wind Direction</ion-label>
+                      </ion-item>
+                      <div class="ion-padding" slot="content">Measured wind direction for standard observations should be rounded to the nearest 10 degrees (i.e. 184 degrees—just beyond south—is coded as 180). Forty-five degrees (northeast) is coded as 050. Archived wind direction data from an automatic weather station can be stored as a three digit number. Wind direction is always given relative to true north.</div>
+                </ion-accordion>
+          
+                <ion-accordion value="fourth">
+                      <ion-item slot="header" color="light">
+                            <ion-label>Estimated Wind Speed</ion-label>
+                      </ion-item>
+                      <div class="ion-padding" slot="content"> <p>For the standard morning observation, an estimate of the wind speed can be obtained by observing for two minutes. Use the indicators in <a onclick="document.getElementById('1-8').scrollIntoView(true);">Table 1.8</a> to determine the categorical wind speed and the data codes to record average conditions during the observation period.</p>
+                            <p>The indicators used to estimate the wind speed are established by rule of thumb. Observers should develop their own relationships specific to their area. Wind estimates (speed and direction) should be averaged over a two-minute period prior to the observation. Since wind speed classes are determined by an estimate, mi/hr categories can be rounded to the nearest 5 mi/hr.</p></div>
+                </ion-accordion>
+          
+                <ion-accordion value="fifth">
+                      <ion-item slot="header" color="light">
+                            <ion-label>Estimated Maximum Wind Gust</ion-label>
+                      </ion-item>
+                      <div class="ion-padding" slot="content">Estimate the maximum wind speed during the observation period. Record the estimated speed to the nearest 2 m/s (or 5 mi/hr).</div>
+                </ion-accordion>
+          
+                <ion-accordion value="sixth">
+                      <ion-item slot="header" color="light">
+                            <ion-label>Estimated Wind Direction</ion-label>
+                      </ion-item>
+                      <div class="ion-padding" slot="content"> During a two-minute period, note the direction from which the wind blows. The wind direction can be recorded using the compass directions listed in <a onclick="document.getElementById('1-10').scrollIntoView(true);">Table 1.10</a>. Do not record a direction when the wind speed is zero (Calm). If no definitive wind direction can be established, record direction as Variable (VAR). Wind direction is always given relative to true north.</div>
+                </ion-accordion>
+          
+          </ion-accordion-group>
+           <!-- END steps accordion -->
+           <hr><!-- START table 1-8 accordion -->
+           <ion-accordion-group id="1-8">
+                 <ion-accordion value="table" class="standalone-accordion">
+                       <ion-item slot="header" color="tertiary">
+                             <ion-label>Table 1.8 Wind Speed Estimation</ion-label>
+                       </ion-item>
+                       <div slot="content">
+                             <!-- START table 1-8 -->
+                              <div class="table-responsive">
+                                <table class="table table-bordered">
+                                <thead class="thead-light">
+                                    <tr>
+                                    <th scope="col">Class</th>
+                                    <th scope="col">Data <br>Code</th>
+                                    <th scope="col">Km/h</th>
+                                    <th scope="col">M/s</th>
+                                    <th scope="col">Mi/Hr</th>
+                                    <th scope="col">TYPICAL INDICATOR</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                    <th>Calm</th>
+                                    <td>C</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>No air motion. Smoke rises vertically.</td>
+                                    </tr>
+                                    <tr>
+                                    <th>Light</th>
+                                    <td>L</td>
+                                    <td>1-25</td>
+                                    <td>1-7</td>
+                                    <td>1-16</td>
+                                    <td>Light to gentle breeze. Flags and twigs in motion.</td>
+                                    </tr>
+                                    <tr>
+                                    <th>Moderate</th>
+                                    <td>M</td>
+                                    <td>26-40</td>
+                                    <td>8-11</td>
+                                    <td>17-25</td>
+                                    <td>Fresh breeze. Small trees sway. Flags stretched. Snow begins to drift.</td>
+                                    </tr>
+                                    <tr>
+                                    <th>Strong</th>
+                                    <td>S</td>
+                                    <td>41-60</td>
+                                    <td>12-17</td>
+                                    <td>26-38</td>
+                                    <td>Strong breeze. Whole trees in motion.</td>
+                                    </tr>
+                                    <tr>
+                                    <th>Extreme</th>
+                                    <td>X</td>
+                                    <td>&#62;60</td>
+                                    <td>&#62;17</td>
+                                    <td>&#62;38</td>
+                                    <td>Gale force or higher.</td>
+                                    </tr>
+                                </tbody>
+                                </table>
+                                </div>
+                                   <!-- END table 1-8 -->
+                             <hr>
+                       </div>
+                 </ion-accordion>
+           </ion-accordion-group>
+           <!-- END table 1-8 accordion -->
+           <!-- START table 1-10 accordion -->
+           <ion-accordion-group id="1-10">
+                 <ion-accordion value="table" class="standalone-accordion">
+                       <ion-item slot="header" color="tertiary">
+                             <ion-label>Table 1.10 Direction of Wind Relative to True North</ion-label>
+                       </ion-item>
+                       <div slot="content">
+                             <!-- START table 1-10 -->
+                                   <div class="table-responsive">
+                                <table class="table table-bordered">
+                                <tbody>
+                                    <tr>
+                                    <th>Direction</th>
+                                    <td>N</td>
+                                    <td>NE</td>
+                                    <td>E</td>
+                                    <td>SE</td>
+                                    <td>S</td>
+                                    <td>SW</td>
+                                     <td>W</td>
+                                     <td>NW</td>
+                                    </tr>
+                                    <tr>
+                                    <th>Degrees</th>
+                                     <td>0</td>
+                                     <td>45</td>
+                                     <td>90</td>
+                                     <td>135</td>
+                                     <td>180</td>
+                                     <td>225</td>
+                                      <td>270</td>
+                                      <td>315</td>
+                                    </tr>
+                                    
+                                </tbody>
+                                </table>
+                                </div>
+                                   <!-- END table 1-10 -->
+                             <hr>
+                       </div>
+                 </ion-accordion>
+           </ion-accordion-group>
+           <!-- END table 1-10 accordion -->
+        </div>
+      </main>

@@ -1,0 +1,95 @@
+<ion-app>
+  <!-- when=false means that the split pane will never expand automatically -->
+  <!-- For more info check https://ionicframework.com/docs/api/split-pane -->
+  <ion-split-pane contentId="menu-content" when="false">
+    <ion-menu  type="push" contentId="menu-content" class="app-sidemenu">
+      <ion-header>
+        <ion-toolbar>
+          <ion-row class="user-details-wrapper">
+            <ion-col size="3">
+              <app-aspect-ratio [ratio]="{w: 1, h: 1}">
+                <ion-menu-toggle>
+                  <app-image-shell animation="spinner" [src]="'./assets/images/aaa-mobile-logo.svg'" [routerLink]="['/walkthrough']"></app-image-shell>
+                </ion-menu-toggle>
+              </app-aspect-ratio>
+            </ion-col>
+            <ion-col class="user-info-wrapper" size="9">
+              <ion-menu-toggle [routerLink]="['/walkthrough']">
+                <h4 class="user-name">American Avalanche Association</h4>
+              </ion-menu-toggle>
+            </ion-col>
+          </ion-row>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content>
+        <!-- <ion-row id="main-header" class="ion-padding">
+          <h4>SNOW, WEATHER, AND AVALANCHES:</h4>
+          <p>Observation Guidelines for Avalanche Programs in the United States</p>
+        </ion-row> -->
+        <ion-row class="ion-padding">
+          <ion-searchbar #filter (search)="search(filter.value)"> </ion-searchbar>
+        </ion-row>
+        <ion-row>
+          <ion-list>
+            <ion-list-header>
+              <ion-label>Contents</ion-label>
+            </ion-list-header>
+            
+            <ion-menu-toggle autoHide="false" *ngFor="let p of this.allContentIndex; let i = index">
+              <ion-item [routerLink]="p.url">
+                <ion-icon slot="end" [name]="p.ionicIcon? p.ionicIcon: ''" [src]="p.customIcon? p.customIcon: ''"></ion-icon>
+                <ion-label>
+                  {{p.title}}
+                </ion-label>
+              </ion-item>
+            </ion-menu-toggle>
+            
+            <ion-item></ion-item>
+            
+            <ion-list-header>
+              <ion-label>Settings</ion-label>
+            </ion-list-header>
+            
+              <ion-item>
+                <ion-icon slot="end" name="chevron-down-outline"></ion-icon>
+                <ion-label id="open-modal" expand="modal-block">
+                  Type Size
+                </ion-label>
+              </ion-item>
+            </ion-list>
+            
+            <ion-modal trigger="open-modal" [initialBreakpoint]="1" [breakpoints]="[0, 1]">
+              <ng-template>
+                <div class="modal-block">
+                  <h1>Type Size</h1>
+                  <ion-radio-group [(ngModel)]="textSizePrefs" (ionChange)="textPrefsChange()" [value]="fontSize" >
+                    <ion-item>
+                      <ion-label>Extra-Large</ion-label>
+                      <ion-radio value="1.5rem"></ion-radio>
+                    </ion-item>
+                    <ion-item>
+                      <ion-label>Large</ion-label>
+                      <ion-radio value="1.3rem"></ion-radio>
+                    </ion-item>
+                    <ion-item>
+                      <ion-label>Medium</ion-label>
+                      <ion-radio value="1.1rem"></ion-radio>
+                    </ion-item>
+                    <ion-item>
+                      <ion-label>Small</ion-label>
+                      <ion-radio value=".85rem"></ion-radio>
+                    </ion-item>
+                  </ion-radio-group>
+                </div>
+              </ng-template>
+            </ion-modal>
+
+        </ion-row>
+        
+      </ion-content>
+    </ion-menu>
+    <!-- Main app content gets rendered in this router-outlet -->
+    <ion-router-outlet id="menu-content" (textPrefsChange)="textPrefsChange()"></ion-router-outlet>
+    
+  </ion-split-pane>
+</ion-app>

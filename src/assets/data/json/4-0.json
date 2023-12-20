@@ -1,0 +1,318 @@
+{
+     "_id" :  "4-0",
+     "chapter" : "",
+     "header" : "GLOSSARY",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <h1 class=\"chapter-header\">Glossary<\/h1>
+          <!-- -START nav -->
+          <div class=\"table-fluid\">
+          <table class=\"table table-bordered\">
+            <tbody>
+              <tr>
+                <td><h4><a href=\"#glossary-a\">a<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-b\">b<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-c\">c<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-d\">d<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-e\">e<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-f\">f<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-g\">g<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-h\">h<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-i\">i<\/a><\/h4><\/td>
+              <\/tr>
+              <tr>
+                <td><h4>j<\/h4><\/td>
+                <td><h4><a href=\"#glossary-k\">k<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-l\">l<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-m\">m<\/a><\/h4><\/td>
+                <td><h4>n<\/h4><\/td>
+                <td><h4>o<\/h4><\/td>
+                <td><h4><a href=\"#glossary-p\">p<\/a><\/h4><\/td>
+                <td><h4>q<\/h4><\/td>
+                <td><h4><a href=\"#glossary-r\">r<\/a><\/h4><\/td>
+              <\/tr><tr>
+                <td><h4><a href=\"#glossary-s\">s<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-t\">t<\/a><\/h4><\/td>
+                <td><h4>u<\/h4><\/td>
+                <td><h4><a href=\"#glossary-v\">v<\/a><\/h4><\/td>
+                <td><h4><a href=\"#glossary-w\">w<\/a><\/h4><\/td>
+                <td><h4>x<\/h4><\/td>
+                <td><h4>y<\/h4><\/td>
+                <td colspan=\"2\"><h4>z<\/h4><\/td>
+              <\/tr>
+            <\/tbody>
+          <\/table>
+          <\/div>
+          <!-- -END nav -->
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-a\">a<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-accuracy\"><strong>Accuracy<\/strong> The difference between the measured value and the actual or true value. A property of a measurement method and instruments used. Also <a href=\"#glossary-precision\">   precision<\/a>.<\/p>
+         <p id=\"glossary-alpha-angle\"><strong>Alpha Angle<\/strong> 
+          The angle between the horizontal and a line drawn from the highest point of the crown face to the toe of the debris. Alpha can be measured for an individual avalanche (&alpha;i). Extreme values of alpha (&alpha;e) can be determined from historical records, tree ring data, or direct observation. Minimum values of alpha (longest runout length) can also be estimated for a specific return period (&alpha;10, &alpha;50, &alpha;100). Also termed runout angle or angle of reach.
+          <p id=\"glossary-anemometer\"><strong>Anemometer<\/strong> 
+          An instrument that measures the pressure exerted by, or the speed of, wind.
+          <p id=\"glossary-aspect\"><strong>Aspect<\/strong> 
+          The exposure of the terrain as indicated by compass direction of the fall line (relative to true north). A slope that faces north has a north aspect.
+          <p id=\"glossary-Atmospheric-Pressure\"><strong>Atmospheric Pressure <\/strong> 
+          The pressure due to the weight of air on the surface of the earth or at a given level in the atmosphere. Also called barometric pressure.
+          <p id=\"glossary-avalanche-snow\"><strong>Avalanche, Snow<\/strong> 
+          A mass of snow sliding, tumbling, or flowing down an inclined surface that may contain rocks, soil, vegetation, or ice.
+          <p id=\"glossary-avalanche-danger-scale\"><strong>Avalanche Danger Scale <\/strong> 
+          A categorical estimation of the avalanche danger. In the U.S., a five-level scale is used for backcountry recreational users. <a href=\"#placeholder\">See Appendix G<\/a>.
+          <p id=\"glossary-avalanche-path\"><strong>Avalanche Path<\/strong> 
+          A terrain feature where an avalanche occurs. An avalanche path is composed of a starting zone, track, and runout zone.
+          <p id=\"glossary-avalauncher\"><strong>Avalauncher<\/strong> 
+          A compressed gas delivery system for explosives. Designed for avalanche hazard mitigation.
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-b\">b<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-barometer\"><strong>Barometer <\/strong>— An instrument that measures atmospheric pressure. Barometers typically express this measure in millibars (mb) or inches of mercury (inHg).<\/p>
+          <p id=\"glossary-barometric-pressure\"><strong>Barometric Pressure<\/strong> — The pressure exerted by a column of air on the surface of the earth or at a given level in the atmosphere. Also called atmospheric pressure.<\/p>
+          <p id=\"glossary-bed-surface\"><strong>Bed Surface<\/strong> — The surface over which fracture and subsequent avalanche release occurs. The bed surface is often different than the running surface over which the avalanche flows through the track. A bed surface can be either the ground or a snow\/ice surface.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-c\">c<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-calibrate\"><strong>Calibrate<\/strong> — To ascertain the error in the output of a measurement method by checking it against an accepted standard.
+          <p id=\"glossary-caught\"><strong>Caught<\/strong> — A category of the avalanche toll for an accident. A person is caught if they are touched and adversely affected by the avalanche. People performing slope cuts are generally not considered caught in the resulting avalanche unless they are carried downhill.<\/p>
+          <p id=\"glossary-collapse\"><strong>Collapse<\/strong> — When fracture of a lower layer causes an upper layer to fall, producing a displacement at the snow surface. The displacement may not always be detectable with the human eye. A collapse in the snowpack often produces a whumpfing sound.<\/p>
+          <p id=\"glossary-completely-buried\"><strong>Completely Buried<\/strong> — A category of the avalanche toll for an accident. A person is completely buried if they are completely beneath the snow surface when the avalanche stops. Clothing or attached equipment is not visible on the surface.<\/p>
+          <p id=\"glossary-concave-slope\"><strong>Concave Slope<\/strong> — A terrain feature that is rounded inward like the inside of a bowl (i.e. goes from more steep to less steep). Condensation — The process of a gas being converted to a liquid due to changes in temperature and\/or pressure. Also <a href=\"#glossary-evaporation\">see definition of evaporation<\/a>.<\/p>
+          <p id=\"glossary-convex-slope\"><strong>Convex Slope<\/strong> — A terrain feature that is curved or rounded like
+          the exterior of a sphere or circle (i.e. goes from less steep to
+          more steep).<\/p>
+          <p id=\"glossary-cornice\"><strong>Cornice<\/strong> — A mass of snow that is deposited by the wind, often
+          overhanging, and usually near a sharp terrain break such as a
+          ridge.<\/p>
+          <p id=\"glossary-creep\"><strong>Creep<\/strong> — The time-dependent permanent deformation (strain)
+          that occurs under stress. In the snow cover this includes deformation due to settlement and internal shear.<\/p>
+          <p id=\"glossary-crown\"><strong>Crown<\/strong> — The snow that remains on the slope above the crown
+          face of an avalanche.<\/p>
+          <p id=\"glossary-crown-face\"><strong>Crown Face<\/strong> — The top fracture surface of a slab avalanche.
+          Usually smooth, clean cut, and angled 90 degrees to the bed
+          surface. Also <a href=\"#glossary-fracture-line\">see fracture line<\/a>.<\/p>
+          <p id=\"glossary-crystal\"><strong>Crystal<\/strong> — A physically homogeneous solid in which the internal
+          elements are arranged in a repetitive three-dimensional pattern. Within an ice lattice the internal elements are individual water molecules held together by hydrogen bonds. Usually synonymous with grain in snow applications (<a href=\"#glossary-grain\">see definition for grain<\/a>), although the term grain can be used to describe multi-crystal formation.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-d\">d<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-danger-avalanche\"><strong>Danger, Avalanche<\/strong> — The potential for an avalanche(s) to cause damage to something of value. It is a combination of the likelihood of triggering and the destructive size of the avalanche(s). It implies the potential to affect people, facilities or things of value, but does not incorporate vulnerability or exposure to avalanches. Avalanche danger and hazard are often used interchangeably and are commonly expressed using relative terms such as high, moderate and low.<\/p>
+          <p id=\"glossary-debris-avalanche\"><strong>Debris, Avalanche<\/strong> — The mass of snow and other material that accumulates as a result of an avalanche.<\/p>
+          <p id=\"glossary-deformation-solid\"><strong>Deformation, Solid<\/strong> — A change in size or shape of a solid body. Density — A mass of substance per unit volume. The
+          International System of Units (SI) uses kg\/m&sup3; for density. <\/p>
+         <p id=\"glossary-deposition-vapor\"><strong>Deposition, Vapor<\/strong> — The process of a gas being converted directly to a solid due to changes in temperature and\/or pressure. Also <a href=\"#glossary-sublimation\">see definition for sublimation<\/a>.<\/p>
+          <p id=\"glossary-deposition-wind\"><strong>Deposition, Wind<\/strong> — The accumulation of snow that has been
+          transported by wind.<\/p>
+          <p id=\"glossary-dew-point\"><strong>Dew Point<\/strong> — The temperature at which water vapor begins to
+          condense and deposit as a liquid while the pressure is held constant.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-e\">e<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-equilibrium-growth\"><strong>Equilibrium Growth<\/strong> — Slow growth of grains and bonds within
+          the snowpack resulting in a decrease of the specific surface area of snow. Causes particles to round off. Works at low temperature gradients, i.e., when excess water vapor density is below the critical value for kinetic growth to occur. An extreme case of equilibrium growth is isothermal — or equi-temperature — growth in dry snow. This is the type of metamorphism that in nature occurs only in the center of polar ice shields and may allow grains to develop facets. The latter is still a matter of research.<\/p>
+          <p id=\"glossary-equilibrium-vapor-pressure\"><strong>Equilibrium Vapor Pressure<\/strong> — The partial pressure at which evaporation and condensation are occurring at the same rate. Also <a href=\"#glossary-saturation-vapor-pressure\">see saturation vapor pressure<\/a>.<\/p>
+          <p id=\"glossary-eroor\"><strong>Error<\/strong> — The difference between the output of a measurement method and the output of a measurement standard.<\/p>
+          <p id=\"glossary-evaporation\"><strong>Evaporation<\/strong> — Strictly defined as the conversion of mass between liquid and gas phases due to changes in temperature and\/or pressure. Commonly used to describe mass conversion from liquid to gas, with condensation describing a phase change in the opposite direction.<\/p>
+          <p id=\"glossary-exposure\"><strong>Exposure<\/strong> — An element or resource (person, vehicle, structure, etc.) that is subject to the impact of a specific natural hazard.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-f\">f<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-failure\"><strong>Failure<\/strong> — A state of stress or deformation that meets a specific
+          criterion. Many criteria for failure exist, but the most commonly used criteria for snow are: 1) the point at which shear stress in a weak layer equals the shear strength, 2) the point at which shear deformation increases while the strength of the weak layer decreases, 3) sudden excessive plastic deformation, 4) during a stability test, the loading step at which the test column fractures. Failure is a precursor to fracture, but fracture (and slab release) may or may not occur after failure. To avoid confusion, the criterion should always be specified when discussing failure.<\/p>
+          <p id=\"glossary-fall-line\"><strong>Fall line<\/strong> — The natural downhill course between two points on a slope.<\/p>
+          <p id=\"glossary-flank\"><strong>Flank<\/strong> — The snow to the sides of a slab avalanche, which remains after the release.<\/p>
+          <p id=\"glossary-force\"><strong>Force<\/strong> — An agent that causes acceleration or deformation of a particular mass. Often expressed by Newton's Second Law, F = ma, where the force acting on a given object is the product of its mass and its acceleration.<\/p>
+          <p id=\"glossary-fracture\"><strong>Fracture<\/strong> — The process of separating a solid body into two or more parts under the action of stress. The result of the fracture process is variously described depending on stress mode(s), scale, material type, and other variables. Nomenclature includes cracks, breaks, slip regions, dislocations, and ruptures. Occasionally, the word fracture is also used to denote the result of the fracture process (e.g. fracture line profile, fracture character, etc.)<\/p>
+          <p id=\"glossary-fracture-line\"><strong>Fracture Line<\/strong> — The remaining boundary of a slab after an avalanche has occurred. Also <a href=\"#glossary-crown-face\">see definitions for crown face<\/a>, <a href=\"#glossary-flank\">flank<\/a> and <a href=\"#glossary-stauchwall\">stauchwall<\/a>.<\/p>
+          <p id=\"glossary-fracture-mechanics\"><strong>Fracture Mechanics<\/strong> — A branch of materials physics that is concerned with the initiation and propagation of cracks. The field generally utilizes three variables: applied stress, flaw size, and fracture toughness (a material property), to characterize crack energetics or crack stresses.<\/p>
+          <p id=\"glossary-full-profile\"><strong>Full Profile<\/strong> — A complete snow profile observation where grain size, grain type, interval temperature, layer density and layer hardness are measured and recorded in addition to stability information.<\/p>
+          <p id=\"glossary-funicular-wet-snow-regime\"><strong>Funicular, Wet Snow Regime<\/strong> — When discontinuous air spaces and continuous volumes of water exist in a snow cover. In a funicular snow cover only water-ice and air-liquid connections exist. It is generally assumed that snow with a liquid water content (by volume) of 8–15 % is in the funicular regime. Also <a href=\"#glossary-pendualr-wet-snow-regime\">see the definition for the pendular regime<\/a>.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-g\">g<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-glide\"><strong>Glide<\/strong> — Downhill slip of the entire snowpack along the ground or firm interface.<\/p>
+          <p id=\"glossary-grain\"><strong>Grain<\/strong> — The smallest distinguishable ice component in a disaggregated snow cover. Usually synonymous with crystal in snow applications. The term grain can be used to describe polycrystal formations when the crystal boundaries are not easily distinguishable with a field microscope.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-h\">h<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-hang-fire\"><strong>Hang Fire<\/strong> — Snow adjacent to an existing fracture line that remains after avalanche release. Hang fire typically has a similar aspect and incline to the initial avalanche.<\/p>
+          <p id=\"glossary-hard-slab\"><strong>Hard Slab<\/strong> — A snow slab having a density equal to, or greater than 300 kg\/m&sup3; prior to avalanching.<\/p>
+          <p id=\"glossary-hazard-avalanche\"><strong>Hazard, Avalanche<\/strong> — The potential for an avalanche(s) to cause damage to something of value. It is a combination of the likelihood of triggering and the destructive size of the avalanche(s). It implies the potential to affect people, facilities or things of value, but does not incorporate vulnerability or exposure to avalanches. Avalanche danger and hazard are often used interchangeably and are commonly expressed using relative terms such as high, moderate and low.<\/p>
+          <p id=\"glossary-heat\"><strong>Heat<\/strong> — A form of energy associated with the motion of atoms or molecules that is capable of being transmitted through a solid by conduction, through fluid media by conduction and\/ or convection and through empty space by radiation.<\/p>
+          <p id=\"glossary-humidity\"><strong>Humidity<\/strong> — The amount of water vapor contained in air. Also <a href=\"#glossary-relative-humidity\">see relative humidity<\/a>.<\/p>
+          <p id=\"glossary-hysterisis\"><strong>Hysteresis<\/strong> — 1) The history dependence of physical systems. When the outcome of a physical process depends on the history of the element or the direction of the process. 2) The properties of an instrument that depend on approaching a point on the scale during a full-scale traverse in both directions.<\/p>
+          <p id=\"glossary-hysteric-error\"><strong>Hysteretic Error<\/strong> — The difference between the upscale reading and downscale reading at any point on the scale obtained during a full-scale traverse. Also <a href=\"#glossary-hysterisis\">see hysteresis<\/a>.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-i\">i<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-incline\"><strong>Incline<\/strong> — The steepness of a slope. The acute angle measured from the horizontal to the plane of a slope. Also termed slope angle.<\/p>
+          <p id=\"glossary-induced-errors\"><strong>Induced Errors<\/strong> — Errors that stem from equipment quality or deviation from a standard measurement technique.<\/p>
+          <p id=\"glossary-inherent-errors\"><strong>Inherent Errors<\/strong> — Errors due to natural variations in the process of measurement and will vary in sign (+\/-) and magnitude each time they occur.<\/p>
+          <p id=\"glossary-injured\"><strong>Injured<\/strong> — A category of the avalanche toll for an accident. A person is considered injured if they require medical treatment after being caught, partially buried-not critical, partially buried-critical, or completely buried in an avalanche.<\/p>
+          <p id=\"glossary-isothermal\"><strong>Isothermal<\/strong> — The state of equal temperature. In an isothermal snow cover there is no temperature gradient. Seasonal snow covers that are isothermal are typically 0&deg;C.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-k\">k<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-kinetic-growth\"><strong>Kinetic growth<\/strong> — Grain growth at high temperature gradients, i.e., when excess water vapor density is above a critical value (<a href=\"#glossary-equilibrium-growth\">see also equilibrium growth<\/a>). Water vapor diffuses from grains showing higher to those having lower water vapor density, i.e., the so called hand-to-hand mechanism (Yosida et al., 1955). This process results in the sublimation and deposition — or recrystallization — of ice as well as changes in crystal size and shape. These changes usually result in a decrease of the specific surface area of snow. Examples of kinetic growth shapes are faceted crystals (FC) and depth hoar (DH) that form within the snowpack, or surface hoar (SH) that grows on the snow surface.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-l\">l<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-latent-heat\"><strong>Latent Heat<\/strong> — The quantity of heat absorbed or released by a substance undergoing a change of state, such as ice changing to water or water to steam, at constant temperature and pressure.<\/p>
+          <p id=\"glossary-layer-snow\"><strong>Layer, Snow<\/strong> — An element of a snow cover created by a weather, metamorphic, or other event.<\/p>
+          <p id=\"glossary-loose-snow-avalanche\"><strong>Loose-Snow Avalanche<\/strong> — An avalanche that releases from a point and spreads downhill entraining snow. Also termed a point-release avalanche or a sluff.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-m\">m<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-mitigation-avalanche-hazard\"><strong>Mitigation, Avalanche Hazard<\/strong> — To moderate the frequency, timing, force, or destructive effect of avalanches on people, property, or the environment through active or passive methods.<\/p>
+          <p id=\"glossary-mixing-ratio\"><strong>Mixing Ratio<\/strong> — The ratio of the mass of water vapor to the mass of dry air in a volume of air. The mixing ratio is dimensionless, but usually expressed as g\/kg.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-p\">p<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-partially-buried-critical\"><strong>Partially Buried—Critical<\/strong> — A category of the avalanche toll for an accident. A person is partially buried–critical if their head is below the snow surface when the avalanche stops but equipment, clothing and\/or portions of their body are visible.<\/p>
+          <p id=\"glossary-partially-buried-not-critical\"><strong>Partially Buried—Not Critical<\/strong> — A category of the avalanche toll for an accident. A person is partially buried–not critical if their head was above the snow surface when the avalanche stops.<\/p>
+          <p id=\"glossary-partial-pressure\"><strong>Partial Pressure<\/strong> — The pressure a component of a gaseous mixture would exert if it alone occupied the volume the entire mixture occupies.<\/p>
+          <p id=\"glossary-pendualr-wet-snow-regime\"><strong>Pendular, Wet Snow Regime<\/strong> — When continuous air spaces and discontinuous volumes of water exist in a snow cover. In a pendular snow cover: air-ice, water-ice and air-liquid connections exist simultaneously. It is generally assumed that snow with a liquid water content (by volume) of 3–8% is in the pendular regime. Also <a href=\"#glossary-funicular-wet-snow-regime\">see the definition for funicular regime<\/a>.<\/p>
+          <p id=\"glossary-point-release-avalanche\"><strong>Point-Release Avalanche<\/strong> — <a href=\"#glossary-sluff\">See loose snow avalanche or sluff<\/a>. Precipitation Intensity — A measurement of the water equivalent that accumulated during a defined time period (usually
+          1 hour).<\/p>
+          <p id=\"glossary-precipitation-rate\"><strong>Precipitation Rate<\/strong> — An estimate of the amount of snow and\/
+          or rain that accumulated during a defined time period (usually 1 hour).<\/p>
+          <p id=\"glossary-precision\"><strong>Precision<\/strong> — The level of detail that a measurement method can
+          produce under identical conditions. Precision is a property of a measurement method and a measure of repeatability. The precision of a measurement method dictates the degree of discrimination with which a quantity is stated (i.e. a three-digit numeral discriminates among 1,000 possibilities). Also <a href=\"#glossary-accuracy\">see accuracy<\/a>.<\/p>
+          <p id=\"glossary-pressure\"><strong>Pressure<\/strong> — The force applied to or distributed perpendicular to a surface, measured as force per unit area. The International System of Units (SI) uses N\/m&sup2; or a pascal (Pa) for pressure.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-r\">r<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-relative-humidity\"><strong>Relative Humidity<\/strong> — A dimensionless ratio of the vapor pressure to the saturation vapor pressure, or the mixing ratio to the saturation mixing ratio. Relative humidity is reported as percent (i.e. vapor pressure\/ saturation vapor pressure x 100 = % relative humidity).
+          Remote Trigger — When an avalanche releases some distance away from the trigger point.<\/p>
+          <p id=\"glossary-repeatability\"><strong>Repeatability<\/strong> — The difference between consecutive measurements obtained by the same measurement method under the same conditions.<\/p>
+          <p id=\"glossary-resolution\"><strong>Resolution<\/strong> — The smallest interval between two adjacent, discrete measured values that can be distinguished from each other under specified conditions.<\/p>
+          <p id=\"glossary-return-period\"><strong>Return Period<\/strong> — The average time interval between occurrences of an event of given or greater magnitude. Usually expressed in years.<\/p>
+         <p id=\"glossary-risk\"><strong>Risk<\/strong> — The effect of uncertainty on objectives (ISO 31000: 2018). Avalanche Risk is the probability or chance of harm to a specific element at risk, determined by the element's exposure and vulnerability to the avalanche hazard (Statham et al, 2018). In common usage, risk is a broad construct that relates uncertainty to outcome, often mediated by decision making or a diagnostic tool.<\/p>
+          <p id=\"glossary-running-surface\"><strong>Running Surface<\/strong> — The surface over which an avalanche flows below the stauchwall. This surface can extend from the stauchwall, through the track, and into the runout zone. The running surface can be composed of one or more snowpack layers.<\/p>
+          <p id=\"glossary-runout-angle\"><strong>Runout Angle<\/strong> — The angle between the horizontal and a line drawn from the highest point of the crown face to the toe of the debris. The runout angle can be measured for an individual avalanche. Extreme values can be determined from historical records, tree ring data, or direct observation. Minimum values (longest runout length) can also be estimated for a specific return period. Also termed the alpha angle or angle of reach.<\/p>
+          <p id=\"glossary-runout-zone\"><strong>Runout Zone<\/strong> — The portion of an avalanche path where the avalanche debris typically comes to rest due to a decrease in slope angle, a natural obstacle, or loss of momentum.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-s\">s<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-saturation-mixing-ratio\"><strong>Saturation Mixing Ratio<\/strong> — The mixing ratio of a parcel of air that is at equilibrium. See definitions of <a href=\"#glossary-vapor-pressure\">vapor pressure<\/a>, <a href=\"#glossary-saturation-vapor-pressure\">saturation vapor pressure<\/a> and <a href=\"#glossary-glossary-saturation-vapor-pressure\">equilibrium vapor pressure<\/a>.<\/p>
+          <p id=\"glossary-saturation-vapor-pressure\"><strong>Saturation Vapor Pressure<\/strong> — The partial pressure of a vapor when evaporation and condensation are occurring at the same rate over a flat surface of pure substance (i.e. water). The saturation vapor pressure is a special case of the equilibrium vapor pressure.<\/p>
+          <p id=\"glossary-sensitivity\"><strong>Sensitivity<\/strong> — The response of a measurement method to a change in the parameter being measured. The sensitivity of a measurement method is usually expressed as a ratio. Example: For a mercury thermometer the sensitivity equals the change in length of the column of mercury per degree of temperature (m\/&deg;C).<\/p>
+          <p id=\"glossary-settling-settlement\"><strong>Settling, Settlement<\/strong> — The slow, internal deformation and densification of snow under the influence of gravity. A component of creep.<\/p>
+          <p id=\"glossary-si-units\"><strong>SI Units<\/strong> — Syst&egrave;me International d ́Unit&eacute;s. An international system of units. <a href=\"#placeholder\">See Appendix B<\/a>.<\/p>
+          <p id=\"glossary-slab\"><strong>Slab<\/strong> — A cohesive snowpack element consisting of one or more snow layers.<\/p>
+          <p id=\"glossary-slab-avalanche\"><strong>Slab Avalanche<\/strong> — An avalanche that releases a cohesive slab of snow producing a fracture line.<\/p>
+          <p id=\"glossary-slope-angle\"><strong>Slope Angle<\/strong> —The acute angle measured from the horizontal to the plane of a slope.<\/p>
+          <p id=\"glossary-sluff\"><strong>Sluff<\/strong> — A loose snow avalanche or point release avalanche. Snow Profile — A pit dug vertically into the snowpack where observations of snow cover stratigraphy and characteristics of the individual layers are observed. Also used to describe data
+          collected by this method at an individual site.<\/p>
+          <p id=\"glossary-soft-slab\"><strong>Soft Slab<\/strong> — A snow slab with a density less than 300 kg\/m&sup3;. Spatial Variability — The variation of physical properties across the physical extent, or various spatial scales, of a material. Typical scales in snow avalanche research and practice include the continental scale (defining variations in snow and avalanche climates), the regional scale (such as regions covered by backcountry avalanche advisories), the scale of individual mountain ranges (of various sizes), and the scale of individual slopes. Physical properties investigated vary, but include weak layer shear strength, stability test scores, penetration resistance, microstructural parameters, layer continuity, snow water equivalent, snow depth, and other characteristics. Stability — 1) A property of a system where the effects of an induced disturbance decrease in magnitude and the system returns to its original state. 2) For avalanche forecasting stability is the chance that avalanches do not initiate. Stability is analyzed in space and time relative to a given triggering level or load. <\/p>
+          <p id=\"glossary-starting-zone\"><strong>Starting Zone<\/strong> — The portion of an avalanche path from where the avalanche releases.<\/p>
+          <p id=\"glossary-stauchwall\"><strong>Stauchwall<\/strong> — The downslope fracture surface of a slab avalanche. Strain — The deformation of a physical body under an external
+          force represented by a dimensionless ratio (m\/m).<\/p>
+          <p id=\"glossary-strength\"><strong>Strength<\/strong> — 1) The ability of a material to resist strain or stress. 2) The maximum stress a snow layer can withstand without
+          failing or fracturing.<\/p>
+          <p id=\"glossary-stress\"><strong>Stress<\/strong> — The distribution of force over a particular area.
+          Expressed in units of force per area (N\/m&sup2;).<\/p>
+          <p id=\"glossary-study-plot\"><strong>Study Plot<\/strong> — A fixed location where atmospheric and snow
+          properties are measured and recorded. Study plot locations are chosen to limit the effects of external influences (i.e. wind, sun, slope angle) and are typically close to level.<\/p>
+          <p id=\"glossary-study-slope\"><strong>Study Slope<\/strong> — A fixed, normally inclined location where snow properties and snow stability are measured and recorded. Atmospheric fields can also be recorded at a study slope. Study slope locations are chosen in relatively uniform areas, so that snow properties can be monitored over time and extrapolated to starting zones.<\/p>
+          <p id=\"glossary-sublimation\"><strong>Sublimation<\/strong> — Strictly defined as the conversion of mass
+          between solid and gas phases due to changes in temperature and\/or pressure. Commonly used to describe mass conversion from solid to gas, with deposition describing a phase change in the opposite direction.<\/p>
+          <p id=\"glossary-sympathetic-trigger\"><strong>Sympathetic Trigger<\/strong> — When an avalanche triggers another avalanche some distance away. The second avalanche releases due to the disturbance of the first.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-t\">t<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-targeted-site\"><strong>Targeted Site<\/strong> — A location where a targeted observation is conducted. A targeted site is chosen to investigate parameters of interest to a particular observer at a particular location. Data from targeted sites complements data from study plots and study slopes.<\/p>
+          <p id=\"glossary-temperature\"><strong>Temperature<\/strong> — Often defined as the condition of a body that determines the transfer of heat to or from other bodies. Particularly, it is a manifestation of the average translational kinetic energy of the molecules of a substance due to heat agitation. Also, the degree of hotness or coldness measured on a definite scale.<\/p>
+          <p id=\"glossary-temperature-gradient\"><strong>Temperature Gradient<\/strong> — The change in temperature over a distance. Expressed in units of degrees per length (i.e. &deg;C\/m).<\/p>
+          <p id=\"glossary-test-profile\"><strong>Test Profile<\/strong> — A snow profile where selected characteristics of the snowpack are observed and recorded. Stability tests are typically conducted in a test profile. Also <a href=\"#glossary-full-profile\">see full profile<\/a>.<\/p>
+          <p id=\"glossary-track\"><strong>Track<\/strong> — The portion of an avalanche path that lies below the starting zone and above the runout zone.<\/p>
+          <p id=\"glossary-trigger\"><strong>Trigger<\/strong> — The mechanism that increases the load on the snowpack, or changes its physical properties to the point that fracture and subsequent avalanching occurs.<\/p>
+          <p id=\"glossary-trigger-point\"><strong>Trigger Point<\/strong> — The area where a trigger is applied.<\/p>
+          
+          <p>&nbsp;<\/p>
+          <div class=\"card chapter-header\">
+            <div class=\"card-body\">
+              <h2 id=\"glossary-v\">v<\/h2>
+            <\/div>
+          <\/div>
+          <p id=\"glossary-vapor-pressure\"><strong>Vapor Pressure<\/strong> — The partial pressure of a vapor. <\/p>
+         <p id=\"glossary-vulnerability\"><strong>Vulnerability<\/strong> — The degree to which an exposed element (person, vehicle, structure, etc.) will suffer loss from the impact of a specific natural hazard.<\/p>
+         
+         <p>&nbsp;<\/p>
+         <div class=\"card chapter-header\">
+           <div class=\"card-body\">
+             <h2 id=\"glossary-w\">w<\/h2>
+           <\/div>
+         <\/div>
+         <p id=\"glossary-wind-sensor\"><strong>Wind Sensor<\/strong> — An instrument that measures both wind speed and direction.<\/p>
+         <p id=\"glossary-wind-slab\"><strong>Wind Slab<\/strong> — A dense layer(s) of snow formed by wind deposition.<\/p>
+         <p id=\"glossary-whumpf\"><strong>Whumpf<\/strong> — <a href=\"#glossary-collapse\">See collapse<\/a>.<\/p>
+          
+        <\/div>
+      <\/main>"
+}

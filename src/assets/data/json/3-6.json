@@ -1,0 +1,1163 @@
+{
+     "_id" :  "3-6",
+     "chapter" : "Chapter 3: AVALANCHE OBSERVATIONS",
+     "header" : "3.6 AVALANCHE EVENT CHARACTERISTICS",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+         <!-- START sections index accordion -->
+         <div class=\"accordion\" id=\"sectionIndexAccordion\">
+           <div class=\"accordion-item\">
+           <h2 class=\"accordion-header\" id=\"sectionIndexheading\">
+           <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#sectionIndexcollapse\" aria-expanded=\"false\" aria-controls=\"sectionIndexcollapse\">
+           Sections
+           <\/button>
+           <\/h2>
+           <div id=\"sectionIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"sectionIndexheading\" data-bs-parent=\"#sectionIndexAccordion\">
+           <!-- START table -->
+           <div class=\"list-group\">
+              <a href=\"#3-6-1\" class=\"list-group-item list-group-item-action\">3.6.1 Date <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/a>
+              <a href=\"#3-6-2\" class=\"list-group-item list-group-item-action\">3.6.2 Time <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/a>
+              <a href=\"#3-6-3\" class=\"list-group-item list-group-item-action\">3.6.3 Avalanche Type <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/a>
+              <a href=\"#3-6-4\" class=\"list-group-item list-group-item-action\">3.6.4 Trigger <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/a>
+              <a href=\"#3-6-5\" class=\"list-group-item list-group-item-action\">3.6.5 Size <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/a>
+              <a href=\"#3-6-6\" class=\"list-group-item list-group-item-action\">3.6.6 Snow Properties <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/a>
+              <a href=\"#3-6-7\" class=\"list-group-item list-group-item-action\">3.6.7 Avalanche Dimensions <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/a>
+              <a href=\"#3-6-8\" class=\"list-group-item list-group-item-action\">3.6.8 Location of Avalanche Start <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/a>
+              <a href=\"#3-6-9\" class=\"list-group-item list-group-item-action\">3.6.9 Terminus <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/a>
+              <a href=\"#3-6-10\" class=\"list-group-item list-group-item-action\">3.6.10 Total Deposit Dimensions<\/a>
+              <a href=\"#3-6-11\" class=\"list-group-item list-group-item-action\">3.6.11 Avalanche Runout<\/a>
+              <a href=\"#3-6-12\" class=\"list-group-item list-group-item-action\">3.6.12 Coding Avalanche Observations<\/a>
+              <a href=\"#3-6-13\" class=\"list-group-item list-group-item-action\">3.6.13 Comments<\/a>
+            <\/div>
+           <!-- END table -->
+           <\/div>
+           <\/div>
+           <\/div>
+         <!-- END sections index accordion -->
+         <!-- START tables index accordion -->
+         <div class=\"accordion\" id=\"tablesIndexAccordion\">
+           <div class=\"accordion-item\">
+           <h2 class=\"accordion-header\" id=\"tablesIndexheading\">
+           <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#tablesIndexcollapse\" aria-expanded=\"false\" aria-controls=\"tablesIndexcollapse\">
+           Tables
+           <\/button>
+           <\/h2>
+           <div id=\"tablesIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"tablesIndexheading\" data-bs-parent=\"#tablesIndexAccordion\">
+           <!-- START table -->
+           <div class=\"list-group\">
+             <a href=\"#table3-2Accordion\" class=\"list-group-item list-group-item-action\">Table 3.2 Avalanche Type<\/a>
+             <a href=\"#table3-3Accordion\" class=\"list-group-item list-group-item-action\">Table 3.3 Avalanche Trigger Codes — Primary<\/a>
+             <a href=\"#table3-4Accordion\" class=\"list-group-item list-group-item-action\">Table 3.4 Avalanche Trigger Codes — Secondary<\/a>
+             <a href=\"#table3-5Accordion\" class=\"list-group-item list-group-item-action\">Table 3.5 Avalanche Trigger Code Modifiers<\/a>
+             <a href=\"#table3-6Accordion\" class=\"list-group-item list-group-item-action\">Table 3.6 Secondary Trigger Codes Natural and Explosives<\/a>
+             <a href=\"#table3-7Accordion\" class=\"list-group-item list-group-item-action\">Table 3.7 Trigger Code Modifiers Natural and Explosives<\/a>
+             <a href=\"#table3-8Accordion\" class=\"list-group-item list-group-item-action\">Table 3.8 Avalanche Size — Destructive Force<\/a>
+             <a href=\"#table3-9Accordion\" class=\"list-group-item list-group-item-action\">Table 3.9 Avalanche Size — Relative to Path<\/a>
+             <a href=\"#table3-10Accordion\" class=\"list-group-item list-group-item-action\">Table 3.10 Avalanche Bed Surface><\/a>
+             <a href=\"#table3-11Accordion\" class=\"list-group-item list-group-item-action\">Table 3.11 Liquid Water Content of Snow in Avalanche Starting Zone<\/a>
+             <a href=\"#table3-12Accordion\" class=\"list-group-item list-group-item-action\">Table 3.12 Location of Avalanche Start<\/a>
+             <a href=\"#table3-13Accordion\" class=\"list-group-item list-group-item-action\">Table 3.13 Terminus of Avalanche Debris<\/a>
+             <a href=\"#table3-14Accordion\" class=\"list-group-item list-group-item-action\">Table 3.14 Detailed Terminus Codes<\/a>
+             <a href=\"#table3-15Accordion\" class=\"list-group-item list-group-item-action\">Table 3.15 Alpha Angle Subcategories<\/a>
+           <\/div>
+           <!-- END table -->
+           <\/div>
+           <\/div>
+         <\/div>
+         <!-- END tables index accordion -->
+         <!-- START figures index accordion -->
+         <div class=\"accordion\" id=\"figureIndexAccordion\">
+           <div class=\"accordion-item\">
+           <h2 class=\"accordion-header\" id=\"figureIndexheading\">
+           <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureIndexcollapse\" aria-expanded=\"false\" aria-controls=\"figureIndexcollapse\">
+           Figures
+           <\/button>
+           <\/h2>
+           <div id=\"figureIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureIndexheading\" data-bs-parent=\"#figureIndexAccordion\">
+           <!-- START table -->
+           <a href=\"#figure3-3Accordion\" class=\"list-group-item list-group-item-action\">Figure 3.3 Avalanche Types<\/a>
+            <a href=\"#figure3-4Accordion\" class=\"list-group-item list-group-item-action\">Figure 3.4 Slab Triggered by Loose-Snow<\/a>
+            <a href=\"#figure3-5Accordion\" class=\"list-group-item list-group-item-action\">Figure 3.5 Remotely Triggered Avalanches<\/a>
+            <a href=\"#figure3-6Accordion\" class=\"list-group-item list-group-item-action\">Figure 3.6 Glide Trigger<\/a>
+            <a href=\"#figure3-7Accordion\" class=\"list-group-item list-group-item-action\">Figure 3.7 Runout of a Large Path<\/a>
+           <!-- END table -->
+           <\/div>
+           <\/div>
+         <\/div>
+         <!-- END figures index accordion -->
+          <hr>
+
+          <!-- START 1st section -->
+          <h2 id=\"3-6-1\">3.6.1 Date  <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/h2>
+          <p>Record year, month and day of the avalanche occurrence (avoid spaces, commas, etc.); i.e. December 15, 2023, is noted as 20231215 (YYYYMMDD).<\/p>
+          <!-- END 1st section -->
+          <hr>
+          <!-- START 2nd section -->
+          <h2 id=\"3-6-2\">3.6.2 Time <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/h2>
+          <p>Estimate the time of occurrence and record it by hour and minute in local standard time.<\/p>
+          <p>Record the time of occurrence on the 24-hour clock (avoid spaces, colons, etc.); i.e. 5:10 p.m. is noted as 1710.<\/p>
+          <p>Use local standard time (i.e. Pacific, Mountain, etc.). Operations that overlap time zones should standardize to one time.<\/p>
+          <p>When the precise time of occurrence is unknown, use 2405 and 2417 for avalanches that released during the AM and PM respectively. Time ranges or start and end times of mitigation missions can also be used.<\/p>
+          <!-- END 2nd section -->
+          <!-- START section 03 -->
+          <h2 id=\"3-6-3\">3.6.3 Avalanche Type <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/h2>
+          <p>Record the type of avalanche as described in <a href=\"#table3-2Accordion\">Table 3.2<\/a>.<\/p>
+          <p>A hard slab has an average density equal to or greater than 300 kg\/m3. Informal distinctions can be made between hard and soft slab avalanches based on the form of the deposit and the hand hardness of the slab. Hard slab avalanches generally have a slab hardness of one finger or greater. Debris piles from hard slab avalanches are typically composed of angular blocks of snow.<\/p>
+          <!-- END section 03 -->
+          <!-- START table 3-2 accordion -->
+          <div class=\"accordion\" id=\"table3-2Accordion\">
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"table3-2heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table3-2collapse\" aria-expanded=\"false\" aria-controls=\"table3-2collapse\">
+              Table 3.2 Avalanche Type
+            <\/button>
+            <\/h2>
+            <div id=\"table3-2collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table3-2heading\" data-bs-parent=\"#table3-2Accordion\">
+            <div class=\"accordion-body\">
+             <!-- START table -->
+               <div class=\"table-responsive\">
+                <h5 id=\"table-3-2\">Table 3.2 Avalanche Type<\/h5>
+                <table class=\"table table-bordered\">
+                <thead class=\"thead-light\">
+                  <tr>
+                   <th scope=\"col\">Data Code<\/th>
+                   <th scope=\"col\">Type<\/th>
+                  <\/tr>
+                <\/thead>
+                <tbody>
+                <tr>
+                  <th>L<\/th>
+                  <td>Loose-snow avalanche<\/td>
+                <\/tr>
+                <tr>
+                  <th>WL<\/th>
+                   <td>Soft slab avalanche<\/td>
+                <\/tr>
+                <tr>
+                  <th>SS<\/th>
+                   <td>Soft slab avalanche<\/td>
+                <\/tr>
+                <tr>
+                  <th>HS<\/th>
+                   <td>Hard slab avalanche<\/td>
+                <\/tr>
+                <tr>
+                  <th>WS<\/th>
+                   <td>Wet slab avalanche<\/td>
+                <\/tr>
+                <tr>
+                  <th>I<\/th>
+                   <td>Ice fall or avalanche<\/td>
+                <\/tr>
+                <tr>
+                  <th>SF<\/th>
+                   <td>Slush flow<\/td>
+                <\/tr>
+                <tr>
+                  <th>C<\/th>
+                   <td>Cornice fall (w\/o additional avalanche)<\/td>
+                <\/tr>
+                <tr>
+                  <th>R<\/th>
+                   <td>Roof avalanche<\/td>
+                <\/tr>
+                <tr>
+                  <th>U<\/th>
+                   <td>Unknown<\/td>
+                <\/tr>
+                <\/tbody>
+                <\/table>
+                <\/div>
+               <!-- END table -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <\/div>
+          <!-- END table 3-2 accordion -->
+          <!-- START figure 3-3 accordion -->
+          <div class=\"accordion\" id=\"figure3-3Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figure3-3heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure3-3collapse\" aria-expanded=\"false\" aria-controls=\"figure3-3collapse\">
+            Figure 3.3 Avalanche types
+            <\/button>
+            <\/h2>
+            <div id=\"figure3-3collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure3-3heading\" data-bs-parent=\"#figure3-3Accordion\">
+            <!-- START image -->
+              <img src=\"images\/figures\/3-3a.jpg\" class=\"img-fluid\" alt=\"soft slab avalanche\">
+              <p class=\"accordion-body\">Soft slab avalanche <br><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Bruce Tremper<\/small><\/p>
+              <img src=\"images\/figures\/3-3b.jpg\" class=\"img-fluid\" alt=\"wet debris avalanche\">
+              <p class=\"accordion-body\">Wet debris <br><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Matt Steen<\/small><\/p>
+              <img src=\"images\/figures\/3-3c.jpg\" class=\"img-fluid\" alt=\"point release avalanche\">
+              <p class=\"accordion-body\">Point release avalanche <br><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Colorado Avalanche Information Center<\/small><\/p>
+              <img src=\"images\/figures\/3-3d.jpg\" class=\"img-fluid\" alt=\"hard slab\">
+              <p class=\"accordion-body\">Debris from a hard slab avalanche <br><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\"> Karl Birkeland<\/small><\/p>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure 3-3 accordion -->
+          
+          <!-- END Section 2 -->
+          <hr>
+            <!-- START Section 4 -->
+            <h2 id=\"3-6-4\">3.6.4 Trigger <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/h2>
+            <p>Indicate the mechanism that caused the avalanche with a primary code, secondary code when possible, and modifier when appropriate. The secondary codes have been separated into two categories with separate modifiers for each. Operations may devise other trigger sub-classes that apply to their specific conditions in consultation with the American Avalanche Association. Guidelines for reporting avalanche involvements are listed in <a href=\"placeholder\">Appendix H<\/a>. Examples of coding structure are given in <a href=\"#3-6-12\">Section 3.6.12<\/a>.<\/p>
+              <!-- END Section 4 -->
+              <!-- START table 3-3 accordion -->
+              <div class=\"accordion\" id=\"table3-3Accordion\">
+              <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"table3-3heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table3-3collapse\" aria-expanded=\"false\" aria-controls=\"table3-3collapse\">
+                  Table 3.3 Primary Trigger Codes
+                <\/button>
+                <\/h2>
+                <div id=\"table3-3collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table3-3heading\" data-bs-parent=\"#table3-3Accordion\">
+                <div class=\"accordion-body\">
+                 <!-- START table -->
+                   <div class=\"table-responsive\">
+                    <h5 id=\"table-1-10\">Table 3.3 Avalanche Trigger Codes — Primary<\/h5>
+                    <table class=\"table table-bordered\">
+                    <thead class=\"thead-light\">
+                      <tr>
+                       <th scope=\"col\">Data Code<\/th>
+                       <th scope=\"col\">Cause of Avalanche Release<\/th>
+                      <\/tr>
+                    <\/thead>
+                    <tbody>
+                    <tr>
+                      <th>N<\/th>
+                      <td>Natural or Spontaneous<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>A<\/th>
+                       <td>Artificial<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>U<\/th>
+                       <td>Unknown<\/td>
+                    <\/tr>
+                    <\/tbody>
+                    <\/table>
+                    <\/div>
+                   <!-- END table -->
+                <\/div>
+                <\/div>
+              <\/div>
+              <\/div>
+              <!-- END table 3-3 accordion -->
+              <!-- START table 3-4 accordion -->
+              <div class=\"accordion\" id=\"table3-4Accordion\">
+              <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"table3-4heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table3-4collapse\" aria-expanded=\"false\" aria-controls=\"table3-4collapse\">
+                  Table 3.4 Secondary Trigger Codes
+                <\/button>
+                <\/h2>
+                <div id=\"table3-4collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table3-4heading\" data-bs-parent=\"#table3-4Accordion\">
+                <div class=\"accordion-body\">
+                 <!-- START table -->
+                   <div class=\"table-responsive\">
+                    <h5 id=\"table-3-4\">Table 3.4 Avalanche Trigger Codes — Secondary<\/h5>
+                    <p>Human, Vehicle, and Miscellaneous Artificially Triggered Releases<\/p>
+                    <table class=\"table table-bordered\">
+                    <thead class=\"thead-light\">
+                      <tr>
+                       <th scope=\"col\">Data Code<\/th>
+                       <th scope=\"col\">Cause of Avalanche Release<\/th>
+                      <\/tr>
+                    <\/thead>
+                    <tbody>
+                    <tr>
+                      <th colspan=\"2\">Artificial Triggers: Vehicle<\/th>
+                    <\/tr>
+                    <tr>
+                      <th>AM<\/th>
+                      <td>Snowmobile<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AN<\/th>
+                       <td>Motorized Snowbike<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AK<\/th>
+                       <td>Snowcat<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AV<\/th>
+                       <td>Vehicle (specify in comments)<\/td>
+                    <\/tr>
+                    <tr>
+                      <th colspan=\"2\">Artificial Triggers: Human<\/th>
+                    <\/tr>
+                    <tr>
+                      <th>AS<\/th>
+                      <td>Skier<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AR<\/th>
+                       <td>Snowboarder<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AI<\/th>
+                       <td>Snowshoer<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AF<\/th>
+                       <td>Foot penetration<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AC<\/th>
+                       <td>Cornice fall produced by human <br>
+                       or explosive action<\/td>
+                    <\/tr>
+                    <tr>
+                      <th colspan=\"2\">Artificial Triggers: Miscellaneous<\/th>
+                    <\/tr>
+                    <tr>
+                      <th>AU<\/th>
+                      <td>Unknown artificial trigger<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AO<\/th>
+                       <td>Unclassified artificial trigger <br>(specify
+                         in comments)<\/td>
+                    <\/tr>
+                    <\/tbody>
+                    <\/table>
+                    <\/div>
+                   <!-- END table -->
+                   <p><i>Avalanches triggered by a helicopter when it is touching the snow should be recorded as AV. Avalanches triggered by a helicopter in \"ground effect\" should be recorded as AVr. Use your best judgment.<\/i><\/p>
+                   <p><i>Avalanches that start when a helicopter or other aircraft flies overhead should be considered natural if the aircraft is a significant distance (out of ground effect) above the ground.<\/i><\/p>
+                <\/div>
+                <\/div>
+              <\/div>
+              <\/div>
+              <!-- END table 3-4 accordion -->
+              <!-- START table 3-5 accordion -->
+              <div class=\"accordion\" id=\"table3-5Accordion\">
+              <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"table3-5heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table3-5collapse\" aria-expanded=\"false\" aria-controls=\"table3-5collapse\">
+                  Table 3.5 Trigger Code Modifiers
+                <\/button>
+                <\/h2>
+                <div id=\"table3-5collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table3-5heading\" data-bs-parent=\"#table3-5Accordion\">
+                <div class=\"accordion-body\">
+                 <!-- START table -->
+                   <div class=\"table-responsive\">
+                    <h5 id=\"table-3-5\">Table 3.5 Avalanche Trigger Code Modifiers<\/h5>
+                    <p>for Human, Vehicle, and Miscellaneous Artificially Triggered Releases<\/p>
+                    <table class=\"table table-bordered\">
+                    <thead class=\"thead-light\">
+                      <tr>
+                       <th scope=\"col\">Data Code<\/th>
+                       <th scope=\"col\">Cause of Avalanche Release<\/th>
+                      <\/tr>
+                    <\/thead>
+                    <tbody>
+                    <tr>
+                      <th>c<\/th>
+                      <td>An intentional release by the indicated trigger <br>
+                      (i.e. slope cut, intentional cornice drop, etc.)<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>u<\/th>
+                       <td>An unintentional release<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>r<\/th>
+                       <td>A remote avalanche released by the indicated trigger<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>y<\/th>
+                       <td>An avalanche released in sympathy with another avalanche<\/td>
+                    <\/tr>
+                    <\/tbody>
+                    <\/table>
+                    <\/div>
+                   <!-- END table -->
+                <\/div>
+                <\/div>
+              <\/div>
+              <\/div>
+              <!-- END table 3-5 accordion -->
+              <!-- START table 3-6 accordion -->
+              <div class=\"accordion\" id=\"table3-6Accordion\">
+              <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"table3-6heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table3-6collapse\" aria-expanded=\"false\" aria-controls=\"table3-6collapse\">
+                  Table 3.6 Secondary Trigger Codes Natural and Explosives
+                <\/button>
+                <\/h2>
+                <div id=\"table3-6collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table3-6heading\" data-bs-parent=\"#table3-6Accordion\">
+                <div class=\"accordion-body\">
+                 <!-- START table -->
+                   <div class=\"table-responsive\">
+                    <h5 id=\"table-3-6\">Table 3.6 Avalanche Trigger Codes — Secondary<\/h5>
+                    <p>Natural and Explosively Triggered Releases<\/p>
+                    <table class=\"table table-bordered\">
+                    <thead class=\"thead-light\">
+                      <tr>
+                       <th scope=\"col\">Data Code<\/th>
+                       <th scope=\"col\">Cause Of Avalanche Release<\/th>
+                      <\/tr>
+                    <\/thead>
+                    <tbody>
+                      <tr>
+                        <th colspan=\"2\">Natural or Spontaneous<\/th>
+                      <\/tr>
+                    <tr>
+                      <th>N<\/th>
+                      <td>Natural trigger<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>NC<\/th>
+                       <td>Cornice fall<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>NE<\/th>
+                       <td>Earthquake<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>NI<\/th>
+                       <td>Ice fall<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>NL<\/th>
+                       <td>Avalanche triggered by loose snow avalanche (<a href=\"#placeholder\">Figure 3.4<\/a>)<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>NS<\/th>
+                       <td>Avalanche triggered by slab avalanche<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>NR<\/th>
+                       <td>Rock fall<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>NO<\/th>
+                       <td>Unclassified natural trigger (specify in comments)<\/td>
+                    <\/tr>
+                    <tr>
+                      <th colspan=\"2\">Artificial Triggers: Explosive<\/th>
+                    <\/tr>
+                    <tr>
+                      <th>AA<\/th>
+                       <td>Artillery<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AE<\/th>
+                       <td>An explosive thrown or placed on or under the snow surface by hand<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AL<\/th>
+                       <td>Avalauncher<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AB<\/th>
+                       <td>An explosive detonated above the snow surface (air blast)<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AC<\/th>
+                       <td>Cornice fall triggered by human or explosive action<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AX<\/th>
+                       <td>Gas exploder<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AH<\/th>
+                       <td>Explosives placed via helicopter<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AP<\/th>
+                       <td>Pre-placed on or in the snow, remotely detonated explosive charge<\/td>
+                    <\/tr>
+                    <tr>
+                      <th colspan=\"2\">Artificial Triggers: Miscellaneous<\/th>
+                    <\/tr>
+                    <tr>
+                      <th>AW<\/th>
+                       <td>Wild or Domesticated Animal<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AU<\/th>
+                       <td>Unknown artificial trigger<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>AO<\/th>
+                       <td>Unclassified artificial trigger (specify in
+                         comments)<\/td>
+                    <\/tr>	
+                    <\/tbody>
+                    <\/table>
+                    <\/div>
+                   <!-- END table -->
+                <\/div>
+                <\/div>
+              <\/div>
+              <\/div>
+              <!-- END table 3-6 accordion -->
+              <!-- START table 3-7 accordion -->
+              <div class=\"accordion\" id=\"table3-7Accordion\">
+              <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"table3-7heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table3-7collapse\" aria-expanded=\"false\" aria-controls=\"table3-7collapse\">
+                  Table 3.7 Trigger Code Modifiers Natural and Explosives
+                <\/button>
+                <\/h2>
+                <div id=\"table3-7collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table3-7heading\" data-bs-parent=\"#table3-7Accordion\">
+                <div class=\"accordion-body\">
+                 <!-- START table -->
+                   <div class=\"table-responsive\">
+                    <h5 id=\"table-3-7\">Table 3.7 Avalanche Trigger Code Modifiers <\/h5>
+                    <p>for Natural and Explosively Triggered Releases<\/p>
+                    <table class=\"table table-bordered\">
+                    <thead class=\"thead-light\">
+                      <tr>
+                       <th scope=\"col\">Data Code<\/th>
+                       <th scope=\"col\">Cause Of Avalanche Release<\/th>
+                      <\/tr>
+                    <\/thead>
+                    <tbody>
+                    <tr>
+                      <th>r<\/th>
+                      <td>A remote avalanche released by the indicated trigger<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>y<\/th>
+                       <td>An avalanche released in sympathy with another avalanche<\/td>
+                    <\/tr>
+                    <\/tbody>
+                    <\/table>
+                    <\/div>
+                   <!-- END table -->
+                   <p><i>Note for Table 3.7: For remote and sympathetic avalanches the distance between the trigger and the avalanche should be recorded in the comments.<\/i><\/p>
+                <\/div>
+                <\/div>
+              <\/div>
+              <\/div>
+              <!-- END table 3-7 accordion -->
+              <!-- START figure 3-4 accordion -->
+              <div class=\"accordion\" id=\"figure3-4Accordion\">
+                <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"figure3-4heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure3-4collapse\" aria-expanded=\"false\" aria-controls=\"figure3-4collapse\">
+                Figure 3.4 Slab Triggered by Loose-Snow
+                <\/button>
+                <\/h2>
+                <div id=\"figure3-4collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure3-4heading\" data-bs-parent=\"#figure3-4Accordion\">
+                <!-- START image -->
+                  <img src=\"images\/figures\/3-4.jpg\" class=\"img-fluid\" alt=\"soft slab avalanche\">
+                  <div class=\"accordion-body\">
+                <p>Slab avalanche triggered by a loose-snow avalanche.<\/p>
+                   <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Andy Gleason<\/small><\/p>
+                  <\/div>
+                <!-- END image -->
+                <\/div>
+                <\/div>
+              <\/div>
+              <!-- END figure 3-4 accordion -->
+              <!-- START figure 3-5 accordion -->
+              <div class=\"accordion\" id=\"figure3-5Accordion\">
+                <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"figure3-5heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure3-5collapse\" aria-expanded=\"false\" aria-controls=\"figure3-5collapse\">
+                Figure 3.5 Remotely Triggered Avalanches 
+                <\/button>
+                <\/h2>
+                <div id=\"figure3-5collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure3-5heading\" data-bs-parent=\"#figure3-5Accordion\">
+                <!-- START image -->
+                  <img src=\"images\/figures\/3-5.jpg\" class=\"img-fluid\" alt=\"Slab avalanches remotely triggered by foot penetration. \">
+                  <div class=\"accordion-body\">
+                <p>Slab avalanches remotely triggered by foot penetration. <\/p>
+                   <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">John Sykes<\/small><\/p>
+                  <\/div>
+                <!-- END image -->
+                <\/div>
+                <\/div>
+              <\/div>
+              <!-- END figure 3-5 accordion -->
+              <!-- START figure 3-6 accordion -->
+              <div class=\"accordion\" id=\"figure3-6Accordion\">
+                <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"figure3-6heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure3-6collapse\" aria-expanded=\"false\" aria-controls=\"figure3-6collapse\">
+                Figure 3.6 Glide Trigger
+                <\/button>
+                <\/h2>
+                <div id=\"figure3-6collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure3-6heading\" data-bs-parent=\"#figure3-6Accordion\">
+                <!-- START image -->
+                  <img src=\"images\/figures\/3-6.jpg\" class=\"img-fluid\" alt=\"An avalanche triggered by glide of the snowpack.\">
+                  <div class=\"accordion-body\">
+                <p>An avalanche triggered by glide of the snowpack. <\/p>
+                   <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Heather Thamm
+              <\/small><\/p>
+                  <\/div>
+                <!-- END image -->
+                <\/div>
+                <\/div>
+              <\/div>
+              <!-- END figure 3-6 accordion -->
+              <hr>
+              <!-- START Section 5 -->
+              <h2 id=\"3-6-5\">3.6.5 Size <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"><\/h2>
+              <p>The two commonly used avalanche size classification schemes are: 1) destructive force, and 2) relative to path. Both systems use a scale that varies from 1 to 5. These guidelines recommend observing and recording avalanche size in both systems. Using both systems will maintain long-term data sets and provide the most useful information to active forecasting programs. However, forecasting program managers should decide whether to use one or both schemes. Each system provides different and useful information, but the numerical categories of each scale are often not comparable.<\/p>
+              <h3>3.6.5.1 Size — Destructive Force<\/h3>
+              <p>Estimate the destructive potential of the avalanche from the mass of deposited snow, and assign a size number. Imagine that the objects described in <a href=\"placeholder\">Table 3.8<\/a> (people, cars, trees, etc.) were located in the track or at the beginning of the runout zone and estimate the harm the avalanche would have caused.<\/p>
+              <!-- START table 3-8 accordion -->
+              <div class=\"accordion\" id=\"table3-8Accordion\">
+              <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"table3-8heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table3-8collapse\" aria-expanded=\"false\" aria-controls=\"table3-8collapse\">
+                  Table 3.8 Destructive Force
+                <\/button>
+                <\/h2>
+                <div id=\"table3-8collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table3-8heading\" data-bs-parent=\"#table3-8Accordion\">
+                <div class=\"accordion-body\">
+                 <!-- START table -->
+                   <div class=\"table-responsive\">
+                    <h5 id=\"table-3-8\">Table 3.8 Avalanche Size — Destructive Force (after CAA, 2007; Perla, 1980)<\/h5>
+                    <table class=\"table table-bordered\">
+                    <thead class=\"thead-light\">
+                      <tr>
+                       <th Scope=\"Col\">Data Code<\/th>
+                       <th Scope=\"Col\">Avalanche Destructive Potential<\/th>
+                       <th Scope=\"Col\">Typical <br>Mass<\/th>
+                       <th Scope=\"Col\">Typical <br>Path Length<\/th>
+                       <th Scope=\"Col\">Typical <br>Impact Pressure<\/th>
+                      <\/tr>
+                    <\/thead>
+                    <tbody>
+                    <tr>
+                      <th>D1<\/th>
+                      <td>Relatively harmless to people.<\/td>
+                      <td>&lt;10 t<\/td>
+                      <td>10 m<\/td>
+                      <td>1 kPa<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>D2<\/th>
+                      <td>Could bury, injure, or kill a person.<\/td>
+                      <td>10&sup2; t<\/td>
+                      <td>100 m<\/td>
+                      <td>10 kPa<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>D3<\/th>
+                      <td>Could bury and destroy a car, damage a truck, destroy a <br>
+                        wood frame house, or break a few trees.<\/td>
+                      <td>10&sup3; t<\/td>
+                      <td>1000 m<\/td>
+                      <td>100 kPa<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>D4<\/th>
+                      <td>Could destroy a railway car, large truck, several buildings, or <br>
+                      substantial amount of forest.<\/td>
+                      <td>10&#8308;  t<\/td>
+                      <td>2000 m<\/td>
+                      <td>500 kPa<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>D5<\/th>
+                      <td>Could gouge the landscape. Largest snow avalanche known.<\/td>
+                      <td>10&#8309; t<\/td>
+                      <td>3000 m<\/td>
+                      <td>1,000 kPa<\/td>
+                    <\/tr>
+                    <\/tbody>
+                    <\/table>
+                    <\/div>
+                   <!-- END table -->
+                   <p><i>Note for Table 3.8: Half-sizes may be used to signify an avalanche that is on the high end of a single class.
+                     The destructive potential of avalanches is a function of their mass, speed and density as well as the length and cross-section of the
+                     avalanche path.<\/i><\/p>
+                     <p><i>Typical impact pressures for each size number are given in McClung and Schaerer (1981).
+                      The number \"0\" may be used to indicate no release of an avalanche following the application of mitigation measures.<\/i><\/p>
+                <\/div>
+                <\/div>
+              <\/div>
+              <\/div>
+              <!-- END table 3-8 accordion -->
+              <!-- START figure 3-7 accordion -->
+              <div class=\"accordion\" id=\"figure3-7Accordion\">
+                <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"figure3-7heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure3-7collapse\" aria-expanded=\"false\" aria-controls=\"figure3-7collapse\">
+                Figure 3.7 Runout of a Large Path
+                <\/button>
+                <\/h2>
+                <div id=\"figure3-7collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure3-7heading\" data-bs-parent=\"#figure3-7Accordion\">
+                <!-- START image -->
+                  <img src=\"images\/figures\/3-7.jpg\" class=\"img-fluid\" alt=\"Trees damaged in the runout zone of a large avalanche path. \">
+                  <div class=\"accordion-body\">
+                <p>Trees damaged in the runout zone of a large avalanche path. <\/p>
+                   <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Ethan Greene
+              <\/small><\/p>
+                  <\/div>
+                <!-- END image -->
+                <\/div>
+                <\/div>
+              <\/div>
+              <!-- END figure 3-7 accordion -->
+              <h3>3.6.5.2 Size — Relative To Path<\/h3>
+              <p>The size relative to path classification is a general measure and takes into account many factors, including the horizontal extent and vertical depth of the fracture, the volume and mass of the debris, and the runout distance of the avalanche. The observer estimates the size of the avalanche relative to the terrain feature or avalanche path where it occurred. A \"small\" avalanche is one that is relatively small compared to what that particular avalanche path could produce, while a \"large\" avalanche is, or is close to, the largest avalanche that the particular avalanche path could produce.<\/p>
+              <p>Determining the relative size of an avalanche requires comparing the observed event to an estimate of the smallest and largest avalanches that path could produce. The R-size is not simply the proportion of the start zone that released. Rather, R-sizes account for the depth, width, and length of the slab, the amount of snow entrained in the track, and the snow conditions in the track and runout.<\/p>
+              <!-- START table 3-9 accordion -->
+              <div class=\"accordion\" id=\"table3-9Accordion\">
+              <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"table3-9heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table3-9collapse\" aria-expanded=\"false\" aria-controls=\"table3-9collapse\">
+                  Table 3.9 Size Relative to Path
+                <\/button>
+                <\/h2>
+                <div id=\"table3-9collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table3-9heading\" data-bs-parent=\"#table3-9Accordion\">
+                <div class=\"accordion-body\">
+                 <!-- START table -->
+                   <div class=\"table-responsive\">
+                    <h5 id=\"table-3-9\">Table 3.9 Avalanche Size — Relative to Path<\/h5>
+                    <table class=\"table table-bordered\">
+                    <thead class=\"thead-light">
+                      <tr>
+                       <th scope="col">Data Code<\/th>
+                       <th scope="col">Avalanche Size<\/th>
+                      <\/tr>
+                    <\/thead>
+                    <tbody>
+                    <tr>
+                      <th>R1<\/th>
+                      <td>Very small, relative to the path<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>R2<\/th>
+                       <td>Small, relative to the path<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>R3<\/th>
+                       <td>Medium, relative to the path<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>R4<\/th>
+                       <td>Large, relative to the path<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>R5<\/th>
+                       <td>Major or maximum, relative to the path<\/td>
+                    <\/tr>
+                    <\/tbody>
+                    <\/table>
+                    <\/div>
+                   <!-- END table -->
+                   <p><i>Note for Table 3.9: Half-sizes should not be used for the Size-Relative to Path scale.<\/i><\/p>
+                  <p><i>The number "0" may be used to indicate no release of an avalanche following the application of mitigation measures.<\/i><\/p>
+                  <p><i>The size classification pertains to both the horizontal extent and the vertical depth of the fracture, as well as the volume and runout distance of the avalanche.<\/i><\/p>
+                <\/div>
+                <\/div>
+              <\/div>
+              <\/div>
+              <!-- END table 3-9 accordion -->
+              <!-- END Section 5 -->
+              <hr>
+              <!-- START Section 6 -->
+              <h2 id="3-6-6">3.6.6 Snow Properties<\/h2>
+              <h3>3.6.6.1 Bed Surface  <img src="images\/icons\/snow.svg" alt="Icon: Standard Observation" class="icon-sm"><\/h3>
+              <h4>Level of Bed Surface<\/h4>
+              <p>Record the level of the bed surface (the upper surface of the layer over which a slab slid) in the snowpack per <a href="placeholder">Table 3.10<\/a>. If the avalanche involved more than one bed surface, all applicable codes should be included.<\/p>
+              <!-- START table 3-10 accordion -->
+              <div class="accordion" id="table3-10Accordion">
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="table3-10heading">
+                <button class="accordion-button collapsed text-info bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#table3-10collapse" aria-expanded="false" aria-controls="table3-10collapse">
+                  Table 3.10 Avalanche Bed Surface
+                <\/button>
+                <\/h2>
+                <div id="table3-10collapse" class="accordion-collapse collapse collapse" aria-labelledby="table3-10heading" data-bs-parent="#table3-10Accordion">
+                <div class="accordion-body">
+                 <!-- START table -->
+                   <div class="table-responsive">
+                    <h5 id="table-3-10">Table 3.10 Avalanche Bed Surface<\/h5>
+                    <table class="table table-bordered">
+                    <thead class="thead-light">
+                      <tr>
+                       <th scope="col">Data Code<\/th>
+                       <th scope="col">Bed Surface<\/th>
+                      <\/tr>
+                    <\/thead>
+                    <tbody>
+                    <tr>
+                      <th>S<\/th>
+                      <td>The avalanche released within a layer of recent storm snow.<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>I<\/th>
+                       <td>The avalanche released at the new snow\/old snow interface.<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>O<\/th>
+                       <td>The avalanche released within the old snow.<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>G<\/th>
+                       <td>The avalanche released at the ground, glacial ice or firn.<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>U<\/th>
+                       <td>Unknown<\/td>
+                    <\/tr>
+                    <\/tbody>
+                    <\/table>
+                    <\/div>
+                   <!-- END table -->
+                   <p><i>Note for Table 3.10: Storm snow is defined here as all snow deposited during a recent storm.<\/i><\/p>
+                <\/div>
+                <\/div>
+              <\/div>
+              <\/div>
+              <!-- END table 3-10 accordion -->
+              <h4>Form and Age of Fracture Plane<\/h4>
+              <p>Record the predominant grain form observed in the layer below the fracture plane using the International Classification for Seasonal Snow on the Ground (refer to <a href="placeholder">Appendix F<\/a>). Where possible identify the failure plane by its probable date of burial. Use the comments section to note the occurrence of a fracture that steps down to other layers.<\/p>
+              <h3>3.6.6.2 Weak Layer <img src="images\/icons\/snow.svg" alt="Icon: Standard Observation" class="icon-sm"><\/h3>
+              <p>Record the grain type using the International Classification for Seasonal Snow on the Ground (see <a href="placeholder">Appendix F<\/a>), grain size (mm), and hand hardness of the weak layer.<\/p>
+              <h3>3.6.6.3 Slab <img src="images\/icons\/snow.svg" alt="Icon: Standard Observation" class="icon-sm"><\/h3>
+              <p>Record the grain type using the International Classification for Seasonal Snow on the Ground (see <a href="placeholder">Appendix F<\/a>), grain size (mm), and hand hardness of the slab directly above the weak layer.<\/p>
+              <h3>3.6.6.4 Liquid Water Content in Starting Zone and Deposit<\/h3>
+              <p>Determine the liquid water content of the avalanche snow in the starting zone and deposit at the time of failure and deposition. The liquid water content can be different in the starting zone and deposit.<\/p>
+              <p>Although start zone and deposit observations use the same data code, they can be recorded as two separate items to include more information.<\/p>
+              <!-- START table 3-11 accordion -->
+              <div class="accordion" id="table3-11Accordion">
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="table3-11heading">
+                <button class="accordion-button collapsed text-info bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#table3-11collapse" aria-expanded="false" aria-controls="table3-11collapse">
+                  Table 3.11 Liquid Water Content
+                <\/button>
+                <\/h2>
+                <div id="table3-11collapse" class="accordion-collapse collapse collapse" aria-labelledby="table3-11heading" data-bs-parent="#table3-11Accordion">
+                <div class="accordion-body">
+                 <!-- START table -->
+                   <div class="table-responsive">
+                    <h5 id="table-3-11">Table 3.11 Liquid Water Content of <br>Snow in Avalanche Starting Zone<\/h5>
+                    <table class="table table-bordered">
+                    <thead class="thead-light">
+                      <tr>
+                       <th scope="col">Data Code<\/th>
+                       <th scope="col">Liquid Water Content<\/th>
+                      <\/tr>
+                    <\/thead>
+                    <tbody>
+                    <tr>
+                      <th>D<\/th>
+                      <td>Dry snow<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>M<\/th>
+                       <td>Moist snow<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>W<\/th>
+                       <td>Wet snow<\/td>
+                    <\/tr>
+                    <tr>
+                      <th>U<\/th>
+                       <td>Unknown<\/td>
+                    <\/tr>
+                    <\/tbody>
+                    <\/table>
+                    <\/div>
+                   <!-- END table -->
+                   <p><i>Note: See <a href="placeholder#">Table 2.4<\/a> for water content definitions.<\/i><\/p>
+                <\/div>
+                <\/div>
+              <\/div>
+              <\/div>
+              <!-- END table 3-11 accordion -->
+              <!-- END Section 6 -->
+              <hr>
+              <!-- START Section 7 -->
+              <h2 id="3-6-7">3.6.7 Avalanche Dimensions<\/h2>
+              <p>The dimensions of an avalanche can be measured in the field, or by using digital methods. Whenever possible, include a description of how you determined each value (tools, methods, sources of error, etc.).<\/p>
+              <h3>Objective<\/h3>
+              <p>The PST tests weak layer crack propagation propensity, and has been used on weak layers buried up to 250 cm deep. The tester isolates a column and initiates a fracture by dragging a snow saw along the weak layer in the uphill direction.<\/p>
+              <h3>3.6.7.1 Slab Thickness <img src="images\/icons\/snow.svg" alt="Icon: Standard Observation" class="icon-sm"><\/h3>
+              <p>If practical, estimate or measure the average and maximum thickness of the slab (normal to the slope to the nearest 25 centimeters or whole foot) and the average thickness of the slab at the fracture line. If only one value is reported it should be the average dimension. Add "M" when the slab is actually measured.<\/p>
+             <h3>3.6.7.2 Slab Width <img src="images\/icons\/snow.svg" alt="Icon: Standard Observation" class="icon-sm"><\/h3>
+             <p>In a slab avalanche, record the width (horizontal distance) in meters (feet) of the slab between the flanks near the fracture line. Add "M" when width is actually measured.<\/p>
+             <h3>3.6.7.3 Vertical Fall <img src="images\/icons\/snow.svg" alt="Icon: Standard Observation" class="icon-sm"><\/h3>
+             <p>Using an altimeter or contour map, calculate the elevation difference in feet (meters) between the fracture line and the toe of the debris.<\/p>
+             <h3>3.6.7.4 Length of Path Run<\/h3>
+             <p>Some operations may wish to record the estimated distance an avalanche ran along a slope. Record the distance between the fracture line and the toe of the debris. Up to a distance of 300 m (&Tilde; 1000 ft) estimate the distance traveled to the nearest 25 m (&Tilde; 100 ft). Beyond a distance of 300 m estimate the distance traveled to the nearest 100 m (&Tilde; 300 ft). All dimensions are assumed to be estimates unless the values are followed with the letter M (measured). Dimensions are assumed to be in meters. Measurements or estimates in feet should be indicated with a ' after the number (i.e. 3').<\/p>
+            <!-- END Section 7 -->
+            <hr>
+            <!-- START Section 8 -->
+            <h2 id="3-6-8">3.6.8 Location of Avalanche Start <img src="images\/icons\/snow.svg" alt="Icon: Standard Observation" class="icon-sm"><\/h2>
+             <h4>Position in Starting Zone<\/h4>
+             <p>Describe the location of the avalanche fracture with one of the following code letters, physical features or elevation and, when applicable, add the data code for the starting sub-zone or the target.<\/p>
+             <p><i>Note: For this code (<a href="placeholder">Table 3.12<\/a>) gunner's left and right should be used. Gunner's perspective is looking up at the starting zone (opposite of skier's perspective).<\/i><\/p>
+             <!-- START table 3-12 accordion -->
+             <div class="accordion" id="table3-12Accordion">
+             <div class="accordion-item">
+               <h2 class="accordion-header" id="table3-12heading">
+               <button class="accordion-button collapsed text-info bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#table3-12collapse" aria-expanded="false" aria-controls="table3-12collapse">
+                 Table 3.12 Avalanche Start
+               <\/button>
+               <\/h2>
+               <div id="table3-12collapse" class="accordion-collapse collapse collapse" aria-labelledby="table3-12heading" data-bs-parent="#table3-12Accordion">
+               <div class="accordion-body">
+                <!-- START table -->
+                  <div class="table-responsive">
+                   <h5 id="table-3-12">Table 3.12 Location of Avalanche Start<\/h5>
+                   <table class="table table-bordered">
+                   <thead class="thead-light">
+                     <tr>
+                      <th scope="col">Data Code<\/th>
+                      <th scope="col">Vertical Location Within Starting Zone <br> 
+                      from Gunner's Perspective<\/th>
+                     <\/tr>
+                   <\/thead>
+                   <tbody>
+                   <tr>
+                     <th>T(L,R,C)<\/th>
+                     <td>At the top of the starting zone (left, right, or center)<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>M (L, R, C)<\/th>
+                      <td>In the middle of the starting zone (left, right, or center)<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>B (L, R, C)<\/th>
+                      <td>At the bottom of the starting zone (left, right, or center)<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>U<\/th>
+                      <td>Unknown<\/td>
+                   <\/tr>
+                   <\/tbody>
+                   <\/table>
+                   <\/div>
+                  <!-- END table -->
+                  <p><i>Note: For this code (<a href="#placeholder">Table 3.12<\/a>) gunner's left and right should be used. Gunner's perspective is looking up at the starting zone (opposite of skier's perspective).<\/i><\/p>
+               <\/div>
+               <\/div>
+             <\/div>
+             <\/div>
+             <!-- END table 3-12 accordion -->
+             
+             <!-- START table 3-13 accordion -->
+             <div class="accordion" id="table3-13Accordion">
+             <div class="accordion-item">
+               <h2 class="accordion-header" id="table3-13heading">
+               <button class="accordion-button collapsed text-info bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#table3-13collapse" aria-expanded="false" aria-controls="table3-13collapse">
+                 Table 3.13 Terminus of Debris
+               <\/button>
+               <\/h2>
+               <div id="table3-13collapse" class="accordion-collapse collapse collapse" aria-labelledby="table3-13heading" data-bs-parent="#table3-13Accordion">
+               <div class="accordion-body">
+                <!-- START table -->
+                  <div class="table-responsive">
+                   <h5 id="table-3-13">Table 3.13 Terminus of Avalanche Debris<\/h5>
+                   <table class="table table-bordered">
+                   <thead class="thead-light">
+                     <tr>
+                      <th scope="col">Data Code<\/th>
+                      <th scope="col">Terminus for Long Paths<\/th>
+                     <\/tr>
+                   <\/thead>
+                   <tbody>
+                   <tr>
+                     <th>SZ<\/th>
+                     <td>The avalanche stopped in the starting zone<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>TK<\/th>
+                      <td>In the middle of the starting zone (left, right, or center)<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>B (L, R, C)<\/th>
+                      <td>The avalanche stopped in the track<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>TR<\/th>
+                      <td>The avalanche stopped at the top part of the runout zone<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>MR<\/th>
+                      <td>The avalanche stopped in the middle part of the runout zone<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>BR<\/th>
+                      <td>The avalanche stopped in the bottom part of the runout zone<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>U<\/th>
+                      <td>Unknown<\/td>
+                   <\/tr>
+                   <tr class="thead-light">
+                      <th scope="col">Data Code<\/th>
+                      <th scope="col">Terminus for SHORT Paths<\/th>
+                   <\/tr>
+                   <tr>
+                     <th>TP<\/th>
+                      <td>The avalanche stopped near the top of the path<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>MP<\/th>
+                      <td>The avalanche stopped near the middle part of the path<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>BP<\/th>
+                      <td>The avalanche stopped near the bottom part of the path<\/td>
+                   <\/tr>
+                   <\/tbody>
+                   
+                   <\/table>
+                   <\/div>
+                  <!-- END table -->
+                  <p><i>Note: Operations that have large avalanche paths with well defined features may apply additional codes (See <a href="#placeholder">Table 3.14<\/a>).<\/i><\/p>
+                   <p><i>Note for Tables <a href="placeholder">3.12<\/a> and <a href="placeholder">3.13<\/a>: The codes TP, MP and BP are applicable for short paths where the starting zone, track and runout zone cannot be easily separated.<\/i><\/p>
+               <\/div>
+               <\/div>
+             <\/div>
+             <\/div>
+             <!-- END table 3-13 accordion -->
+             <!-- START table 3-14 accordion -->
+             <div class="accordion" id="table3-14Accordion">
+             <div class="accordion-item">
+               <h2 class="accordion-header" id="table3-14heading">
+               <button class="accordion-button collapsed text-info bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#table3-14collapse" aria-expanded="false" aria-controls="table3-14collapse">
+                 Table 3.14 Detailed Terminus Codes
+               <\/button>
+               <\/h2>
+               <div id="table3-14collapse" class="accordion-collapse collapse collapse" aria-labelledby="table3-14heading" data-bs-parent="#table3-14Accordion">
+               <div class="accordion-body">
+                <!-- START table -->
+                  <div class="table-responsive">
+                   <h5 id="table-3-14">Table 3.14 Detailed Terminus Codes<\/h5>
+                   <table class="table table-bordered">
+                   <thead class="thead-light">
+                     <tr>
+                      <th scope="col">Data Code<\/th>
+                      <th scope="col">Terminus<\/th>
+                     <\/tr>
+                   <\/thead>
+                   <tbody>
+                   <tr>
+                     <th>1F<\/th>
+                     <td>Stopped on top &frac14; of the fan<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>2F<\/th>
+                      <td>Stopped halfway down the fan<\/td>
+                   <\/tr>
+                   <tr>
+                     <th>3F<\/th>
+                      <td>Stopped &frac34; of way down the fan<\/td>
+                   <\/tr>
+                   
+                   <\/tbody>
+                   
+                   <\/table>
+                   <\/div>
+                  <!-- END table -->
+               <\/div>
+               <\/div>
+             <\/div>
+             <\/div>
+             <!-- END table 3-14 accordion -->
+             
+            <!-- END Section 8 -->
+            <hr>
+            <!-- START Section 9 -->
+            <h2 id="3-6-9">3.6.9 Terminus <img src="images\/icons\/snow.svg" alt="Icon: Standard Observation" class="icon-sm"><\/h2>
+             <p>Describe the location of the toe of the avalanche deposit with a data code. See <a href="placeholder">3.13<\/a>.<\/p>
+            <!-- END Section 9 -->
+            <hr>
+            <!-- START Section 10 -->
+            <h2 id="3-6-10">3.6.10 Total Deposit Dimensions<\/h2>
+             <p>Record the average width and length of the deposited avalanche snow in meters (feet).<\/p>
+             <p>Record the average deposit depth in meters and tenths of a meter. Add an "M" after each value if measured by tape or probe.<\/p>
+            <!-- END Section 10 -->
+            <hr>
+            <!-- START Section 11 -->
+            <h2 id="3-6-11">3.6.11 Avalanche Runout<\/h2>
+            <p>The angle between the horizontal and a line drawn from the highest portion of the crown face and the toe of the debris can be used as a relative measure of avalanche runout. This angle, known as the runout angle or alpha angle (&alpha;), has been used by landslide investigators since the late 1800s and has been applied to avalanche studies to describe extreme (&Tilde;100 year) events. Although &alpha; is often used for very large events in avalanche research, guide services, engineers, scientists, and forecasters may also find the subcategories defined in <a href="placeholder">Table 3.15<\/a> useful. The runout angle can be calculated with the following equation where h is the vertical height and l is the horizontal distance, both should be determined from the highest point of the crown face to the farthest reach of the deposit.<\/p>
+            <img src="images\/figures\/3-6-11.svg" alt="stability ratio equation" class="image-fluid formula-img">
+            <p>&nbsp;<\/p>
+            <p>Statistical studies suggest that alpha angles in a specific mountain range can cluster around a characteristic value. This value may be governed by terrain and snowpack conditions characteristic of the range (McClung and Schaerer, 2006; Mears, 1992; McClung and others, 1989; Lied and Bakkeh&oslash;i, 1980).<\/p>
+            <!-- START table 3-15 accordion -->
+            <div class="accordion" id="table3-15Accordion">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="table3-15heading">
+              <button class="accordion-button collapsed text-info bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#table3-15collapse" aria-expanded="false" aria-controls="table3-15collapse">
+                Table 3.15 Alpha Angles
+              <\/button>
+              <\/h2>
+              <div id="table3-15collapse" class="accordion-collapse collapse collapse" aria-labelledby="table3-15heading" data-bs-parent="#table3-15Accordion">
+              <div class="accordion-body">
+               <!-- START table -->
+                 <div class="table-responsive">
+                  <h5 id="table-3-15">Table 3.15 Alpha Angle Subcategories<\/h5>
+                  <table class="table table-bordered">
+                  <thead class="thead-light">
+                    <tr>
+                     <th scope="col">Data Code<\/th>
+                     <th scope="col">Description<\/th>
+                    <\/tr>
+                  <\/thead>
+                  <tbody>
+                  <tr>
+                    <th>&alpha;<\/th>
+                    <td>The measured alpha angle for any individual avalanche.<\/td>
+                  <\/tr>
+                  <tr>
+                    <th>&alpha;<sub>e<\/sub><\/th>
+                     <td>The alpha angle of an extreme event. The smallest alpha angle <br>
+                     (furthest avalanche runout) observed in a specific avalanche path,<br>
+                      determined by historical records, tree ring analysis, or direct observation.<\/td>
+                  <\/tr>
+                  <tr>
+                    <th>&alpha;<sub>number<\/sub><\/th>
+                     <td>A calculated value of the smallest alpha angle (furthest avalanche <br>
+                     runout) in a specific avalanche path during a defined time period. Where the <br>
+                      designated time period (return period) in years is listed in the subscript <br>
+                     (&alpha;<sub>10<\/sub>, &alpha;<sub>50<\/sub>, &alpha;<sub>100<\/sub>).<\/td>
+                  <\/tr>
+                  <\/tbody>
+                  <\/table>
+                  <\/div>
+                 <!-- END table -->
+              <\/div>
+              <\/div>
+            <\/div>
+            <\/div>
+            <!-- END table 3-15 accordion -->
+            <!-- END Section 11 -->
+            <hr>
+            <!-- START Section 12 -->
+            <h2 id="3-6-12">3.6.12 Coding Avalanche Observations<\/h2>
+            <p>Avalanche observations can be recorded in tabular format with a separate column for each data code. Common data codes can also be recorded in one string.<\/p>
+            <p><strong>Example:<\/strong><\/p>
+            <ul>
+              <li><strong>HS-AA-R2-D2<\/strong>: a hard slab avalanche triggered artificially by artillery<\/li>
+              <li><strong>SS-AE-R4-D3<\/strong>: a soft slab avalanche triggered artificially by a hand charge<\/li>
+              <li><strong>L-N-R1-D1<\/strong>: a small loose snow avalanche that released naturally<\/li>
+              <li><strong>HS-ASr-R3-D3-O<\/strong>: a hard slab avalanche triggered remotely by a skier that broke into old snow layers (see Section 3.6.4)<\/li>
+              <li><strong>HS-ACu-R4-D3<\/strong>: a hard slab avalanche triggered by an unintentional artificial cornice fall<\/li>
+              <li><strong>HS-ACc-R2-D3<\/strong>: a hard slab avalanche triggered by an intentional artificial cornice fall<\/li>
+              <li><strong>HS-AC-R2-D3<\/strong>: a hard slab avalanche triggered by a cornice drop produced by explosives<\/li>
+              <li><strong>WS-NS-R4-D3<\/strong>: a wet slab triggered by a natural slab avalanche.<\/li>
+              <li><strong>AC-0<\/strong>: An intentionally triggered cornice that did not produce an avalanche<\/li>
+            <\/ul>
+            <!-- END Section 12 -->
+            <hr>
+            <!-- START Section 13 -->
+            <h2 id="3-6-13">3.6.13 Comments<\/h2>
+            <p>Enter information about damage and accidents caused by the avalanche and any other significant information. Note when the avalanche was triggered artificially. Use as much space as required.<\/p>
+            <!-- END Section 13 -->
+              
+          
+        <\/div>
+      <\/main>"
+}

@@ -1,0 +1,59 @@
+<ion-header class="ion-no-border">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button color="light"></ion-menu-button>
+      <span *ngIf="this.allContentIndex.length > 0">
+        <h6>{{ this.allContentIndex[this.chapterIndex].title }}</h6>
+      </span>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+<!-- Add logic for 404 Errors -->
+<ion-content class="ion-padding"
+[ngStyle]="{'font-size': this.fontSize}">
+  <ion-row class="fullscreen">
+    <ion-col size="12">
+      <ion-text id="html-container" >
+        <h1 *ngIf="this.allContentIndex.length > 0">
+          <span [innerHTML]="this.allContentIndex[this.chapterIndex].sections[this.sectionIndex].section | safe : 'html'"></span>
+        </h1>
+        <div [innerHTML]="this.pageContent | safe : 'html' ">Loading...</div>
+      </ion-text>
+    </ion-col>
+  </ion-row>
+  <hr>
+  <ion-row id="prev-next-nav">
+    
+    <ion-col size="6" >  
+      <div *ngIf="this.allContentIndex.length > 0">
+        <ion-button fill="outline" id="prev-section-btn" class="chapter-btn" color="secondary" size="medium" 
+        [attr.href]="'/swag-content/' + this.allContentIndex[this.chapterIndex].sections[this.sectionIndex-1]._id" 
+        *ngIf="this.sectionIndex > 0">
+          <ion-text>Prev Section</ion-text>
+          <ion-icon slot="start" name="chevron-back-outline"></ion-icon>
+        </ion-button>
+        <ion-text color="medium" *ngIf="this.sectionIndex > 0">
+          <a [attr.href]="'/swag-content/' + this.allContentIndex[this.chapterIndex].sections[this.sectionIndex-1]._id">
+            <h5 class="btn-subtext" [innerHTML]="this.allContentIndex[this.chapterIndex].sections[this.sectionIndex-1].section | safe : 'html'"></h5>
+          </a>
+        </ion-text>
+      </div>
+    </ion-col>
+    
+    <ion-col size="6" class="ion-text-right">
+      <div *ngIf="this.allContentIndex.length > 0">
+        <ion-button fill="outline" id="next-section-btn" class="chapter-btn" color="secondary" size="medium" 
+        [attr.href]="'/swag-content/' +this.allContentIndex[this.chapterIndex].sections[this.sectionIndex+1]._id"
+        *ngIf="this.sectionIndex < this.allContentIndex[this.chapterIndex].sections.length-1">
+          <ion-text>Next section</ion-text>
+          <ion-icon slot="end" name="chevron-forward-outline"></ion-icon>
+        </ion-button>
+        <ion-text color="medium" *ngIf="this.sectionIndex < this.allContentIndex[this.chapterIndex].sections.length-1">
+          <a [attr.href]="'/swag-content/' + this.allContentIndex[this.chapterIndex].sections[this.sectionIndex+1]._id">
+            <h5 class="btn-subtext"[innerHTML]="this.allContentIndex[this.chapterIndex].sections[this.sectionIndex+1].section | safe : 'html'"></h5>
+          </a>
+        </ion-text>
+      </div>
+    </ion-col>
+  </ion-row>
+</ion-content>

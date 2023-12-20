@@ -1,0 +1,115 @@
+{
+     "_id" :  "3-4",
+     "chapter" : "Chapter 3: AVALANCHE OBSERVATIONS",
+     "header" : "3.4 STANDARD AVALANCHE OBSERVATION",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>This section outlines a standard avalanche observation for singleavalanche events. Suggestions for summarizing multiple avalanche events are discussed in <a href=\"palceholder\">Section 3.7<\/a>. Storm cycles and access to starting zones may make it difficult to observe every parameter for every avalanche that occurs within a forecast area. In this case the avalanche size characteristics should be estimated, and some of the snow specific parameters can be marked N\/O for \"not observed.\"<\/p>
+          <p>The parameters have been separated into avalanche path characteristics and avalanche event characteristics. Operations that deal with a \"fixed\" number of paths documented in an avalanche atlas replace the path specific parameters with path name or number.<\/p>
+          <!-- START steps accordion -->
+          <div class=\"accordion\" id=\"stepsAccordion-3\">
+          
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading01-3\">
+                <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-3\" aria-expanded=\"false\" aria-controls=\"collapse01-3\">
+                  1. Date
+                <\/button>
+              <\/h2>
+              <div id=\"collapse01-3\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-3\" data-bs-parent=\"#stepsAccordion-3\">
+                <div class=\"accordion-body\">
+                  Record the date on which the avalanche occurred (YYYYMMDD).
+                <\/div>
+              <\/div>
+            <\/div>
+          
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading02-3\">
+                <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-3\" aria-expanded=\"false\" aria-controls=\"collapse02-3\">
+                  2. Time
+                <\/button>
+              <\/h2>
+              <div id=\"collapse02-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-3\" data-bs-parent=\"#stepsAccordion-3\">
+                <div class=\"accordion-body\">
+                  Record the standard local time the avalanche occurred to the hour or minute if possible. Time codes of 2405 and 2417 can be used for avalanches that released at an unknown time during the AM and PM respectively. Time ranges or start and end times of mitigation missions can also be used.
+                <\/div>
+              <\/div>
+            <\/div>
+          
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading03-3\">
+                <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-3\" aria-expanded=\"false\" aria-controls=\"collapse03-3\">
+                  3. Observer
+                <\/button>
+              <\/h2>
+              <div id=\"collapse03-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-3\" data-bs-parent=\"#stepsAccordion-3\">
+                <div class=\"accordion-body\">
+                  Record the name or names of the personnel that made the observation.
+                <\/div>
+              <\/div>
+            <\/div>
+          
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading04-3\">
+                <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-3\" aria-expanded=\"false\" aria-controls=\"collapse04-3\">
+                  4. Path Characteristics
+                <\/button>
+              <\/h2>
+              <div id=\"collapse04-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-3\" data-bs-parent=\"#stepsAccordion-3\">
+                <div class=\"accordion-body\">
+                (<a href=\"#placeholder\">Section 3.5<\/a>)
+                  <ol>
+                    <li><i>Observation Location<\/i> Record the name or number
+                      of the path where the avalanche occurred, the latitude and longitude, or the nearest prominent topographic landmark (mountain, pass, drainage, etc.) or political landmark (town, road mile, etc.).<\/li>
+                    <li><i>Aspect<\/i> — Record the direction the slope faces where the avalanche occurred (N, NE, E, SE, S, SW, W, NW).<\/li>
+                    <li><i>Slope Angle in Starting Zone<\/i> — Record the average slope angle in the starting zone where the avalanche released. When possible, a number of locations in the starting zone should be measured so that a maximum, minimum, and average value can be reported.<\/li>
+                    <li><i>Elevation<\/i> — Record the elevation of the crown face in feet (meters).<\/li>
+                  <\/ol>
+                <\/div>
+              <\/div>
+            <\/div>
+          
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading05-3\">
+                <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-3\" aria-expanded=\"false\" aria-controls=\"collapse05-3\">
+                  5. Event Characteristics
+                <\/button>
+              <\/h2>
+              <div id=\"collapse05-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-3\" data-bs-parent=\"#stepsAccordion-3\">
+                <div class=\"accordion-body\">
+                  (<a href=\"#placeholder\">Section 3.6<\/a>)
+                  <ol>
+                    <li><i>Type<\/i> — Record the avalanche type.<\/li>
+                    <li><i>Trigger<\/i> — Record the event that triggered the avalanche<\/li>
+                    <li><i>Size<\/i> — Record the size of the avalanche.<\/li>
+                    <li><i>Snow Properties<\/i>
+                      <ul>
+                        <li><i>Bed Surface<\/i> — Record the location of the bed surface as one of the following: in new snow (S), at the new\/old interface (I), in old snow (O), or at the ground (G). If the site was visited, record the hand hardness, grain type, and grain size.<\/li>
+                        <li><i>Weak Layer<\/i> — Record the grain type and date of burial if known. If the site was visited record the hand hardness, grain type, and grain size.<\/li>
+                        <li><i>Slab<\/i> — Record the hand hardness, grain type, and grain size.<\/li>
+                      <\/ul>
+                    <\/li>
+                    <li><i>Dimensions<\/i>
+                      <ul>
+                        <li><i>Slab Thickness<\/i> — Record the average and maximum thickness or height of the crown face to the
+                          nearest 0.25 m (or whole foot).<\/li>
+                        <li><i>Width<\/i> — Record the width (horizontal distance) of
+                          the avalanche to the nearest 10 m (or 25 ft).<\/li>
+                        <li><i>Vertical Fall<\/i> — Record the vertical fall of the avalanche to the nearest 30 m (or 100 ft).<\/li>
+                      <\/ul>
+                    <\/li>
+                    <li><i>Location of Start Zone<\/i> — Record the location of the crown face, as viewed from below, within the starting zone as top (T), middle (M), or bottom (B).<\/li>
+                    <li><i>Terminus<\/i> — Record the location of the debris within the avalanche path.<\/li>
+                  <\/ol>
+                <\/div>
+              <\/div>
+            <\/div>
+             
+          <\/div>
+          <!-- END steps accordion -->
+          <!-- END 1st section -->
+        <\/div>
+      <\/main>"
+}

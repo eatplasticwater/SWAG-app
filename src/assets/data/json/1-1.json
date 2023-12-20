@@ -1,0 +1,21 @@
+{
+     "_id" :  "1-1",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.1 INTRODUCTION",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Manual observations of snow and weather conditions are an
+            important part of an avalanche forecasting operation. This
+            chapter describes methods for making and recording these
+            observations. <a href=\"#placeholder\">Section 1.2<\/a> describes observation objectives.
+            <a href=\"#placeholder\">Section 1.3<\/a> outlines the recommended standard morning snow
+            and weather observation. <a href=\"#placeholder\">Sections 1.4<\/a> through <a href=\"#placeholder\">1.6<\/a> give important background information for planning and implementing observational schemes, <a href=\"#placeholder\">Sections 1.7<\/a> and <a href=\"#placeholder\">1.8<\/a> discuss field observations, and <a href=\"#placeholder\">Sections 1.9<\/a> through <a href=\"#placeholder\">1.27<\/a> describe how to observe
+            and record individual parameters.<\/p>
+          <!-- END 1st section -->
+          
+        <\/div>
+      <\/main>"
+}

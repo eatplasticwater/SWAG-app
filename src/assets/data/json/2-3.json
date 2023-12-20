@@ -1,0 +1,135 @@
+{
+     "_id" :  "2-3",
+     "chapter" : "Chapter 2: SNOWPACK OBSERVATION",
+     "header" : "2.3 STANDARD SNOWPACK OBSERVATION",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>The snowpack parameters observed and the detail of those observations will depend on the particular forecasting problem. This section presents an outline for daily snowpack observations. Parameters 1 through 5 and parameter 7 will be useful for most avalanche forecasting programs. Individual programs and field workers should select snowpack properties (parameter 6) from those listed in this chapter to supply the information needed for their specific application.
+          <\/p>
+          <p>Specific measurements and observations will be dependent on the type of operation, but in general the objective is to observe and record the current structure and stability of the snowpack. More specific objectives are listed in the sections that follow.<\/p>
+          <!-- END 1st section -->
+          <!-- START steps accordion -->
+           <div class=\"accordion\" id=\"stepsAccordion\">
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading01\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01\" aria-expanded=\"false\" aria-controls=\"collapse01\">
+             1. Date
+             <\/button>
+             <\/h2>
+             <div id=\"collapse01\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Record the date on which the observation was made (YYYYMMDD).
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading02\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02\" aria-expanded=\"false\" aria-controls=\"collapse02\">
+             2. Time
+             <\/button>
+             <\/h2>
+             <div id=\"collapse02\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Record the standard local time on the 24-hour clock (0000–2359) at which the observation began.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading03\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03a\" aria-expanded=\"false\" aria-controls=\"collapse03a\">
+             3. Observer
+             <\/button>
+             <\/h2>
+             <div id=\"collapse03a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Record the name or names of the personnel that made the observation.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading04\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04a\" aria-expanded=\"false\" aria-controls=\"collapse04a\">
+             4. Site Characteristics
+             <\/button>
+             <\/h2>
+             <div id=\"collapse04a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             <ul>
+               <li><i>Observation Location<\/i> &mdash; Record the nearest prominent
+                 topographic landmark (mountain, pass, drainage, avalanche path, etc.), political landmark (town, road mile, etc.), or geographic coordinates (latitude\/longitude or UTM and datum). If observing a fracture line profile, note the location within the avalanche path.<\/li>
+               <li><i>Aspect<\/i> &mdash; Record the direction that the slope faces where the observation was made (i.e. N, NE, E, SE, S, SW, W, NW, or cardinal degrees).<\/li>
+               <li><i>Elevation<\/i> &mdash; Record the elevation of the observation site (feet or meters).<\/li>
+               <li><i>Slope Angle<\/i> &mdash; Record the incline of the slope where the observation was made (degrees).<\/li>
+             <\/ul>
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading05\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05a\" aria-expanded=\"false\" aria-controls=\"collapse05a\">
+             5. Current Weather
+             <\/button>
+             <\/h2>
+             <div id=\"collapse05a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             <ul>
+               <li><i>Sky Conditions<\/i> &mdash; Record the sky conditions as
+                 Clear, Few, Scattered, Broken, Overcast, or Obscured
+                 (<a href=\"#placeholder\">Section 1.12<\/a>).<\/li>
+               <li><i>Air temperature<\/i> &mdash; Record the current air temperature to the nearest 0.5 &deg;C (or whole &deg;F).<\/li>
+               <li><i>Precipitation Type and Rate<\/i> &mdash; Record the precipitation type and rate (<a href=\"#placeholder\">Section 1.14<\/a>).<\/li>
+               <li><i>Wind<\/i> &mdash; Record the wind speed and direction
+                 (<a href=\"#placeholder\">Section 1.26<\/a>).<\/li>
+                 <li><i>Surface Penetration<\/i> &mdash; Record the surface penetration (Section <a href=\"#placeholder\">Section 1.18<\/a>).<\/li>
+             <\/ul>
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading06\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06a\" aria-expanded=\"false\" aria-controls=\"collapse06a\">
+             6. Snowpack Properties
+             <\/button>
+             <\/h2>
+             <div id=\"collapse06a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Observe and record the necessary snowpack properties as described in this chapter.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading07\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse07a\" aria-expanded=\"false\" aria-controls=\"collapse07a\">
+            7. Avalanche Potential 
+             <\/button>
+             <\/h2>
+             <div id=\"collapse07a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading07\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             <p>Record one or more of the parameters as applicable to the operation (see <a href=\"#placeholder\">Appendix G<\/a>). Avalanche conditions can be grouped by region, aspect, slope angle range (i.e. 35&deg;–40&deg;), or obvious snow properties (such as recently wind loaded or amount of new snow). In this case a separate stability, danger, or hazard rating should be given for each group (<a href=\"#placeholder\">Appendix G<\/a>).<\/p>
+             <ol>
+               <li><i>Snow Stability Forecast<\/i> &mdash; Record the snow stability stated in the morning meeting or current forecast. <br><i>Snow Stability Forecast Observed<\/i> &mdash; Record the snow stability observed at this location.<\/li>
+               <li><i>Avalanche Danger Forecast<\/i> &mdash; Record the avalanche danger stated in the current avalanche forecast.<br>
+                 <i>Avalanche Danger Observed<\/i> &mdash; Record the avalanche danger assessed at this location.<\/li>
+               <li><i>Avalanche Hazard Forecast<\/i> &mdash; Record the avalanche hazard currently stated by the program
+                 <i>Avalanche Hazard Observed<\/i> &mdash; Record the avalanche hazard assessed at this location<\/li>
+             <\/ol>
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             
+           <\/div>
+            <!-- END steps accordion -->
+        <\/div>
+      <\/main>"
+}

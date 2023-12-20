@@ -1,0 +1,158 @@
+{
+     "_id" :  "1-27",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.27 BLOWING SNOW",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          Estimate the extent of snow transport (<a href=\"#table1-9Accordion\">Table 1.9<\/a>) and note the direction from which the wind blows to the closest octant of the compass (<a href=\"#table1-10Accordion\">Table 1.10<\/a>). The observer should also note the location and\/or elevation of the wind transport (e.g. valley bottom, study site, ridgetop, peaks, 11,000 ft, 3000 m, etc.). Record wind direction as indicated by blowing snow (<a href=\"#figure1-5Accordion\">Figures 1.5 and 1.6<\/a>).
+          <!-- END 3rd section -->
+          <!-- START table 1-9 accordion -->
+          <div class=\"accordion\" id=\"table1-9Accordion\">
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"table1-9heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table1-9collapse\" aria-expanded=\"false\" aria-controls=\"table1-9collapse\">
+              Table 1.9 Extent of Blowing Snow
+            <\/button>
+            <\/h2>
+            <div id=\"table1-9collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table1-9heading\" data-bs-parent=\"#table1-9Accordion\">
+            <div class=\"accordion-body\">
+             <!-- START table01 -->
+              <div class=\"table-responsive\">
+              <h5 id=\"table-1-9\">Table 1.9 Extent of Blowing Snow<\/h5>
+              <table class=\"table table-bordered\">
+              <thead class=\"thead-light\">
+              <tr>
+               <th scope=\"col\">Data Code<\/th>
+               <th scope=\"col\">Description<\/th>
+              <\/tr>
+              <\/thead>
+              <tbody>
+              <tr>
+               <th>None<\/th>
+               <td>No snow transport observed.<\/td>
+              <\/tr>
+              <tr>
+                <th>Prev<\/th>
+                <td>Snow transport has occurred since the last observation, <br>
+                but there is no blowing snow at the time of observation.<\/td>
+               <\/tr>
+               <tr>
+                 <th>L<\/th>
+                 <td>Light snow transport<\/td>
+                <\/tr>
+               <tr>
+                 <th>M<\/th>
+                 <td>Moderate snow transport.<\/td>
+                <\/tr>
+               <tr>
+                 <th>I<\/th>
+                 <td>Intense snow transport.<\/td>
+                <\/tr>
+               <tr>
+                 <th>U<\/th>
+                 <td>Unknown as observation is impossible because of darkness, <br>
+                 cloud, or fog.<\/td>
+               <\/tr>
+              
+              <\/tbody>
+              <\/table>
+              <\/div>
+              <!-- END table 1-9 -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <\/div>
+          <!-- END table 1-9 accordion -->
+          <!-- START table 1-10 accordion -->
+          <div class=\"accordion\" id=\"table1-10Accordion\">
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"table1-10heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table1-10collapse\" aria-expanded=\"false\" aria-controls=\"table1-10collapse\">
+              Table 1.10 Direction of Wind
+            <\/button>
+            <\/h2>
+            <div id=\"table1-10collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table1-10heading\" data-bs-parent=\"#table1-10Accordion\">
+            <div class=\"accordion-body\">
+             <!-- START table01 -->
+               <div class=\"table-responsive\">
+              <h5 id=\"table-1-10\">Table 1.10 Direction of Wind Relative to True North<\/h5>
+              <table class=\"table table-bordered\">
+              <tbody>
+                <tr>
+                <th>Direction<\/th>
+                <td>N<\/td>
+                <td>NE<\/td>
+                <td>E<\/td>
+                <td>SE<\/td>
+                <td>S<\/td>
+                <td>SW<\/td>
+                 <td>W<\/td>
+                 <td>NW<\/td>
+                <\/tr>
+                <tr>
+                <th>Degrees<\/th>
+                 <td>0<\/td>
+                 <td>45<\/td>
+                 <td>90<\/td>
+                 <td>135<\/td>
+                 <td>180<\/td>
+                 <td>225<\/td>
+                  <td>270<\/td>
+                  <td>315<\/td>
+                <\/tr>
+                
+              <\/tbody>
+              <\/table>
+              <\/div>
+               <!-- END table01 -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <\/div>
+          <!-- END table 1-10 accordion -->
+          <!-- START figure 1-5 accordion -->
+          <div class=\"accordion\" id=\"figure1-5Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figure1-5heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure1-5collapse\" aria-expanded=\"false\" aria-controls=\"figure1-5collapse\">
+            Figure 1.5 Previous blowing snow
+            <\/button>
+            <\/h2>
+            <div id=\"figure1-5collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure1-5heading\" data-bs-parent=\"#figure1-5Accordion\">
+            <!-- START image -->
+              <img src=\"images\/figures\/1-5.jpg\" class=\"img-fluid\" alt=\"Evidence of previous blowing snow.\">
+              <div class=\"accordion-body\">
+              <p>Evidence of previous blowing snow. <\/p>
+              <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Kelly Elder<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure 1-5 accordion -->
+          <!-- START figure 1-6 accordion -->
+          <div class=\"accordion\" id=\"figure1-6Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figure1-6heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure1-6collapse\" aria-expanded=\"false\" aria-controls=\"figure1-6collapse\">
+            Figure 1.6 Current blowing snow
+            <\/button>
+            <\/h2>
+            <div id=\"figure1-6collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure1-6heading\" data-bs-parent=\"#figure1-6Accordion\">
+            <!-- START image -->
+              <img src=\"images\/figures\/1-6.jpg\" class=\"img-fluid\" alt=\"Evidence of current blowing snow.\">
+              <div class=\"accordion-body\">
+              <p>Evidence of current blowing snow.<\/p>
+                <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Ethan Greene<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure 1-6 accordion -->
+        <\/div>
+      <\/main>"
+}

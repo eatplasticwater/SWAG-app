@@ -1,0 +1,145 @@
+{
+     "_id" :  "1-21",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.21 HEIGHT OF NEW SNOW (HN24)",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START sections index accordion -->
+          <div class=\"accordion\" id=\"sectionIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"sectionIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#sectionIndexcollapse\" aria-expanded=\"false\" aria-controls=\"sectionIndexcollapse\">
+            Sections
+            <\/button>
+            <\/h2>
+            <div id=\"sectionIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"sectionIndexheading\" data-bs-parent=\"#sectionIndexAccordion\">
+            <!-- START table -->
+            <!-- START page navigation -->
+            <div class=\"list-group\">
+              <a href=\"#1-21-1\" class=\"list-group-item list-group-item-action\">1.21.1 Snow Board Naming Conventions<\/a>
+            <\/div>
+            <!-- END page navigation -->
+              <!-- END table -->
+            <\/div>
+            <\/div>
+            <\/div>
+          <!-- END sections index accordion -->
+          
+          <hr>
+          
+          <!-- START 1st section -->
+          <p>The new snow measurement in the standard morning observation uses a 24-hour interval. Many operations will find it useful to observe snowfall on more than one interval. However, the 24-hour interval snow board should only be used for 24-hour observations. Additional snow boards should be added for additional observations as necessary. It is highly recommended that both 24-hour and Storm intervals be observed by operations that maintain a study plot. Other commonly used intervals appear in the Snow Board Naming Convention <a href=\"#placeholder\">Section 1.21.1<\/a>.<\/p>
+          <!-- START figure 1-3 accordion -->
+          <div class=\"accordion\" id=\"figure1-3Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figure1-3heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure1-3collapse\" aria-expanded=\"false\" aria-controls=\"figure1-3collapse\">
+            Figure 1.3 Snow boards
+            <\/button>
+            <\/h2>
+            <div id=\"figure1-3collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure1-3heading\" data-bs-parent=\"#figure1-3Accordion\">
+            <!-- START image -->
+              <img src=\"images\/figures\/1-3.jpg\" class=\"img-fluid\" alt=\"Snow board graduated in centimeters\">
+              <img src=\"images\/figures\/1-3b.jpg\" class=\"img-fluid\" alt=\"Snow board graduated in inches\">
+              <div class=\"accordion-body\">
+              <p>Top: Snow board graduated in centimeters. <br>Bottom: Automated snow board and snow board graduated in inches. <\/p>
+              <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Tom Leonard<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure 1-3 accordion -->
+          <p>New snow measurements should be made on a snow board (<a href=\"#figure1-3Accordion\">Figure 1.3<\/a>). The base plate should have minimum dimensions of 40 cm x 40 cm (or 15 in x 15 in), with an attached rod of 1 m (or 3 ft) in length. Larger boards (60 cm x 60 cm) provide more room to make measurements. The base plate and rod should be painted white to reduce the effects of solar heating.<\/p>
+          
+          <h3>Procedure<\/h3>
+          <p>Use a ruler graduated in centimeters (or inches) to measure the depth of snow accumulated on the snow board. Take measurements in several spots on the board. Calculate the average of the measurements and record to the nearest cm (in). Record \"T\" (signifying a trace) when the depth is less than 1 cm (or 0.5 in), or when snow fell but did not accumulate. If there is no new snow, record zero. Do not consider surface hoar on the boards as snowfall; clear off hoar layer after observation. If both rain and snow fell, it should be noted in the remarks.<\/p>
+          <p>The sample on the snow board can also be used to measure the water equivalent of new snow (<a href=\"#placeholder\">Section 1.22<\/a>). Once the observations are complete, redeposit the snow in the depression left by the snow board, adding additional snow if necessary to reposition the board level with the surrounding snow surface.<\/p>
+          <p>If the snow board was not level, the measurement should be made normal to the surface of the board.<\/p>
+          <hr>
+          <h2 id=\"1-21-1\">1.21.1 Snow Board Naming Conventions<\/h2>
+          <p>The following conventions can be used to identify snow boards used for different interval measurements.<\/p>
+          
+          <!-- START steps accordion -->
+           <div class=\"accordion\" id=\"stepsAccordion\">
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading01\">
+               <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01\" aria-expanded=\"false\" aria-controls=\"collapse01\">
+               HN24—24-hour Board
+               <\/button>
+             <\/h2>
+             <div id=\"collapse01\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading01\" data-bs-parent=\"#stepsAccordion\">
+               <div class=\"accordion-body\">
+               The HN24 board is used to measure snow that has been deposited over a 24-hour period. It is cleared at the end of the morning standard observation.
+               <\/div>
+             <\/div>
+             <\/div>
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading02\">
+               <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02\" aria-expanded=\"false\" aria-controls=\"collapse02\">
+               HST—Storm Board
+               <\/button>
+             <\/h2>
+             <div id=\"collapse02\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02\" data-bs-parent=\"#stepsAccordion\">
+               <div class=\"accordion-body\">
+               Storm snowfall is the depth of snow that has accumulated since the beginning of a storm period. The storm board is cleared at the end of a standard observation prior to the next storm and after useful settlement observations have been obtained. The symbol \"c\" is appended to the recorded data when the storm board is cleared.
+               <\/div>
+             <\/div>
+             <\/div>
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading03\">
+               <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03\" aria-expanded=\"false\" aria-controls=\"collapse03\">
+               H2D—Twice-a-Day Board
+               <\/button>
+             <\/h2>
+             <div id=\"collapse03\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03\" data-bs-parent=\"#stepsAccordion\">
+               <div class=\"accordion-body\">
+               An H2D board is used when standard observations are made twice a day. In this case both the HN24 and H2D boards should be cleared in the morning and then the H2D board is cleared again in the afternoon.
+               <\/div>
+             <\/div>
+             <\/div>
+             
+              <div class=\"accordion-item\">
+               <h2 class=\"accordion-header\" id=\"heading04\">
+                 <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04\" aria-expanded=\"false\" aria-controls=\"collapse04\">
+                 HSB—Shoot Board
+                 <\/button>
+               <\/h2>
+               <div id=\"collapse04\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04\" data-bs-parent=\"#stepsAccordion\">
+                 <div class=\"accordion-body\">
+                 The shoot board holds the snow accumulated since the last time avalanches were shot with explosives. The symbol \"c\" is appended to the recorded data when the shoot board is cleared.
+                 <\/div>
+               <\/div>
+               <\/div>
+               <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"heading05\">
+                  <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05\" aria-expanded=\"false\" aria-controls=\"collapse05\">
+                  HIN—Interval Board
+                  <\/button>
+                <\/h2>
+                <div id=\"collapse05\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05\" data-bs-parent=\"#stepsAccordion\">
+                  <div class=\"accordion-body\">
+                  An interval board is used to measure the accumulated snow in periods shorter than the time between standard observations. The interval board is cleared at the end of every observation.
+                  <\/div>
+                <\/div>
+                <\/div>
+                <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"heading06\">
+                  <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06\" aria-expanded=\"false\" aria-controls=\"collapse06\">
+                 HIT—Intermittent Board
+                  <\/button>
+                <\/h2>
+                <div id=\"collapse06\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06\" data-bs-parent=\"#stepsAccordion\">
+                  <div class=\"accordion-body\">
+                  Snow boards may be used at sites that are visited on an occasional basis. Snow that accumulates on the board may result from more than one storm. The intermittent snow board is cleared at the end of each observation.
+                  <\/div>
+                <\/div>
+                <\/div>
+           <\/div>
+            <!-- END steps accordion -->
+          
+        <\/div>
+      <\/main>"
+}

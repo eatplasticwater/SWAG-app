@@ -1,0 +1,16 @@
+{
+     "_id" :  "1-20",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.20 HEIGHT OF SNOWPACK (HS)",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>The height of the snowpack should be measured at a geographically representative site, preferably within 100 meters (or 300 ft) of the weather study plot. A white stake graduated in centimeters (inches) should be placed at the site. It is best to preserve an area with a radius of about 3 m (or 10 ft) around the snow stake for measurements. Ideally the snow in this area is not disturbed during the winter. Leave naturally forming settlement cones and depressions in place and try not to walk through the area.<\/p>
+          
+          <h3>Procedure<\/h3>
+          <p>From a distance of about 3 m (or 10 ft) look across the snow surface at the snow stake. Observe the average snow depth between your position and the stake to the nearest centimeter (or 0.5 inch). Try not to disturb the snow around the stake during the course of a winter season. HS values are measured vertically (i.e. line of plumb).<\/p>
+        <\/div>
+      <\/main>"
+}

@@ -1,0 +1,1574 @@
+{
+     "_id" :  "2-7",
+     "chapter" : "Chapter 2: SNOWPACK OBSERVATION",
+     "header" : "2.7 COLUMN AND BLOCK TESTS",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START sections index accordion -->
+          <div class=\"accordion\" id=\"sectionIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"sectionIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#sectionIndexcollapse\" aria-expanded=\"false\" aria-controls=\"sectionIndexcollapse\">
+            Sections
+            <\/button>
+            <\/h2>
+            <div id=\"sectionIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"sectionIndexheading\" data-bs-parent=\"#sectionIndexAccordion\">
+            <!-- START table -->
+            <!-- START page navigation -->
+             <div class=\"list-group\">
+               <a href=\"#2-7-1\" class=\"list-group-item list-group-item-action\">2.7.1 Site Selection<\/a>
+               <a href=\"#2-7-2\" class=\"list-group-item list-group-item-action\">2.7.2 Shovel Shear Test<\/a>
+               <a href=\"#2-7-3\" class=\"list-group-item list-group-item-action\">2.7.3 Rutschblock Test<\/a>
+               <a href=\"#2-7-4\" class=\"list-group-item list-group-item-action\">2.7.4 Compression Test<\/a>
+               <a href=\"#2-7-5\" class=\"list-group-item list-group-item-action\">2.7.5 Deep Tap Test<\/a>
+               <a href=\"#2-7-6\" class=\"list-group-item list-group-item-action\">2.7.6 Extended Column Test<\/a>
+               <a href=\"#2-7-7\" class=\"list-group-item list-group-item-action\">2.7.7 Propagation Saw Test<\/a>
+             <\/div>
+             <!-- END page navigation -->
+              <!-- END table -->
+            <\/div>
+            <\/div>
+            <\/div>
+          <!-- END sections index accordion -->
+          <!-- START tables index accordion -->
+          <div class=\"accordion\" id=\"tablesIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"tablesIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#tablesIndexcollapse\" aria-expanded=\"false\" aria-controls=\"tablesIndexcollapse\">
+            Tables
+            <\/button>
+            <\/h2>
+            <div id=\"tablesIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"tablesIndexheading\" data-bs-parent=\"#tablesIndexAccordion\">
+            <!-- START table -->
+            <div class=\"list-group\">
+              <a href=\"#table2-9Accordion\" class=\"list-group-item list-group-item-action\">Table 2.9 Shovel Shear Test<\/a>
+              <a href=\"#table2-10Accordion\" class=\"list-group-item list-group-item-action\">Table 2.10 Rutschblock Loading Steps<\/a>
+              <a href=\"#table2-11Accordion\" class=\"list-group-item list-group-item-action\">Table 2.11 Rutschblock Release ratings<\/a>
+              <a href=\"#table2-12Accordion\" class=\"list-group-item list-group-item-action\">Table 2.12 Loading Steps and Compression test<\/a>
+              <a href=\"#table2-13Accordion\" class=\"list-group-item list-group-item-action\">Table 2.13 Deep Tap Test<\/a>
+              <a href=\"#table2-14Accordion\" class=\"list-group-item list-group-item-action\">Table 2.14 Deep Tap Test Scores<\/a>
+              <a href=\"#table2-15Accordion\" class=\"list-group-item list-group-item-action\">Table 2.15 Propagation Saw Test<\/a>
+            <\/div>
+            <!-- END table -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END tables index accordion -->
+          <!-- START figures index accordion -->
+          <div class=\"accordion\" id=\"figureIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figureIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureIndexcollapse\" aria-expanded=\"false\" aria-controls=\"figureIndexcollapse\">
+            Figures
+            <\/button>
+            <\/h2>
+            <div id=\"figureIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureIndexheading\" data-bs-parent=\"#figureIndexAccordion\">
+            <!-- START table -->
+            <div class=\"list-group\">
+              <a href=\"#figure2-10Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.10 Shovel Shear Test<\/a>
+              <a href=\"#figure2-11bAccordion\" class=\"list-group-item list-group-item-action\">Figure 2.11 Rutschblock Photo<\/a>
+              <a href=\"#figure2-12Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.12 Rutschblock Schematic<\/a>
+              <a href=\"#figure2-13bAccordion\" class=\"list-group-item list-group-item-action\">Figure 2.13 Rutschblock Notes<\/a>
+              <a href=\"#figure2-14Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.14 Compression test<\/a>
+              <a href=\"#figure2-15Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.15 Extended Column test<\/a>
+              <a href=\"#figure2-16Accordion\" class=\"list-group-item list-group-item-action\">Figure 2.16 PST Column Schematic<\/a>
+              <\/div>
+            <!-- END table -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figures index accordion -->
+          <hr>
+          <!-- START 1st section -->
+          <h2 id=\"2-7-1\">2.7.1 Site Selection<\/h2>
+          <p>Test sites should be safe, geographically representative of the avalanche terrain under consideration, and undisturbed. For example, to gain information about a wind-loaded slope, find a safe part of a similarly loaded slope for the test. The site should not contain buried ski tracks or avalanche deposits. In general, the site should be farther than about one tree length from trees where buried layers might be disturbed by wind action or by clumps of snow that have fallen from nearby trees (imagine a line drawn between a treetop and the snow surface, the acute angle between that line and the horizontal should be at most 45&deg;). F&ouml;hn (1987a) recommends slope angles of at least 30&deg; for Rutschblock Tests, but stability tests done on 25o–30o slopes can yield useful information. Be aware that near the top of a slope snowpack layering and hence test scores may differ from the slope below.<\/p>
+          <p>In the past few decades, interest in understanding and documenting spatial variations in the physical properties of snow has increased in both the research and applied communities (Schweizer et al., 2008). The general guidelines outlined in the paragraph above remain part of good field practice. However, there is increasing evidence that making more observations is an effective strategy for avalanche operations and can help minimize the frequency of false-stable situations (Birkeland and Chabot, 2006). Both scientists and field workers should maintain a high level of curiosity and continue to search for signs and areas of instability, even during periods when the snow appears to be stable.<\/p>
+          <!-- END 1st section -->
+          <hr>
+          <!-- START 2nd section -->
+          <h2 id=\"2-7-2\">2.7.2 Shovel Shear Test<\/h2>
+          <h3>Objective<\/h3>
+          <p>Identification of the location of weak layers is the primary objective of the Shovel Shear Test. The test provides:<\/p>
+          <ol>
+            <li>Information about the location where the snow could fail in a shear.<\/li>
+            <li>A qualitative assessment of weak layer strength. It is best applied to identify buried weak layers, and it does not usually produce useful results in layers close to the snow surface.<\/li>
+          <\/ol>
+          <h3>Procedure<\/h3>
+          <p>A shovel is the only equipment required for the Shovel Shear Test. However, a snow saw will make cutting the snow column easier and more precise.<\/p>
+          
+          <!-- START steps accordion -->
+             <div class=\"accordion\" id=\"stepsAccordion\">
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading01\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01\" aria-expanded=\"false\" aria-controls=\"collapse01\">
+             1. Site Selection
+             <\/button>
+             <\/h2>
+             <div id=\"collapse01\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Select a safe site that has undisturbed snow and is geographically representative of slopes of interest.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading02\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02\" aria-expanded=\"false\" aria-controls=\"collapse02\">
+             2. Pit Wall
+             <\/button>
+             <\/h2>
+             <div id=\"collapse02\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+            Expose a fresh pit wall by cutting back about 0.2 m from the wall of a full snow profile or test profile.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading03\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03a\" aria-expanded=\"false\" aria-controls=\"collapse03a\">
+             3. Soft Snow Removal
+             <\/button>
+             <\/h2>
+             <div id=\"collapse03a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+            Observers can remove very soft snow (fist hardness) from the surface of the area where the test is to be carried out if necessary.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading04\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04a\" aria-expanded=\"false\" aria-controls=\"collapse04a\">
+             4. Marking
+             <\/button>
+             <\/h2>
+             <div id=\"collapse04a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             On the snow surface mark a cross section of the column to be cut, measuring 30 cm wide and 30 cm in the upslope direction (approximately the width of the shovel blade to be used).
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading05\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05a\" aria-expanded=\"false\" aria-controls=\"collapse05a\">
+             5. Cut Sides
+             <\/button>
+             <\/h2>
+             <div id=\"collapse05a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             Cut a chimney wide enough to allow the insertion of the saw on one side of the column and a narrow cut on the other side.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading06\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06a\" aria-expanded=\"false\" aria-controls=\"collapse06a\">
+             6. Cut Back
+             <\/button>
+             <\/h2>
+             <div id=\"collapse06a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+           Make a vertical cut at the back of the column and leave the cutting tool (saw) at the bottom for depth identification. The back-cut should be 0.7 m deep maximum and end in medium hard to hard snow if possible.
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+             <h2 class=\"accordion-header\" id=\"heading07\">
+             <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse07a\" aria-expanded=\"false\" aria-controls=\"collapse07a\">
+            7. Insert Shovel
+             <\/button>
+             <\/h2>
+             <div id=\"collapse07a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading07\" data-bs-parent=\"#stepsAccordion\">
+             <div class=\"accordion-body\">
+             <p>Carefully insert the shovel into the back-cut no farther than the heel of the shovel. Hold the shovel handle with both hands and apply an even force in the down-slope (slope parallel) direction (<a href=\"#figure2-10Accordion\">Figure 2.10<\/a>). Be careful not to pry the column away from the snow pit wall.<\/p>
+             <\/div>
+             <\/div>
+             <\/div>
+             
+             <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"heading08\">
+            <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse08a\" aria-expanded=\"false\" aria-controls=\"collapse08a\">
+             8. Column Break
+            <\/button>
+            <\/h2>
+            <div id=\"collapse08a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading08\" data-bs-parent=\"#stepsAccordion\">
+            <div class=\"accordion-body\">
+            <p>When the column breaks in a smooth shear plane above the low end of the back-cut, mark the level of the shear plane on the rear (standing) wall of the back-cut.<\/p>
+            <\/div>
+            <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading09\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse09a\" aria-expanded=\"false\" aria-controls=\"collapse09a\">
+               9. Remove Column
+              <\/button>
+              <\/h2>
+              <div id=\"collapse09a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading09\" data-bs-parent=\"#stepsAccordion\">
+              <div class=\"accordion-body\">
+                <p>After a failure in a smooth shear layer or an irregular surface at the low end of the back-cut, or when no failure occurs, remove the column above the bottom of the backcut and repeat steps 6 to 8 on the remaining column below.<\/p>
+              <\/div>
+            <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading10\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse10a\" aria-expanded=\"false\" aria-controls=\"collapse10a\">
+               10. Repeat
+              <\/button>
+              <\/h2>
+              <div id=\"collapse10a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading10\" data-bs-parent=\"#stepsAccordion\">
+              <div class=\"accordion-body\">
+              <p>Repeat the test on a second column with the edge of the shovel 0.1 m to 0.2 m above the suspected weak layer.<\/p>
+              <\/div>
+            <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading11\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse11a\" aria-expanded=\"false\" aria-controls=\"collapse11a\">
+               11. Measure and Record
+              <\/button>
+              <\/h2>
+              <div id=\"collapse11a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading11\" data-bs-parent=\"#stepsAccordion\">
+              <div class=\"accordion-body\">
+              <p>Measure and record the depth of the shear planes if they
+                were equal in both tests. Repeat steps 4 to 9 if the shear
+                planes were not at the same depth in both tests.<\/p>
+              <\/div>
+            <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading12\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse12a\" aria-expanded=\"false\" aria-controls=\"collapse12a\">
+               12. Tilt Column
+              <\/button>
+              <\/h2>
+              <div id=\"collapse12a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading12\" data-bs-parent=\"#stepsAccordion\">
+              <div class=\"accordion-body\">
+              <p>If no break occurs, tilt the column and tap (see <a href=\"#placeholder\">Section 2.9.4<\/a>).<\/p>
+              <\/div>
+            <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading13\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse13a\" aria-expanded=\"false\" aria-controls=\"collapse13a\">
+               13. Classify Results
+              <\/button>
+              <\/h2>
+              <div id=\"collapse13a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading13\" data-bs-parent=\"#stepsAccordion\">
+              <div class=\"accordion-body\">
+              <p>Use <a href=\"#table2-9Accordion\">Table 2.9<\/a> to classify the results of the test.<\/p>
+              <\/div>
+            <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading14\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse14a\" aria-expanded=\"false\" aria-controls=\"collapse14a\">
+               14. Crystal Form
+              <\/button>
+              <\/h2>
+              <div id=\"collapse14a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading14\" data-bs-parent=\"#stepsAccordion\">
+              <div class=\"accordion-body\">
+              <p>Observe and classify the crystal form and size at the shear
+                planes. (Often a sample of the crystals is best obtained
+                from the underside of the sheared block.)<\/p>
+              <\/div>
+            <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading15\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse15a\" aria-expanded=\"false\" aria-controls=\"collapse15a\">
+               15. Record Results
+              <\/button>
+              <\/h2>
+              <div id=\"collapse15a\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading15\" data-bs-parent=\"#stepsAccordion\">
+              <div class=\"accordion-body\">
+              <p>Record the results of the test with the appropriate data
+                code from <a href=\"#table2-9Accordion\">Table 2.9<\/a>  along with the height, and grain type and size of the weak layer (i.e. \"STE@125cm↑e1mm\" would be an easy shear on a layer of 1 mm faceted grains 125 cm above the ground).<\/p>
+              <\/div>
+            <\/div>
+            <\/div>
+             <\/div>
+            <!-- END steps accordion -->
+            <hr>
+            <!-- START table 2-9 accordion -->
+            <div class=\"accordion\" id=\"table2-9Accordion\">
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"table2-9heading\">
+              <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table2-9collapse\" aria-expanded=\"false\" aria-controls=\"table2-9collapse\">
+                Table 2.9 Shovel Shear Test
+              <\/button>
+              <\/h2>
+              <div id=\"table2-9collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table2-9heading\" data-bs-parent=\"#table2-9Accordion\">
+              <div class=\"accordion-body\">
+               <!-- START table -->
+                 <div class=\"table-responsive\">
+                   <h5 id=\"table-2-9\">Table 2.9 Loading Steps and Shovel Shear Test Scores<\/h5>
+                     <table class=\"table table-bordered\">
+                   <thead class=\"thead-light\">
+                       <tr>
+                     <th scope=\"col\">Term<\/th>
+                     <th scope=\"col\">Description<\/th>
+                     <th scope=\"col\">Equivalent Shear Strength (PA)<\/th>
+                     <th scope=\"col\">Data Code<\/th>
+                       <\/tr>
+                   <\/thead>
+                   <tbody class=\"table-striped\">
+                       <tr>
+                     <th scope=\"row\">Collapse<\/th>
+                     <td>Block collapses when cut<\/td>
+                     <td><\/td>
+                     <td>STC<\/td>
+                     <\/tr>
+                     <tr>
+                     <th scope=\"row\">Very Easy<\/th>
+                     <td>Fails during cutting or insertion<\/td>
+                     <td>&lt;100<\/td>
+                     <td>STV<\/td>
+                     <\/tr>
+                     <tr>
+                     <th scope=\"row\">Easy<\/th>
+                     <td>Fails with minimum pressure<\/td>
+                     <td>100-1000<\/td>
+                     <td>STE<\/td>
+                     <\/tr>
+                     <tr>
+                       <th scope=\"row\">Moderate<\/th>
+                       <td>Fails with moderate pressure<\/td>
+                       <td>1000-2500<\/td>
+                       <td>STM<\/td>
+                     <\/tr>
+                     <tr>
+                       <th scope=\"row\">Hard<\/th>
+                      <td>Fails with firm sustained pressure<\/td>
+                      <td>2500-4000<\/td>
+                      <td>STH<\/td>
+                     <\/tr>
+                     <tr>
+                       <th scope=\"row\">No Shear<\/th>
+                       <td>No shear failure observed<\/td>
+                       <td><\/td>
+                       <td>STN<\/td>
+                     <\/tr>
+                   <\/tbody>
+                   <\/table>
+                 <\/div>
+                 <!-- END table -->
+              <\/div>
+              <\/div>
+            <\/div>
+            <\/div>
+            <!-- END table 2-9 accordion -->
+            <!-- START figure 2-10 accordion -->
+            <div class=\"accordion\" id=\"figure2-10Accordion\">
+              <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"figure2-10heading\">
+              <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-10collapse\" aria-expanded=\"false\" aria-controls=\"figure2-10collapse\">
+              Figure 2.10 Shovel Shear Test
+              <\/button>
+              <\/h2>
+              <div id=\"figure2-10collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-10heading\" data-bs-parent=\"#figure2-10Accordion\">
+              <!-- START image -->
+                <img src=\"images\/figures\/2-10a.jpg\" class=\"img-fluid\" alt=\"the Shovel Shear Test \">
+                <img src=\"images\/figures\/2-10b.jpg\" class=\"img-fluid\" alt=\"the Shovel Shear Test \">
+                <div class=\"accordion-body\">
+                <p>Photograph and schematic of the Shovel Shear Test.<\/p>
+                <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Kelly Elder<\/small><\/p>
+                <\/div>
+              <!-- END image -->
+              <\/div>
+              <\/div>
+            <\/div>
+            <!-- END figure 2-10 accordion -->
+            <h3>Results<\/h3>
+            <p>The ratings of effort are subjective and depend on the strength and stiffness of the slab, dimensions of the shovel blade and handle, and the force applied by the tester. Observers are cautioned that identification of the location of weak layers is the primary objective of the Shovel Shear Test.<\/p>
+            
+            <!-- END Section 2 -->
+            <hr>
+            <!-- START Section 3 -->
+            <h2 id=\"2-7-3\">2.7.3 Rutschblock Test<\/h2>
+            <p>The rutschblock (or glide-block) test was developed in Switzerland in the 1960s. This section is based on analysis of Rutschblock Tests in Switzerland (F&ouml;hn, 1987a; Schweizer, 2002) and Canada (Jamieson and Johnston, 1993a and 1993b).<\/p>
+            <h3>Objective<\/h3>
+            <p>The Rutschblock is a good slope test for layers up to 1 m deeper than ski penetration. The test does not eliminate the need for snow profiles or careful field observations, nor does it, in general, replace other slope tests such as slope cutting and explosive tests.<\/p>
+            <h3>Procedure<\/h3>
+            <p>A shovel is required. Ski pole mounted saws or rutschblock cutting cords (8 meters of 3–4 mm cord with knots every 20–30 cm) save time isolating the block in soft or medium-hard snowpacks. However, extra care is required to ensure the block has straight edges. Large rutschblock saws are useful to cut knife-hard crusts. The Rutschblock Test can be performed with either skis or a snowboard.<\/p>
+            
+            <!-- START steps accordion -->
+               <div class=\"accordion\" id=\"stepsAccordion-2\">
+               
+               <div class=\"accordion-item\">
+               <h2 class=\"accordion-header\" id=\"heading01-2\">
+               <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-2\" aria-expanded=\"false\" aria-controls=\"collapse01-2\">
+               1. Site Selection
+               <\/button>
+               <\/h2>
+               <div id=\"collapse01-2\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-2\" data-bs-parent=\"#stepsAccordion-2\">
+               <div class=\"accordion-body\">
+               Select a safe site that has undisturbed snow and is geographically representative of the slopes of interest.
+               <\/div>
+               <\/div>
+               <\/div>
+               
+               <div class=\"accordion-item\">
+               <h2 class=\"accordion-header\" id=\"heading02-2\">
+               <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-2\" aria-expanded=\"false\" aria-controls=\"collapse02-2\">
+               2. Observe
+               <\/button>
+               <\/h2>
+               <div id=\"collapse02-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-2\" data-bs-parent=\"#stepsAccordion-2\">
+               <div class=\"accordion-body\">
+              Observe a snow profile and identify weak layers and potential slabs.
+               <\/div>
+               <\/div>
+               <\/div>
+               
+               <div class=\"accordion-item\">
+               <h2 class=\"accordion-header\" id=\"heading03-2\">
+               <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-2\" aria-expanded=\"false\" aria-controls=\"collapse03-2\">
+               3. Excavate a pit wall
+               <\/button>
+               <\/h2>
+               <div id=\"collapse03-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-2\" data-bs-parent=\"#stepsAccordion-2\">
+               <div class=\"accordion-body\">
+              Excavate a pit wall, perpendicular to the fall line, that is wider than the length of the tester's skis (2 m minimum)
+               <\/div>
+               <\/div>
+               <\/div>
+               
+               <div class=\"accordion-item\">
+               <h2 class=\"accordion-header\" id=\"heading04-2\">
+               <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-2\" aria-expanded=\"false\" aria-controls=\"collapse04-2\">
+               4. Marking
+               <\/button>
+               <\/h2>
+               <div id=\"collapse04-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-2\" data-bs-parent=\"#stepsAccordion-2\">
+               <div class=\"accordion-body\">
+               Mark the width of the block (2 m) and the length of the side cuts (1.5 m) on the surface of the snow with a ski, ruler, etc. The block should be 2 m wide throughout if the sides of the block are to be dug with a shovel. However, if the side walls are to be cut with a ski, pole, or saw, the lower wall should be about 2.1 m across and the top of the side cuts should be about 1.9 m apart.
+               <\/div>
+               <\/div>
+               <\/div>
+               
+               <div class=\"accordion-item\">
+               <h2 class=\"accordion-header\" id=\"heading05-2\">
+               <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-2\" aria-expanded=\"false\" aria-controls=\"collapse05-2\">
+               5. Flare block
+               <\/button>
+               <\/h2>
+               <div id=\"collapse05-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-2\" data-bs-parent=\"#stepsAccordion-2\">
+               <div class=\"accordion-body\">
+               This flaring of the block ensures it is free to slide without binding at the sides.
+               <\/div>
+               <\/div>
+               <\/div>
+               
+               <div class=\"accordion-item\">
+               <h2 class=\"accordion-header\" id=\"heading06-2\">
+               <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06-2\" aria-expanded=\"false\" aria-controls=\"collapse06-2\">
+               6. Dig out sides
+               <\/button>
+               <\/h2>
+               <div id=\"collapse06-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06-2\" data-bs-parent=\"#stepsAccordion-2\">
+               <div class=\"accordion-body\">
+             Dig out the sides of the block, or make vertical cuts down the sides using the lines marked on the snow surface.
+               <\/div>
+               <\/div>
+               <\/div>
+               
+               <div class=\"accordion-item\">
+               <h2 class=\"accordion-header\" id=\"heading07-2\">
+               <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse07-2\" aria-expanded=\"false\" aria-controls=\"collapse07-2\">
+              7. Cut downhill face
+               <\/button>
+               <\/h2>
+               <div id=\"collapse07-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading07-2\" data-bs-parent=\"#stepsAccordion-2\">
+               <div class=\"accordion-body\">
+               <p>Cut the downhill face of the block smooth with a shovel.<\/p>
+               <\/div>
+               <\/div>
+               <\/div>
+               
+               <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"heading08-2\">
+              <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse08-2\" aria-expanded=\"false\" aria-controls=\"collapse08-2\">
+               8. Isolate block
+              <\/button>
+              <\/h2>
+              <div id=\"collapse08-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading08-2\" data-bs-parent=\"#stepsAccordion-2\">
+              <div class=\"accordion-body\">
+              <p>Using a ski or snow saw make a vertical cut along the uphill side of the block so that the block is now isolated
+                on four sides.<\/p>
+              <\/div>
+              <\/div>
+              <\/div>
+              
+              <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"heading09-2\">
+                <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse09-2\" aria-expanded=\"false\" aria-controls=\"collapse09-2\">
+                 9. Rate any fractures
+                <\/button>
+                <\/h2>
+                <div id=\"collapse09-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading09-2\" data-bs-parent=\"#stepsAccordion-2\">
+                                    <div class=\"accordion-body\">
+                                      <p>Rate any fractures that occur while isolating the block as RB1.<\/p>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 
+                                 <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"heading10-2\">
+                                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse10-2\" aria-expanded=\"false\" aria-controls=\"collapse10-2\">
+                                     10. Loading steps
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"collapse10-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading10-2\" data-bs-parent=\"#stepsAccordion-2\">
+                                    <div class=\"accordion-body\">
+                                    <p>Conduct loading steps as described in <a href=\"#table2-10Accordion\">Table 2.10<\/a>, and
+                                      record the results with the appropriate rutschblock score as well as the release type that occurred during the test (<a href=\"#table2-11Accordion\">Table 2.11<\/a>). A field book notation for recording rutschblock results is shown in <a href=\"#placeholder\">Figure 2.13<\/a>.<\/p>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 
+                                 <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"heading11-2\">
+                                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse11-2\" aria-expanded=\"false\" aria-controls=\"collapse11-2\">
+                                     11. Rate weak layers
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"collapse11-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading11-2\" data-bs-parent=\"#stepsAccordion-2\">
+                                    <div class=\"accordion-body\">
+                                    <p>Rate any identified weak layers that did not fracture as no failure (RB7).<\/p>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 
+                                 <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"heading12-2\">
+                                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse12-2\" aria-expanded=\"false\" aria-controls=\"collapse12-2\">
+                                     12. Record results
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"collapse12-2\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading12-2\" data-bs-parent=\"#stepsAccordion-2\">
+                                    <div class=\"accordion-body\">
+                                    <p>Record rutschblock results in a field book along with pertinent site information using the method shown in <a href=\"#placeholder\">Figure 2.13<\/a> or the data codes in <a href=\"#table2-10Accordion\">Tables 2.10<\/a> and <a href=\"#table2-11Accordion\">2.11<\/a>.<\/p>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 <hr>
+                                 <!-- START table 2-10 accordion -->
+                                 <div class=\"accordion\" id=\"table2-10Accordion\">
+                                 <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"table2-10heading\">
+                                    <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table2-10collapse\" aria-expanded=\"false\" aria-controls=\"table2-10collapse\">
+                                      Table 2.10 Rutschblock Loading Steps
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"table2-10collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table2-10heading\" data-bs-parent=\"#table2-10Accordion\">
+                                    <div class=\"accordion-body\">
+                                     <!-- START table -->
+                                       <div class=\"table-responsive\">
+                                       <h5 id=\"table-2-10\">Table 2.10 Rutschblock Loading Steps and Scores<\/h5>
+                                          <table class=\"table table-bordered\">
+                                          <thead class=\"thead-light\">
+                                          <tr>
+                                          <th scope=\"col\">Field <br>Score<\/th>
+                                          <th scope=\"col\">Loading Step That Produces a Clean Fracture Surface<\/th>
+                                          <th scope=\"col\">Data Code<\/th>
+                                          <\/tr>
+                                          <\/thead>
+                                          <tbody class=\"table-striped\">
+                                          <tr>
+                                          <th scope=\"row\">1<\/th>
+                                          <td>The block slides during digging or cutting.<\/td>
+                                          <td>RB1<\/td>
+                                          <\/tr>
+                                          <tr>
+                                          <th scope=\"row\">2<\/th>
+                                          <td>The skier approaches the block from above and gently steps down onto the <br>
+                                            upper part of the block within 35 cm of the upper wall (<a href=\"figure-2-11\">Figure 2.11<\/a>).<\/td>
+                                          <td>RB2<\/td>
+                                          <\/tr>
+                                          <tr>
+                                          <th scope=\"row\">3<\/th>
+                                          <td>Without lifting the heels, the skier drops once from straight leg to bent knee <br>
+                                            position (feet together), pushing downwards and compacting surface layers.<\/td>
+                                          <td>RB3<\/td>
+                                          <\/tr>
+                                          <tr>
+                                            <th scope=\"row\">4<\/th>
+                                            <td>The skier jumps up and lands in the same compacted spot.<\/td>
+                                            <td>RB4<\/td>
+                                          <\/tr>
+                                          <tr>
+                                            <th scope=\"row\">5<\/th>
+                                            <td>The skier jumps again onto the same compacted spot.<\/td>
+                                            <td>RB5<\/td>
+                                          <\/tr>
+                                          <tr>
+                                            <th scope=\"row\">6<\/th>
+                                            <td>For hard or deep slabs, remove skis and jump on the same spot. <br>
+                                            For soft slabs or thin slabs where jumping without skis might penetrate through <br>
+                                            the slab, keep skis on, step down another 35 cm (almost to mid-block) and push <br>
+                                            once then jump three times.<\/td>
+                                            <td>RB6<\/td>
+                                          <\/tr>
+                                          <tr>
+                                            <th scope=\"row\">7<\/th>
+                                            <td>None of the loading steps produced a smooth slope-parallel failure.<\/td>
+                                            <td>RB7<\/td>
+                                          <\/tr>
+                                          <\/tbody>
+                                          <\/table>
+                                       <\/div>
+                                       <!-- END table -->
+                                    <\/div>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 <!-- END table 2-10 accordion -->
+                                 <!-- START table 2-11 accordion -->
+                                 <div class=\"accordion\" id=\"table2-11Accordion\">
+                                 <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"table2-11heading\">
+                                    <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table2-11collapse\" aria-expanded=\"false\" aria-controls=\"table2-11collapse\">
+                                      Table 2.11  Rutschblock Release Ratings
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"table2-11collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table2-11heading\" data-bs-parent=\"#table2-11Accordion\">
+                                    <div class=\"accordion-body\">
+                                     <!-- START table -->
+                                       <div class=\"table-responsive\">
+                                       <h5 id=\"table-2-11\">Table 2.11 Release Type Ratings <br>for the Rutschblock Test<\/h5>
+                                          <table class=\"table table-bordered\">
+                                          <thead class=\"thead-light\">
+                                          <tr>
+                                          <th scope=\"col\">Term<\/th>
+                                          <th scope=\"col\">Description<\/th>
+                                          <th scope=\"col\">Data Code<\/th>
+                                          <\/tr>
+                                          <\/thead>
+                                          <tbody class=\"table-striped\">
+                                          <tr>
+                                          <th scope=\"row\">Whole block<\/th>
+                                          <td>90 — 100% of the block<\/td>
+                                          <td>WB<\/td>
+                                          <\/tr>
+                                          <tr>
+                                          <th scope=\"row\">Most of block<\/th>
+                                          <td>50 — 80% of the block<\/td>
+                                          <td>MB<\/td>
+                                          <\/tr>
+                                          <tr>
+                                          <th scope=\"row\">Edge of block<\/th>
+                                          <td>10 — 40% of the block<\/td>
+                                          <td>EB<\/td>
+                                          <\/tr>
+                                          <\/tbody>
+                                          <\/table>
+                                       <\/div>
+                                       <!-- END table -->
+                                    <\/div>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 <!-- END table 2-11 accordion -->
+                                 <!-- START table 2-12 accordion -->
+                                 <div class=\"accordion\" id=\"table2-12Accordion\">
+                                 <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"table2-12heading\">
+                                    <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table2-12collapse\" aria-expanded=\"false\" aria-controls=\"table2-12collapse\">
+                                      Table 2.12 Loading Steps and Compression Test Scores
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"table2-12collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table2-12heading\" data-bs-parent=\"#table2-12Accordion\">
+                                    <div class=\"accordion-body\">
+                                     <!-- START table -->
+                                       <div class=\"table-responsive\">
+                                         <h5 id=\"table-2-12\">Table 2.12 Loading Steps and Compression Test Scores<\/h5>
+                                         <table class=\"table table-bordered\">
+                                         <thead class=\"thead-light\">
+                                           <tr>
+                                            <th scope=\"col\">Term<\/th>
+                                            <th scope=\"col\">Description<\/th>
+                                            <th scope=\"col\">Data Code<\/th>
+                                           <\/tr>
+                                         <\/thead>
+                                         <tbody>
+                                         <tr>
+                                           <th>Very Easy<\/th>
+                                           <td>Fractures during cutting<\/td>
+                                           <td>CTV<\/td>
+                                         <\/tr>
+                                         <tr>
+                                           <th>Easy<\/th>
+                                           <td>Fractures within 10 light taps using finger tips only<\/td>
+                                           <td>CT1 to CT10<\/td>
+                                         <\/tr>
+                                         <tr>
+                                           <th>Moderate<\/th>
+                                           <td>Fractures within 10 moderate taps from the elbow using finger tips<\/td>
+                                           <td>CT11 to CT20<\/td>
+                                         <\/tr>
+                                         <tr>
+                                           <th>Hard<\/th>
+                                           <td>Fractures within 10 firm taps from whole arm using palm or fist<\/td>
+                                           <td>CT21 to CT30<\/td>
+                                         <\/tr>
+                                         <tr>
+                                           <th>No Fracture<\/th>
+                                           <td>Does not fracture<\/td>
+                                           <td>CTN<\/td>
+                                         <\/tr>
+                                         <\/tbody>
+                                         <\/table>
+                                         <\/div>
+                                       <!-- END table -->
+                                    <\/div>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 <!-- END table 2-12 accordion -->
+                                 <!-- START figure 2-11 accordion -->
+                                 <div class=\"accordion\" id=\"figure2-11Accordion\">
+                                    <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"figure2-11heading\">
+                                    <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-11collapse\" aria-expanded=\"false\" aria-controls=\"figure2-11collapse\">
+                                    Figure 2.11 Rutschblock Photo
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"figure2-11collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-11heading\" data-bs-parent=\"#figure2-11Accordion\">
+                                    <!-- START image -->
+                                      <img src=\"images\/figures\/2-11.jpg\" class=\"img-fluid\" alt=\"Schematic of the Rutschblock Test (after Jamieson and Johnston, 1993a).\">
+                                      <div class=\"accordion-body\">
+                                    <p>Stepping onto the block during a Rutschblock Test.<\/p>
+                                       <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Kelly Elder
+                                 <\/small><\/p>
+                                      <\/div>
+                                    <!-- END image -->
+                                    <\/div>
+                                    <\/div>
+                                 <\/div>
+                                 <!-- END figure 2-11 accordion -->
+                                 <!-- START figure 2-12 accordion -->
+                                 <div class=\"accordion\" id=\"figure2-12Accordion\">
+                                    <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"figure2-12heading\">
+                                    <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-12collapse\" aria-expanded=\"false\" aria-controls=\"figure2-12collapse\">
+                                    Figure 2.12 Rutschblock Schematic
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"figure2-12collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-12heading\" data-bs-parent=\"#figure2-12Accordion\">
+                                    <!-- START image -->
+                                      <img src=\"images\/figures\/2-12.jpg\" class=\"img-fluid\" alt=\"Schematic of the Rutschblock Test (after Jamieson and Johnston, 1993a).\">
+                                      <div class=\"accordion-body\">
+                                    <p>Schematic of the Rutschblock Test (after Jamieson and Johnston, 1993a).<\/p>
+                                       <!-- <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Ethan Greene
+                                 <\/small><\/p> -->
+                                      <\/div>
+                                    <!-- END image -->
+                                    <\/div>
+                                    <\/div>
+                                 <\/div>
+                                 <!-- END figure 2-12 accordion -->
+                                  <!-- START figure 2-13 accordion -->
+                                  <div class=\"accordion\" id=\"figure2-13bAccordion\">
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"figure2-13bheading\">
+                                     <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-13bcollapse\" aria-expanded=\"false\" aria-controls=\"figure2-13bcollapse\">
+                                     Figure 2.13 Rutschblock notes
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"figure2-13bcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-13bheading\" data-bs-parent=\"#figure2-13bAccordion\">
+                                     <!-- START image -->
+                                       <img src=\"images\/figures\/2-13.gif\" class=\"img-fluid\" alt=\"field notebook method for recording a rutschblock score\">
+                                       <div class=\"accordion-body\">
+                                       <p>A field notebook method for recording a rutschblock score, release type, shear quality (center of box) along with the slope angle, elevation, crystal form and size, depth of weak layer, and as-pect (clockwise from top). Arrows can be used to indicate whether the depth of the weak layer was measured from the snow surface or the ground (i.e. 68 cm below the snow surface).<\/p>
+                                       <!-- <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Kelly Elder<\/small><\/p> -->
+                                       <\/div>
+                                     <!-- END image -->
+                                     <\/div>
+                                     <\/div>
+                                  <\/div>
+                                  <!-- END figure 2-13 accordion -->
+                                  
+                                  <\/div>
+                                 <!-- END steps accordion -->
+                                 <h3>Results<\/h3>
+                                 <p>The rutschblock only tests layers deeper than ski penetration. For example, a weak layer 20 cm below the surface is not tested by skis that penetrate 20 cm or more. Higher and more variable rutschblock scores are sometimes observed near the top of a slope where the layering may differ from the middle and lower part of the slope (Jamieson & Johnston, 1993). Higher scores may contribute to an incorrect decision. The rutschblock may not effectively test weak layers deeper than about 1 m below ski penetration.<\/p>
+                                 <p>Schweizer, McCammon and Jamieson (2008) found that rutschblock scores combined with release type correlated well with observed avalanche occurrence. Johnson and Birkeland (2002) found that combining rutschblock scores with shear quality ratings reduced the number of false-stable results.<\/p>
+                                 <p>Research demonstrates that rutschblock results can vary over short distances. As such, interpret the results of any stability test in conjunction with snowpack and weather histories, and other snowpack and avalanche information.<\/p>
+                                 
+                               <!-- END Section 3 -->
+                               <hr>
+                               <!-- START Section 4 -->
+                               <h2 id=\"2-7-4\">2.7.4 Compression Test<\/h2>
+                               <p>The Compression Test was first used by Parks Canada wardens working in the Canadian Rockies in the 1970s. The following procedure was developed by the University of Calgary avalanche research project in the late 1990s. Similar tests have been developed elsewhere.<\/p>
+                               <h3>Objective<\/h3>
+                               <p>The Compression Test attempts to locate weak layers in the upper snowpack (~ 1m) and provide an indication of the triggering likelihood on nearby slopes with similar snowpack conditions. The tester places a shovel blade on top of an isolated snow column and taps the blade, causing weak layers within the column to fracture. These fractures can be seen on the smooth walls of the column. Compression tests are typically performed on sloping terrain. Tests of distinct, collapsible weak layers can be performed on level study plots.<\/p>
+                               <h3>Procedure<\/h3>
+                               <p>A shovel is the only piece of equipment required for the Compression Test. However, a snow saw will make cutting the column of snow easier and more precise.<\/p>
+                               
+                               <!-- START steps accordion -->
+                                  <div class=\"accordion\" id=\"stepsAccordion-3\">
+                                  
+                                  <div class=\"accordion-item\">
+                                  <h2 class=\"accordion-header\" id=\"heading01-3\">
+                                  <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-3\" aria-expanded=\"false\" aria-controls=\"collapse01-3\">
+                                  1. Site Selection
+                                  <\/button>
+                                  <\/h2>
+                                  <div id=\"collapse01-3\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-3\" data-bs-parent=\"#stepsAccordion-3\">
+                                  <div class=\"accordion-body\">
+                                 Select a safe site that has undisturbed snow and is geographically representative of the slopes of interest.
+                                  <\/div>
+                                  <\/div>
+                                  <\/div>
+                                  
+                                  <div class=\"accordion-item\">
+                                  <h2 class=\"accordion-header\" id=\"heading02-3\">
+                                  <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-3\" aria-expanded=\"false\" aria-controls=\"collapse02-3\">
+                                  2. Isolate column
+                                  <\/button>
+                                  <\/h2>
+                                  <div id=\"collapse02-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-3\" data-bs-parent=\"#stepsAccordion-3\">
+                                  <div class=\"accordion-body\">
+                                Isolate a column of snow 30 cm wide with a 30 cm upslope dimension that is deep enough to expose potential weak layers on the smooth walls of the column. Field tests have indicated that the size of the shovel blade used has minimal impact on test outcome (Jamieson, 1996). A depth of 100–120 cm is usually sufficient since the Compression Test rarely produces fractures in deeper weak layers. Taller columns tend to wobble during tapping, potentially producing misleading results for deep weak layers (Jamieson, 1996).
+                                  <\/div>
+                                  <\/div>
+                                  <\/div>
+                                  
+                                  <div class=\"accordion-item\">
+                                  <h2 class=\"accordion-header\" id=\"heading03-3\">
+                                  <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-3\" aria-expanded=\"false\" aria-controls=\"collapse03-3\">
+                                  3. Rate fractures
+                                  <\/button>
+                                  <\/h2>
+                                  <div id=\"collapse03-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-3\" data-bs-parent=\"#stepsAccordion-3\">
+                                  <div class=\"accordion-body\">
+                                 Rate any fractures that occur while isolating the column as Very Easy (CTV).
+                                  <\/div>
+                                  <\/div>
+                                  <\/div>
+                                  
+                                  <div class=\"accordion-item\">
+                                  <h2 class=\"accordion-header\" id=\"heading04-3\">
+                                  <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-3\" aria-expanded=\"false\" aria-controls=\"collapse04-3\">
+                                  4. Remove wedge
+                                  <\/button>
+                                  <\/h2>
+                                  <div id=\"collapse04-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-3\" data-bs-parent=\"#stepsAccordion-3\">
+                                  <div class=\"accordion-body\">
+                                 If the snow surface slopes, you can remove a wedge of snow to level the top of the column.
+                                  <\/div>
+                                  <\/div>
+                                  <\/div>
+                                  
+                                  <div class=\"accordion-item\">
+                                  <h2 class=\"accordion-header\" id=\"heading05-3\">
+                                  <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-3\" aria-expanded=\"false\" aria-controls=\"collapse05-3\">
+                                  5. Easy taps
+                                  <\/button>
+                                  <\/h2>
+                                  <div id=\"collapse05-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-3\" data-bs-parent=\"#stepsAccordion-3\">
+                                  <div class=\"accordion-body\">
+                                 Place a shovel blade on top of the column. Tap 10 times with fingertips, moving hand from wrist and note the number of taps required to fracture the column (1 to 10).
+                                  <\/div>
+                                  <\/div>
+                                  <\/div>
+                                  
+                                  <div class=\"accordion-item\">
+                                  <h2 class=\"accordion-header\" id=\"heading06-3\">
+                                  <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06-3\" aria-expanded=\"false\" aria-controls=\"collapse06-3\">
+                                  6. Continue tapping
+                                  <\/button>
+                                  <\/h2>
+                                  <div id=\"collapse06-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06-3\" data-bs-parent=\"#stepsAccordion-3\">
+                                  <div class=\"accordion-body\">
+                                If during tapping the column fails, leave the failed portion on top of the column, provided it does not compromise other observations. If the upper part of the column slides off or no longer \"evenly\" supports further tapping on the column, remove the damaged part of the column and continue tapping.
+                                  <\/div>
+                                  <\/div>
+                                  <\/div>
+                                  
+                                  <div class=\"accordion-item\">
+                                  <h2 class=\"accordion-header\" id=\"heading07-3\">
+                                  <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse07-3\" aria-expanded=\"false\" aria-controls=\"collapse07-3\">
+                                 7. Moderate taps
+                                  <\/button>
+                                  <\/h2>
+                                  <div id=\"collapse07-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading07-3\" data-bs-parent=\"#stepsAccordion-3\">
+                                  <div class=\"accordion-body\">
+                                  <p>Tap 10 times with the fingertips or knuckles moving forearm from the elbow, and note the total number of taps required to fracture the column (11 to 20). While moderate taps should be harder than easy taps, they should not be as hard as one can reasonably tap with the knuckles.<\/p>
+                                  <\/div>
+                                  <\/div>
+                                  <\/div>
+                                  
+                                  <div class=\"accordion-item\">
+                                 <h2 class=\"accordion-header\" id=\"heading08-3\">
+                                 <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse08-3\" aria-expanded=\"false\" aria-controls=\"collapse08-3\">
+                                  8. Hard taps
+                                 <\/button>
+                                 <\/h2>
+                                 <div id=\"collapse08-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading08-3\" data-bs-parent=\"#stepsAccordion-3\">
+                                 <div class=\"accordion-body\">
+                                 <p>Finally, hit the shovel blade moving the arm from the shoulder 10 times with open hand or fist and note the total number of taps required to fracture the column (21 to 30). If the moderate taps were too hard, the operator will often try to hit the shovel with even more force for the hard taps and may hurt their hand.<\/p>
+                                 <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 
+                                 <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"heading09-3\">
+                                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse09-3\" aria-expanded=\"false\" aria-controls=\"collapse09-3\">
+                                     9. Rate unfractured layers
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"collapse09-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading09-3\" data-bs-parent=\"#stepsAccordion-3\">
+                                    <div class=\"accordion-body\">
+                                      <p>Rate any identified weak layers that did not fracture as No Fracture (CTN).<\/p>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 
+                                 <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"heading10-3\">
+                                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse10-3\" aria-expanded=\"false\" aria-controls=\"collapse10-3\">
+                                     10. Record depths
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"collapse10-3\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading10-3\" data-bs-parent=\"#stepsAccordion-3\">
+                                    <div class=\"accordion-body\">
+                                    <p>Record the depth of the snowpack that was tested. For
+                                      example, if the top 110 cm of a 200 cm snowpack was tested (30 taps on a column, 110 cm tall) and the only result was a failure on the 15th tap, 25 cm below the surface, then record \"CT15 @&darr;25 cm; Test depth 110 cm, or TD 110\". This clearly indicates that no fracture occurred from 25–110 cm below the surface and that the snowpack between 110 cm and 200 cm was not tested with the Compression Test. Operations that always test the same depth of the snowpack, (e.g. top 120 cm) may omit the test depth.<\/p>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                  
+                                  <\/div>
+                                 <!-- END steps accordion -->
+                                 <h3>Results<\/h3>
+                                 <p>Limitations of the Compression Test include sampling a relatively small area of the snowpack and the variability in force applied by different observers. A greater understanding of these limitations can be gained by conducting more than one Compression Test in a snow profile and performing side by side tests with other observers.<\/p>
+                                 <p>Deeper weak layers are generally less sensitive to taps on the shovel, resulting in higher ratings. Similarly, deeper weak layers are less sensitive to human triggering.<\/p>
+                                 <p>Experience and research in the Rocky and Columbia Mountains of Western Canada indicates that human-triggered avalanches are more often associated with \"Easy\" (1–9 taps) fractures than with \"Hard\" (20–30 taps) fractures or with layers that do not fracture (Jamieson, 1996). Sudden fractures (SC, SP, Q1) that show up on the column walls as straight lines identify the failure layers of nearby slab avalanches more often than non-planar or indistinct failure surfaces (BRK, Q3) (vanHerwijnen & Jamieson, 2003).<\/p>
+                                 <p>Research demonstrates that Compression Test results can vary over short distances. As such, interpret the results of any stability test in conjunction with snowpack and weather histories, and other snowpack and avalanche information.<\/p>
+                                 <!-- START figure 2-14 accordion -->
+                                 <div class=\"accordion\" id=\"figure2-14Accordion\">
+                                    <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"figure2-14heading\">
+                                    <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-14collapse\" aria-expanded=\"false\" aria-controls=\"figure2-14collapse\">
+                                    Figure 2.14 Compression test
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"figure2-14collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-14heading\" data-bs-parent=\"#figure2-14Accordion\">
+                                    <!-- START image -->
+                                      <img src=\"images\/figures\/2-14a.jpg\" class=\"img-fluid\" alt=\" Schematic and photograph of the Compression Test.\">
+                                      <img src=\"images\/figures\/2-14b.jpg\" class=\"img-fluid\" alt=\" Schematic and photograph of the Compression Test.\">
+                                      <div class=\"accordion-body\">
+                                    <p> Schematic and photograph of the Compression Test. <\/p>
+                                       <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Bruce Tremper
+                                 <\/small><\/p>
+                                      <\/div>
+                                    <!-- END image -->
+                                    <\/div>
+                                    <\/div>
+                                 <\/div>
+                                 <!-- END figure 2-14 accordion -->
+                                 
+                                 <!-- END Section 4 -->
+                                 <hr>
+                                 <!-- START Section 5 -->
+                                 <h2 id=\"2-7-5\">2.7.5 Deep Tap Test<\/h2>
+                                 <p>The Deep Tap Test was developed by the Applied Snow and Avalanche Research group at the University of Calgary. The test was developed to address very deep weak layers that are difficult to assess with other column and block tests.<\/p>
+                                 <h3>Objective<\/h3>
+                                 <p>The primary objective of the Deep Tap Test is to determine the type of fracture that occurs in a weak layer that is too deep to fracture consistently in the Compression Test. In addition, one may observe the tapping force required for fracture to occur.<\/p>
+                                 <h3>Procedure<\/h3>
+                                 <p>A shovel is the only piece of equipment required for the Deep Tap Test. However, a snow saw will make cutting the column of snow easier and more precise.<\/p>
+                                 <!-- START steps accordion -->
+                                     <div class=\"accordion\" id=\"stepsAccordion-4\">
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading01-4\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-4\" aria-expanded=\"false\" aria-controls=\"collapse01-4\">
+                                     1. Identify a weak layer
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse01-4\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-4\" data-bs-parent=\"#stepsAccordion-4\">
+                                     <div class=\"accordion-body\">
+                                    Using a profile or other means, identify a weak snowpack layer, which is overlaid by 1F or harder snow and which is too deep to fracture consistently in the Compression Test.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading02-4\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-4\" aria-expanded=\"false\" aria-controls=\"collapse02-4\">
+                                     2. Prepare column
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse02-4\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-4\" data-bs-parent=\"#stepsAccordion-4\">
+                                     <div class=\"accordion-body\">
+                                 Prepare a 30 cm x 30 cm column as for a Compression Test (note that the same column can be used after a Compression Test of the upper layers, provided the Compression Test did not disturb the target weak layer). To reduce the likelihood of fractures in weak layer below the target layer, such as depth hoar at the base of the snowpack, it may be advantageous not to cut the back wall more than a few centimeters below the target weak layer.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading03-4\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-4\" aria-expanded=\"false\" aria-controls=\"collapse03-4\">
+                                     3. Remove snow
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse03-4\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-4\" data-bs-parent=\"#stepsAccordion-4\">
+                                     <div class=\"accordion-body\">
+                                 Remove all but 15 cm of snow above the weak layer, measured at the back of the sidewall. This distance should be constant, regardless of the slope angle.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading04-4\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-4\" aria-expanded=\"false\" aria-controls=\"collapse04-4\">
+                                     4. Easy taps
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse04-4\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-4\" data-bs-parent=\"#stepsAccordion-4\">
+                                     <div class=\"accordion-body\">
+                                 Place the shovel blade (facing up or facing down) on top of the column. Tap 10 times with fingertips, moving hand from wrist and note the number of taps required to fracture the column (1 to 10).
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading05-4\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-4\" aria-expanded=\"false\" aria-controls=\"collapse05-4\">
+                                     5. Moderate taps
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse05-4\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-4\" data-bs-parent=\"#stepsAccordion-4\">
+                                     <div class=\"accordion-body\">
+                                  Tap 10 times with the fingertips or knuckles moving your forearm from the elbow, and note the total number of taps required to fracture the column (11 to 20). While moderate taps should be harder than easy taps, they should not be as hard as one can reasonably tap with the knuckles.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading06-4\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06-4\" aria-expanded=\"false\" aria-controls=\"collapse06-4\">
+                                     6. Hard taps
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse06-4\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06-4\" data-bs-parent=\"#stepsAccordion-4\">
+                                     <div class=\"accordion-body\">
+                                 Finally, hit the shovel blade moving arm from the shoulder 10 times with open hand or fist and note the total number of taps required to fracture the column (21 to 30). If the moderate taps were too hard, the operator will often try to hit the shovel with even more force for the hard taps–and may hurt his or her hand.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading07-4\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse07-4\" aria-expanded=\"false\" aria-controls=\"collapse07-4\">
+                                    7. Record results
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse07-4\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading07-4\" data-bs-parent=\"#stepsAccordion-4\">
+                                     <div class=\"accordion-body\">
+                                     <p>Record the results as described in <a href=\"#table2-13Accordion\">Table 2.13<\/a>. Observers may also include the total depth of the weak layer below the snow surface at the location of the test.<\/p>
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"heading08-4\">
+                                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse08-4\" aria-expanded=\"false\" aria-controls=\"collapse08-4\">
+                                     8. Describe fracture
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"collapse08-4\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading08-4\" data-bs-parent=\"#stepsAccordion-4\">
+                                    <div class=\"accordion-body\">
+                                    <p>Use one of the methods in <a href=\"#placeholder\">Section 2.6<\/a> to describe the type of fracture observed during the test. This information is important for deep persistent weak layers.<\/p>
+                                    <\/div>
+                                    <\/div>
+                                    <\/div>
+                                 
+                                     <\/div>
+                                    <!-- END steps accordion -->
+                                    
+                                    <h3>Results<\/h3>
+                                    <p>While very effective for testing deeper weak layers, the number of taps required to initiate a fracture in the Deep Tap Test has not been correlated with human-triggered avalanches or avalanches on adjacent slopes.<\/p>
+                                 <!-- END Section 5 -->
+                                 <!-- START table 2-13 accordion -->
+                                 <div class=\"accordion\" id=\"table2-13Accordion\">
+                                 <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"table2-13heading\">
+                                    <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table2-13collapse\" aria-expanded=\"false\" aria-controls=\"table2-13collapse\">
+                                      Table 2.13 Deep Tap Test Loading Steps
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"table2-13collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table2-13heading\" data-bs-parent=\"#table2-13Accordion\">
+                                    <div class=\"accordion-body\">
+                                     <!-- START table -->
+                                       <div class=\"table-responsive\">
+                                       <h5 id=\"table-2-13\">Table 2.13 Loading Steps and Deep Tap Test Scores<\/h5>
+                                          <table class=\"table table-bordered\">
+                                          <thead class=\"thead-light\">
+                                          <tr>
+                                          <th scope=\"col\">Term<\/th>
+                                          <th scope=\"col\">Description<\/th>
+                                          <th scope=\"col\">Data Code<\/th>
+                                          <\/tr>
+                                          <\/thead>
+                                          <tbody class=\"table-striped\">
+                                          <tr>
+                                          <th scope=\"row\">Very Easy<\/th>
+                                          <td>Fractures during cutting<\/td>
+                                          <td>DTV<\/td>
+                                          <\/tr>
+                                          <tr>
+                                          <th scope=\"row\">Easy<\/th>
+                                          <td>Fractures within 10 light taps using finger tips only<\/td>
+                                          <td>DT1 to DT10<\/td>
+                                          <\/tr>
+                                          <tr>
+                                          <th scope=\"row\">Moderate<\/th>
+                                          <td>Fractures within 10 moderate taps from the elbow using finger tips<\/td>
+                                          <td>DT11 to DT20<\/td>
+                                          <\/tr>
+                                          <tr>
+                                            <th scope=\"row\">Hard<\/th>
+                                            <td>Fractures within 10 firm taps from whole arm using palm or fist<\/td>
+                                            <td>DT21 to DT30<\/td>
+                                          <\/tr>
+                                          <tr>
+                                            <th scope=\"row\">No Fracture<\/th>
+                                            <td>Does not fracture<\/td>
+                                            <td>DTN<\/td>
+                                            <\/tr>
+                                          <\/tbody>
+                                          <\/table>
+                                       <\/div>
+                                       <!-- END table -->
+                                    <\/div>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 <!-- END table 2-13 accordion -->
+                                 <!-- START table 2-14 accordion -->
+                                 <div class=\"accordion\" id=\"table2-14Accordion\">
+                                 <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"table2-14heading\">
+                                    <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table2-14collapse\" aria-expanded=\"false\" aria-controls=\"table2-14collapse\">
+                                      Table 2.14 Deep Tap Test Scores
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"table2-14collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table2-14heading\" data-bs-parent=\"#table2-14Accordion\">
+                                    <div class=\"accordion-body\">
+                                     <!-- START table -->
+                                       <div class=\"table-responsive\">
+                                       <h5 id=\"table-2-14\">Table 2.14 Loading Steps and Deep Tap Test Scores<\/h5>
+                                          <table class=\"table table-bordered\">
+                                          <thead class=\"thead-light\">
+                                          <tr>
+                                          <th scope=\"col\">Description<\/th>
+                                          <th scope=\"col\">Data Code<\/th>
+                                          <\/tr>
+                                          <\/thead>
+                                          <tbody class=\"table-striped\">
+                                          <tr>
+                                          <td>Fracture propagates across the entire column during isolation<\/td>
+                                          <td>ECTPV<\/td>
+                                          <\/tr>
+                                          <tr>
+                                          <td>Fracture initiates and propagates across the entire column on the ## tap<\/td>
+                                          <td>ECTP##<\/td>
+                                          <\/tr>
+                                          <tr>
+                                          <td>Fracture initiates on the ## tap, but does not propagate across the entire column. It either <br> 
+                                          fractures across only part of the column (observed commonly), or it initiates but takes additional <br>
+                                           loading to propagate across the entire column (observed relatively rarely).<\/td>
+                                          <td>ECTN##<\/td>
+                                          <\/tr>
+                                          <tr>
+                                            <td>No fracture occurs during the test<\/td>
+                                            <td>ECTX<\/td>
+                                          <\/tr>
+                                 
+                                          <\/tbody>
+                                          <\/table>
+                                       <\/div>
+                                       <!-- END table -->
+                                    <\/div>
+                                    <\/div>
+                                 <\/div>
+                                 <\/div>
+                                 <!-- END table 2-14 accordion -->
+                                 <hr>
+                                 <!-- START Section 6 -->
+                                 <h2 id=\"2-7-6\">2.7.6 Extended Column Test<\/h2>
+                                 <p>The Extended Column Test (ECT) was developed in Colorado and New Zealand in 2005 and 2006. The ECT was tested in the continental and intermountain snow climates of the U.S. (Simenhois and Birkeland, 2007; Hendrikx and Birkeland, 2008; Birkeland and Simenhois, 2008), the Swiss Alps (Winkler and Schweizer, 2009), the Spanish Pyrenees (Moner et al., 2008) and New Zealand's Southern Alps (Simenhois and Birkeland, 2006, Hendrikx and Birkeland, 2008).<\/p>
+                                 <h3>Objective<\/h3>
+                                 <p>The ECT tests the propensity for weak layer crack initiation and propagation in the upper portion of the snowpack. The tester tries to initiate a weak layer crack by applying dynamic load to a shovel blade placed at the end of an isolated column. (<a href=\"#figure2-16Accordion\">Figure 2.16<\/a>) Once initiated, the key observation in the test is whether the crack immediately propagates across the entire column. The ECT identifies crack initiation during the loading steps and then whether that crack propagates across the column.<\/p>
+                                 <h4>Procedure<\/h4>
+                                 <p>A shovel is required, and a snow saw will make cutting the column easier and more precise. Also required are 1–2 snow probes or ski poles and 2 m of 2–4 mm cord knotted every 20–30 cm, or a snow saw with extension.<\/p>
+                                 <!-- START steps accordion -->
+                                     <div class=\"accordion\" id=\"stepsAccordion-5\">
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading01-5\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-5\" aria-expanded=\"false\" aria-controls=\"collapse01-5\">
+                                     1. Site selection
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse01-5\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                     <div class=\"accordion-body\">
+                                  Select a safe site that has undisturbed snow and is geographically representative of the slope of interest.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading02-5\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-5\" aria-expanded=\"false\" aria-controls=\"collapse02-5\">
+                                     2. Isolate column
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse02-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                     <div class=\"accordion-body\">
+                                 Isolate a column of snow 90 cm wide in the cross slope dimension and 30 cm deep in the upslope dimension that is deep enough to expose potential weak layers. Depth should not exceed 120 cm since the loading steps rarely affect deeper layers.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading03-5\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-5\" aria-expanded=\"false\" aria-controls=\"collapse03-5\">
+                                     3. Rate fractures
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse03-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                     <div class=\"accordion-body\">
+                                 Rate any fractures that cross the entire column while isolating it as ECTPV.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading04-5\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-5\" aria-expanded=\"false\" aria-controls=\"collapse04-5\">
+                                     4.Remove wedge
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse04-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                     <div class=\"accordion-body\">
+                                 If the snow surface slopes and the surface snow is hard, remove a wedge of snow to level the top of the column at one edge.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading05-5\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-5\" aria-expanded=\"false\" aria-controls=\"collapse05-5\">
+                                     5. Easy taps
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse05-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                     <div class=\"accordion-body\">
+                                  Place the shovel blade on one side of the column. Tap 10 times moving hand from the wrist and note the number of taps it takes to initiate a fracture and whether the crack immediately propagates across the entire column (1 to 10).
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading06-5\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse06-5\" aria-expanded=\"false\" aria-controls=\"collapse06-5\">
+                                     6. Moderate taps
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse06-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading06-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                     <div class=\"accordion-body\">
+                                 Tap 10 times with the fingertips or knuckles moving forearm from the elbow and note the number of taps it takes to initiate a fracture and whether the crack immediately propagates across the entire column (11 to 20).
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading07-5\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse07-5\" aria-expanded=\"false\" aria-controls=\"collapse07-5\">
+                                    7. Hard results
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse07-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading07-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                     <div class=\"accordion-body\">
+                                     <p>Finally, hit the shovel blade moving arm from the shoulder 10 times with open hand or fist. Note the number of taps it takes to initiate a fracture and whether the crack immediately propagates across the entire column (21 to 30).<\/p>
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                    <h2 class=\"accordion-header\" id=\"heading08-5\">
+                                    <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse08-5\" aria-expanded=\"false\" aria-controls=\"collapse08-5\">
+                                     8. Continue loading steps
+                                    <\/button>
+                                    <\/h2>
+                                    <div id=\"collapse08-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading08-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                    <div class=\"accordion-body\">
+                                    <p>If a fracture occurs and you wish to keep testing, remove the failed portion of the block and continue with the next loading step.<\/p>
+                                    <\/div>
+                                    <\/div>
+                                    <\/div>
+                                    
+                                    <div class=\"accordion-item\">
+                                      <h2 class=\"accordion-header\" id=\"heading09-5\">
+                                      <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse09-5\" aria-expanded=\"false\" aria-controls=\"collapse09-5\">
+                                       9. ECTX rating
+                                      <\/button>
+                                      <\/h2>
+                                      <div id=\"collapse09-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading09-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                      <div class=\"accordion-body\">
+                                      <p>If no fractures occurred within all loading steps, rate the test as ECTX.<\/p>
+                                      <\/div>
+                                      <\/div>
+                                      <\/div>
+                                      
+                                    <div class=\"accordion-item\">
+                                      <h2 class=\"accordion-header\" id=\"heading10-5\">
+                                      <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse10-5\" aria-expanded=\"false\" aria-controls=\"collapse10-5\">
+                                       10. ECTN rating
+                                      <\/button>
+                                      <\/h2>
+                                      <div id=\"collapse10-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading10-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                      <div class=\"accordion-body\">
+                                      <p>If a crack initiated on a weak layer on the ## tap but did not propagate across the entire column rate that layer as ECTN##.<\/p>
+                                      <\/div>
+                                      <\/div>
+                                      <\/div>
+                                      
+                                    <div class=\"accordion-item\">
+                                      <h2 class=\"accordion-header\" id=\"heading11-5\">
+                                      <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse11-5\" aria-expanded=\"false\" aria-controls=\"collapse11-5\">
+                                       11. ECTP rating
+                                      <\/button>
+                                      <\/h2>
+                                      <div id=\"collapse11-5\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading11-5\" data-bs-parent=\"#stepsAccordion-5\">
+                                      <div class=\"accordion-body\">
+                                      <p>If a crack initiated and propagated across the entire column on the ## tap rate that layer as ECTP##.<\/p>
+                                      <\/div>
+                                      <\/div>
+                                      <\/div>
+                                 
+                                     <\/div>
+                                    <!-- END steps accordion -->
+                                    <hr><!-- START figure 2-15 accordion -->
+                                    <div class=\"accordion\" id=\"figure2-15Accordion\">
+                                      <div class=\"accordion-item\">
+                                      <h2 class=\"accordion-header\" id=\"figure2-15heading\">
+                                      <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-15collapse\" aria-expanded=\"false\" aria-controls=\"figure2-15collapse\">
+                                      Figure 2.15 Extended Column test
+                                      <\/button>
+                                      <\/h2>
+                                      <div id=\"figure2-15collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-15heading\" data-bs-parent=\"#figure2-15Accordion\">
+                                      <!-- START image -->
+                                      <img src=\"images\/figures\/2-15a.jpg\" class=\"img-fluid\" alt=\"Cutting an ECT. \">
+                                         <div class=\"accordion-body\">
+                                           <p>Cutting an ECT. <\/p>
+                                            <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Don Sharaf
+                                         <\/small><\/p>
+                                           <\/div>
+                                         <img src=\"images\/figures\/2-15b.jpg\" class=\"img-fluid\" alt=\" Schematic and photograph of the Extended Column Test. \">
+                                         <div class=\"accordion-body\">
+                                           <p>Schematic of the Extended Column Test. <\/p>
+                                            <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Ron Simenhois
+                                         <\/small><\/p>
+                                           <\/div>
+                                         <img src=\"images\/figures\/2-15c.jpg\" class=\"img-fluid\" alt=\"Schematic and photograph of the Extended Column Test. \">
+                                         <div class=\"accordion-body\">
+                                      <p>Photograph of the Extended Column Test. <\/p>
+                                          <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\"> Karl Birkeland
+                                    <\/small><\/p>
+                                         <\/div>
+                                      <!-- END image -->
+                                      <\/div>
+                                      <\/div>
+                                    <\/div>
+                                    <!-- END figure 2-15 accordion -->
+                                    <hr>
+                                    
+                                    <h3>Results<\/h3>
+                                    <p>The ECT has become a popular test for professionals and recreationists. Note that the ECT is not a good tool for assessing fracture propagation potential on weak layers deeper than 100–150 cm (Hoyer et al., 2016). In cases where a fracture is not initiated, tests in different locations or other stability tests are recommended.<\/p>
+                                    <p>As with other tests, research demonstrates that ECT results can vary over short distances. As such, interpret the results of any stability test in conjunction with snowpack and weather histories, and other snowpack and avalanche information.<\/p>
+                                 <!-- END Section 6 -->
+                                 <!-- START Section 7 -->
+                                 <hr>
+                                 <h2 id=\"2-7-7\">2.7.7 Propagation Saw Test<\/h2>
+                                 <p>The Propagation Saw Test (PST) was simultaneously developed in Canada (Gauthier and Jamieson, 2007) and in Switzerland (Sigrist, 2006). The PST has been tested in Canada's Columbia Mountains, in the Swiss Alps, and in Colorado's continental snowpack (Birkeland and Simenhois, 2008).<\/p>
+                                 <h3>Objective<\/h3>
+                                 <p>The PST tests weak layer crack propagation propensity, and has been used on weak layers buried up to 250 cm deep. The tester isolates a column and initiates a fracture by dragging a snow saw along the weak layer in the uphill direction.<\/p>
+                                 <h3>Procedure<\/h3>
+                                 <p>A shovel and a snow saw with a blade at least 30 cm long and 2 mm thick are required for the PST. For layers deeper than 30 cm, 1–2 snow probes and 3–5 m of 3–4 mm cord knotted every 20–30 cm are recommended.<\/p>
+                                 <p>The PST procedure involves three main steps (after Gauthier and Jamieson, 2007): identifying the weak layer of interest, isolating and preparing the test column, and performing and recording the results.<\/p>
+                                 <!-- START steps accordion -->
+                                     <div class=\"accordion\" id=\"stepsAccordion-6\">
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading01-6\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse01-6\" aria-expanded=\"false\" aria-controls=\"collapse01-6\">
+                                     1. Site selection
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse01-6\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"heading01-6\" data-bs-parent=\"#stepsAccordion-6\">
+                                     <div class=\"accordion-body\">
+                                  Select a safe site that has undisturbed snow and is geographically representative of the slope of interest.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading02-6\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse02-6\" aria-expanded=\"false\" aria-controls=\"collapse02-6\">
+                                     2. Isolate column
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse02-6\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading02-6\" data-bs-parent=\"#stepsAccordion-6\">
+                                     <div class=\"accordion-body\">
+                                 For weak layer depths less than 100 cm, isolate a column 30 cm wide across the slope and 100 cm upslope to a depth of at least the depth of the weak layer. The cuts at the upslope and downslope end of the column should be cut vertically. For layers deeper than the saw is long, two adjacent walls can be cut with a cord between probes. When the weak layer is &gt;100 cm deep the column length is equal to the weak layer depth in the upslope direction.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading03-6\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse03-6\" aria-expanded=\"false\" aria-controls=\"collapse03-6\">
+                                     3. Mark weak layer
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse03-6\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading03-6\" data-bs-parent=\"#stepsAccordion-6\">
+                                     <div class=\"accordion-body\">
+                                 To identify the weak layer clearly, mark it with a glove, a brush or a crystal card along the exposed column wall.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading04-6\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse04-6\" aria-expanded=\"false\" aria-controls=\"collapse04-6\">
+                                     4. Drag saw
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse04-6\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading04-6\" data-bs-parent=\"#stepsAccordion-6\">
+                                     <div class=\"accordion-body\">
+                                 Drag the blunt edge of the saw upslope through the weak layer at 10–20 cm\/s until the crack propagates ahead of the saw, at which point the tester stops dragging the saw and marks the spot along the layer where propagation began.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                     
+                                     <div class=\"accordion-item\">
+                                     <h2 class=\"accordion-header\" id=\"heading05-6\">
+                                     <button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse05-6\" aria-expanded=\"false\" aria-controls=\"collapse05-6\">
+                                     5. Inspect column
+                                     <\/button>
+                                     <\/h2>
+                                     <div id=\"collapse05-6\" class=\"accordion-collapse collapse\" aria-labelledby=\"heading05-6\" data-bs-parent=\"#stepsAccordion-6\">
+                                     <div class=\"accordion-body\">
+                                 After observations are complete, remove the column and check that the saw scored the weak layer in the wall behind the test column. If the saw deviated from the weak layer, the test should be repeated.
+                                     <\/div>
+                                     <\/div>
+                                     <\/div>
+                                 
+                                     <\/div>
+                                    <!-- END steps accordion -->
+                                    <h3>Results<\/h3>
+                                    <p>When a fracture propagates ahead of the saw, one of the three results described in <a href=\"#table2-15Accordion\">Table 2.15<\/a> can be observed. PSTs are then recorded as follows: '<strong>PST x\/y (Arr, SF, or End)<\/strong>' where x is the length of the saw cut when propagation starts and y is the length of the isolated column. Units are recorded in centimeters. It is recommended to record slope angle at the test site if it is not done on a 30–40 degree slope. Propagation to End occurs on flat as well as inclined slopes.<\/p>
+                                    <!-- START table 2-145 accordion -->
+                                    <div class=\"accordion\" id=\"table2-15Accordion\">
+                                    <div class=\"accordion-item\">
+                                      <h2 class=\"accordion-header\" id=\"table2-15heading\">
+                                      <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table2-15collapse\" aria-expanded=\"false\" aria-controls=\"table2-15collapse\">
+                                         Table 2.15 Propagation Saw Test
+                                      <\/button>
+                                      <\/h2>
+                                      <div id=\"table2-15collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table2-15heading\" data-bs-parent=\"#table2-15Accordion\">
+                                      <div class=\"accordion-body\">
+                                       <!-- START table -->
+                                          <div class=\"table-responsive\">
+                                          <h5 id=\"table-2-15\">Table 2.15 Propagation Saw Test Description and Data Codes<\/h5>
+                                            <table class=\"table table-bordered\">
+                                            <thead class=\"thead-light\">
+                                            <tr>
+                                            <th scope=\"col\">Observed Result<\/th>
+                                            <th scope=\"col\">Description<\/th>
+                                            <th scope=\"col\">Data Code<\/th>
+                                            <\/tr>
+                                            <\/thead>
+                                            <tbody>
+                                            <tr>
+                                            <td>Propagation to end<\/td>
+                                            <td>The crack propagates in the weak layer in front of the saw uninterrupted <br>
+                                            to end of the column<\/td>
+                                            <td>End<\/td>
+                                            <\/tr>
+                                            <tr>
+                                            <td>Slab fracture<\/td>
+                                            <td>The crack propagates in the weak layer in front of the saw and stops <br>
+                                              where it meets a crack through the overlying slab<\/td>
+                                            <td>SF<\/td>
+                                            <\/tr>
+                                            <tr>
+                                            <td>Self-arrest<\/td>
+                                            <td>The crack propagates in front of the saw but self-arrests somewhere along <br>
+                                            the weak layer before reaching the end of the column<\/td>
+                                            <td>Arr<\/td>
+                                            <\/tr>
+                                            <tr>
+                                               <td>No fracture occurs<\/td>
+                                               <td>Saw runs through the weak layer for the entire length of the column <br>
+                                               without producing a crack that extends on its own<\/td>
+                                               <td>X<\/td>
+                                            <\/tr>
+                                    
+                                            <\/tbody>
+                                            <\/table>
+                                          <\/div>
+                                          <!-- END table -->
+                                      <\/div>
+                                      <\/div>
+                                    <\/div>
+                                    <\/div>
+                                    <!-- END table 2-154 accordion -->
+                                    <!-- START figure 2-16 accordion -->
+                                    <div class=\"accordion\" id=\"figure2-16Accordion\">
+                                      <div class=\"accordion-item\">
+                                      <h2 class=\"accordion-header\" id=\"figure2-16heading\">
+                                      <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure2-16collapse\" aria-expanded=\"false\" aria-controls=\"figure2-16collapse\">
+                                      Figure 2.16 PST column Schematic
+                                      <\/button>
+                                      <\/h2>
+                                      <div id=\"figure2-16collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure2-16heading\" data-bs-parent=\"#figure2-16Accordion\">
+                                      <!-- START image -->
+                                         <img src=\"images\/figures\/2-16.jpg\" class=\"img-fluid\" alt=\"Schematic showing the PST column\">
+                                         <div class=\"accordion-body\">
+                                         <p>Schematic showing the PST column (a) and the observable results of propagation to end (b), slab fracture (c), and self arrest (d) (after Gauthier and Jamieson, 2007).<\/p>
+                                         <!-- <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Kelly Elder<\/small><\/p> -->
+                                         <\/div>
+                                      <!-- END image -->
+                                      <\/div>
+                                      <\/div>
+                                    <\/div>
+                                    <!-- END figure 2-16 accordion -->
+                                    <p>Crack propagation is considered to be likely if the fracture propagates to the end of the column along the same layer and initiates when the length of the saw cut is less than 50% of the length of the column (Gauthier & Jamieson, 2008). Otherwise crack propagation is considered unlikely. An example of a result that indicates high propagation propensity '<strong>PST 34\/100 (End)<\/strong>'.<\/p>
+                                    <p>The PST is one of the few tools besides explosive testing — that can be used to assess the crack propagation propensity of deeply buried weak layers. The PST may not work as well for weak layers that are difficult to cut with the saw's blunt edge (Birkeland & Simenhois, 2008; Gauthier & Jamieson, 2008).<\/p>
+                                    <p>As with other stability tests, PST results can vary over short distances. As such, interpret the results of any stability test in conjunction with snowpack and weather histories, and other snowpack and avalanche information.<\/p>
+                                    
+                                 <!-- END Section 7 -->
+                                 
+                            
+                          <\/div>
+                       <\/main>"
+                }

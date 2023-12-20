@@ -1,0 +1,81 @@
+<ion-header class="ion-no-border">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button color="light"></ion-menu-button>
+    </ion-buttons>
+    <div id="header-bground-hack">&nbsp;</div>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <swiper [pagination]="true" class="walkthrough-slides" (swiper)="setSwiperInstance($event)" (init)="swiperInit()" (slideChangeTransitionStart)="slideWillChange()">
+    
+    <ng-template swiperSlide>
+      <ion-row class="slide-inner-row first-slide">
+        <ion-col id="swag-splash-img" size="12">
+          
+          <div id="swag-title">
+            <div class='splash-align-left'>
+              <img src="assets/images/aaa-mobile-logo.svg" alt="American Avalanche Association" class="splash-logo">
+              <img src="assets/images/usfs-logo.svg" alt="United States Forest Service" class="splash-logo">
+            </div>
+            <hr>
+            <div id='swag-title-container' class='splash-align-left'>
+              <h1 id="splash-title">SNOW, WEATHER, AND AVALANCHES:</h1>
+              <h5>Observation Guidelines for Avalanche Programs in the United States</h5>
+            </div>
+          </div>
+          
+        </ion-col>
+        
+      </ion-row>
+    </ng-template>
+    
+    <ng-template swiperSlide>
+      
+      <ion-row class="second-slide slide-inner-row">
+        <ion-col class='splash-align-left ion-padding' size='12' id="get-started-container">
+          <ion-menu-toggle>
+            <ion-button color="secondary" size="large" id="get-started">Get Started</ion-button>
+          </ion-menu-toggle>
+        </ion-col>
+        <ion-col class='splash-align-left ion-padding' size='12'>
+          <h1>SNOW, WEATHER, AND AVALANCHES:</h1>
+          <h4>Observation Guidelines for Avalanche Programs in the United States <br>4th Edition</h4>
+        </ion-col>
+        <hr>
+        <ion-col class='splash-align-left ion-padding' size='12'>
+          <h5>4th Edition Revised by the American Avalanche Association, Committee on Observation Standards</h5>
+           <p><strong>Ethan Greene</strong>, Colorado Avalanche Information Center, <i>Committee Chair</i><br>
+            <strong>Karl Birkeland</strong>, USDA Forest Service National Avalanche Center<br>
+            <strong>Kelly Elder</strong>, USDA Forest Service Rocky Mountain Research Station<br>
+            <strong>Ian McCammon</strong>, Snowpit Technologies<br>
+            <strong>Mark Staples</strong>, USDA Forest Service Utah Avalanche Center<br>
+            <strong>Don Sharaf</strong>, David Hamre and Associates<br>
+            <strong>Simon Trautman</strong>, USDA Forest Service National Avalanche Center<br>
+            <strong>Wendy Wagner</strong>, USDA Forest Service Chugach National Forest Avalanche Center</p>
+            <hr>
+            
+            <h5>Mobile application design and development</h5>
+            <strong>Paxton Brewer</strong>, Crystal Mountain Pro Patrol
+            <br><a href="mailto:paxton@crytsalmountainpatrol.com" target="_blank">paxton@crytsalmountainpatrol.com</a>
+            
+            <h5>Print design and layout</h5>
+            <strong>McKenzie Long</strong>, Cardinal Innovative
+            <br><a href="cardinalinnovative.com" target="_blank">cardinalinnovative.com</a>
+            <hr>
+            <p>&copy; American Avalanche Association, 2022</p>
+            <p>American Avalanche Association <br>
+              P.O. Box 11443 <br>
+              Denver, CO 80211 <br>
+              <a href="mailto:a3@avalanche.org">a3@avalanche.org</a></p>
+              <p><a href="www.americanavalancheassociation.org" target="_blank">www.americanavalancheassociation.org</a></p>
+              <p>Citation: <br>
+                American Avalanche Association, 2022: Snow, Weather and Avalanches: <i>Observation Guidelines for Avalanche Programs in the United States, 4th edition,</i> American Avalanche Association, Denver, Colorado.</p>
+              <p>Photo: An avalanche crown on Chair Peak, Washington. <ion-icon name="camera"></ion-icon> Bryce Hill <br></p>
+        </ion-col>
+      </ion-row>
+    </ng-template>
+    
+  </swiper>
+</ion-content>

@@ -1,0 +1,1 @@
+We use [Ionic VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ionic.ionic) to generate assets

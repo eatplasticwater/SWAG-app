@@ -1,0 +1,213 @@
+{
+     "_id" :  "4-4",
+     "chapter" : "",
+     "header" : "APPENDIX D: OBSERVATION SITES FOR METEOROLOGICAL MEASUREMENTS",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START sections index accordion -->
+          <div class=\"accordion\" id=\"sectionIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"sectionIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#sectionIndexcollapse\" aria-expanded=\"false\" aria-controls=\"sectionIndexcollapse\">
+            Sections
+            <\/button>
+            <\/h2>
+            <div id=\"sectionIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"sectionIndexheading\" data-bs-parent=\"#sectionIndexAccordion\">
+            <a href=\"#d-1\" class=\"list-group-item list-group-item-action\">D.1 Introduction<\/a>
+            <a href=\"#d-2\" class=\"list-group-item list-group-item-action\">D.2 Meteorological And Snowpack Study Site Selection<\/a>
+            <a href=\"#d-3\" class=\"list-group-item list-group-item-action\">D.3 Instrument Exposure<\/a>
+            <\/div>
+            <\/div>
+            <\/div>
+          <!-- END sections index accordion -->
+          <!-- START figures index accordion -->
+          <div class=\"accordion\" id=\"figureIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figureIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureIndexcollapse\" aria-expanded=\"false\" aria-controls=\"figureIndexcollapse\">
+            Figures
+            <\/button>
+            <\/h2>
+            <div id=\"figureIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureIndexheading\" data-bs-parent=\"#figureIndexAccordion\">
+            <!-- START table -->
+            <div class=\"list-group\">
+              <a href=\"#figureD-1Accordion\" class=\"list-group-item list-group-item-action\">D.1 Remote Weather Station<\/a>
+              <a href=\"#figureD-2Accordion\" class=\"list-group-item list-group-item-action\">D.2 Study Site in Alta, UT<\/a>
+              <a href=\"#figureD-3Accordion\" class=\"list-group-item list-group-item-action\">D.3 Plot for Manual Observations<\/a>
+              <a href=\"#figureD-4Accordion\" class=\"list-group-item list-group-item-action\">D.4 Station with Rime Ice <\/a>
+              <a href=\"#figureD-5aAccordion\" class=\"list-group-item list-group-item-action\">D.5a Remote Weather Station<\/a>
+              <a href=\"#figureD-5bAccordion\" class=\"list-group-item list-group-item-action\">D.5b Recording Observations<\/a>
+              <\/div>
+            <!-- END table -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figures index accordion -->
+          <hr>
+          <h2 id=\"d-1\">D.1 Introduction<\/h2>
+          <p>Measurements of precipitation, temperature, wind, and the characteristics of the snowpack are dependent on the observation site. The utmost care must be taken to select a site for weather and\/or snowpack observations that is geographically representative of the forecast area or avalanche starting zones.<\/p>
+          <p>Measurements made at study sites often serve as baseline information from which conditions in starting zones can be extrapolated.<\/p>
+          <p>Site selection requires knowledge of the area and skill in meeting contradictory needs. Sometimes parallel observations may be recorded in several possible locations for one winter before a permanent site is chosen, or a site may have to be abandoned after yielding unsatisfactory correlations. The access should be convenient and safe under normal conditions.<\/p>
+          <p>Site characteristics differ depending on the parameter of interest and the application of the data. Avalanche forecasting operations typically require precipitation measurements from sheltered locations (<a href=\"#figureD-2Accordion\">Figures D.2<\/a> and <a href=\"#figureD-3Accordion\">D.3<\/a>) and wind measurements in exposed areas (<a href=\"#figureD-1Accordion\">Figures D.1<\/a> and <a href=\"#figureD-4Accordion\">D.4<\/a>). For this reason more than one observation site may be necessary for an individual program. Ideally each program would have at least one site where all of the basic meteorological parameters are observed, and one
+          or more sites where at least wind speed, wind direction, and air temperature are measured.<\/p>
+          <p>The guidelines presented in this Appendix represent the best case scenario. Some of the guidelines will be difficult for all avalanche forecasting operations to achieve. These guidelines should be considered during the site selection process before a practical site is selected.<\/p>
+          <!-- START figure D-1 accordion -->
+          <div class=\"accordion\" id=\"figureD-1Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figureD-1heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureD-1collapse\" aria-expanded=\"false\" aria-controls=\"figureD-1collapse\">
+            Figure D.1 Remote weather station
+            <\/button>
+            <\/h2>
+            <div id=\"figureD-1collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureD-1heading\" data-bs-parent=\"#figureD-1Accordion\">
+            <!-- START image -->
+            <img src=\"images\/figures\/d-1.jpg\" class=\"img-fluid\" alt=\"A remote weather station \">
+              <div class=\"accordion-body\">
+                <p>A remote weather station.<\/p>
+                 <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">
+                Colorado Avalanche Information Center<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure D-1 accordion -->
+          <!-- START figure D-2 accordion -->
+          <div class=\"accordion\" id=\"figureD-2Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figureD-2heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureD-2collapse\" aria-expanded=\"false\" aria-controls=\"figureD-2collapse\">
+            Figure D.2 Study site in Alta, Utah
+            <\/button>
+            <\/h2>
+            <div id=\"figureD-2collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureD-2heading\" data-bs-parent=\"#figureD-2Accordion\">
+            <!-- START image -->
+            <img src=\"images\/figures\/D-2.jpg\" class=\"img-fluid\" alt=\"The Utah Department of Transportation's study site in Alta, Utah.\">
+              <div class=\"accordion-body\">
+                <p>The Utah Department of Transportation's study site in Alta, Utah.<\/p>
+                 <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">
+                Bruce Tremper<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure D-2 accordion -->
+          <!-- START figure D-3 accordion -->
+          <div class=\"accordion\" id=\"figureD-3Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figureD-3heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureD-3collapse\" aria-expanded=\"false\" aria-controls=\"figureD-3collapse\">
+            Figure D.3 Plot for manual observations 
+            <\/button>
+            <\/h2>
+            <div id=\"figureD-3collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureD-3heading\" data-bs-parent=\"#figureD-3Accordion\">
+            <!-- START image -->
+            <img src=\"images\/figures\/D-3.jpg\" class=\"img-fluid\" alt=\"Snow study plot for manual observations. \">
+              <div class=\"accordion-body\">
+                <p>Snow study plot for manual observations. <\/p>
+                 <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">
+                Ann Mellick<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure D-3 accordion -->
+          <hr>
+          <h2 id=\"d-2\">D.2 Meteorological and Snowpack Study Site Selection<\/h2>
+          <p>Observation sites should be selected so that measurements made at the site will be representative of the forecast area. The site should be as close as possible to avalanche starting zones and still permit regular observations. Exposure issues usually dictate separate sites for wind and precipitation measurements. When separate sites are deemed necessary, air temperature measurements should be collected from both sites.<\/p>
+          <p>A meteorological study site will ideally be located in a level, open area that is devoid of large vegetation. The World Meteorological Organization (WMO) recommends a site 10 meters by 7 meters (WMO, 1996). This recommendation should be treated as an ideal, as significantly smaller sites may be more appropriate for observations in exposed mountain areas. The surface should be cleared so that the ground cover consists of short grass or the predominate ground cover in the area. Instruments should be placed in a measurement site (approximately two-meter by two-meter area) at the center of the opening. A visual barrier or signs should surround the area to prevent unwary travelers from disturbing the study site.<\/p>
+          <p>Snowpack observation sites can be co-located with meteorological sites if adequate space is available. Snowpack and precipitation measurement sites should be sheltered from the wind. Sites that minimize snow drifting should be selected if wind effects cannot be avoided. The main requirement for wind stations is a good correlation between measurements at observation locations and avalanche starting zones.<\/p>
+          <hr>
+          <h2 id=\"d-3\">D.3 Instrument Exposure<\/h2>
+          <h3>Precipitation<\/h3>
+          <p>For sites where precipitation measurements are made, it is recommended that the instrument (snow board, rain gauge, snow depth sensor, etc.) be at least as far from the nearest obstacle (building, tree, fence post, etc.) as that obstacle is high. Precipitation sites should be devoid of sloping terrain if possible and away from depressions or hollows. Rooftop sites should be avoided. When practical or environmental constraints require deviating from these guidelines, the changes can be recorded in the metadata file (see <a href=\"placeholder\">Appendix C<\/a>).<\/p>
+          <p>Precipitation gauges located at windy sites can seriously underestimate the actual precipitation amount. Gauge catch can be improved by the following methods listed in the order of effectiveness (WMO, 1996):<\/p>
+          <ol>
+            <li>The vegetation height of the site can be maintained at the same height as the gauge orifice, thus maintaining a hori- zontal wind flow over the gauge.<\/li>
+            <li>The effect listed in point 1 can be simulated by an artificial structure (i.e. fence).<\/li>
+            <li>The use of a wind shield such as an Alter or Nipher shield, or a similar device around the gauge orifice.<\/li>
+          <\/ol>
+          <p>Many avalanche operations use ultrasonic distance instruments to remotely monitor snow height. These gauges can be used to record both total snow height (HN) or interval values (e.g. HN24). The response of these instruments is affected by both air temperature (which can be addressed in the datalogger program) and the concentration of airborne particles.<\/p>
+          <h3>Temperature<\/h3>
+          <p>Temperature instruments must be properly ventilated and sheltered from radiation sources. This can be accomplished by housing the instrument in a commercial radiation shield or instrument shelter. Manual and automated instruments can be co-located in a Stevenson screen. The screen door should open to the north to prevent solar heating of the temperature sensors.<\/p>
+          <p>Temperature instruments should be located 1.25 m to 2 m above the surface (WMO, 1996). Ideally the instrument shelter is mounted on an adjustable post so that a constant distance above the surface can be maintained. The instrument should be exposed to wind and sun (although properly shielded).<\/p>
+          <p>Depressions or hollows that can trap cold air should be avoided. Temperature measurements should not be made near buildings or on rooftops.<\/p>
+          <h3>Relative Humidity<\/h3>
+          <p>Instrument exposure issues for relative humidity measurements will depend on the measurement method. Relative humidity measurements in below freezing environments can be difficult and instrument selection is critical (and beyond the scope of these Guidelines). In general, instruments should be sheltered from direct solar radiation, atmospheric contaminants, precipitation and wind (WMO, 1996). Materials such as wood and some synthetic products can absorb and desorb water according to atmospheric humidity (WMO, 1996). If the enclosure is made of wood it should be coated in white enamel paint (creating a vapor barrier). Relative humidity instruments can be co-located with temperature instruments provided that these issues are addressed.<\/p>
+          <h3>Wind<\/h3>
+          <p>Anemometers should ideally be located atop a vibration-free, 10-meter (&tilde;30 ft) tower. Wind measurements can be dramatically affected by the presence of upstream obstacles. Ideally, there should be no obstructions within a 100 m (&tilde; 300 ft) radius of the anemometer (WMO, 1996). In mountainous terrain, where large obstacles are prevalent, anemometers at two or more locations can be used to gain adequate wind information in a variety of conditions. Local obstructions, such as the tower or other instruments, should be a distance away from the wind sensor that is four to five times the diameter of the obstruction. These effects can be addressed by placing the wind sensor at the top of the tower.<\/p>
+          <p>Several wind stations may be needed to obtain a reasonable estimate of wind effects within a forecast area. Considerable sep- aration (vertical and horizontal) may be required to achieve a suitable representation of the actual wind field. It is essential that cup anemometers be horizontal to the underlying surface. All stations must be accessible in the winter either by foot, snow- mobile or helicopter for occasional maintenance of equipment. Rime ice accretion is a common problem (<a href=\"#figureD-4Accordion\">Figure D.4<\/a>) that can be addressed with heated sensors.<\/p>
+          <h3>Radiation<\/h3>
+          <p>Radiation processes have a large effect on snowpack stability and avalanche release. Instrument exposure issues will depend on the type of radiation measured and the direction of the radiation (incoming or outgoing), but radiation can be measured at any study site. If only one radiation component can be measured, incoming shortwave radiation may be the most useful. However, both short and longwave components can benefit avalanche applications.<\/p>
+          <p>Incoming shortwave radiation can be measured in a flat open area. Sensors should be installed so that they are level and in locations that are not in the shadow of buildings, trees, and when possible, mountains (<a href=\"#figureD-4Accordion\">Figure D.4<\/a>). Shadowing should be evaluated throughout the day and season for instrument placement. The effects of the tower will be minimized if the instrument is placed a significant distance from (long arm) and on the south side (in the Northern Hemisphere) of the tower. It may also be beneficial to place incoming shortwave sensors above the vegetation canopy.<\/p>
+          <!-- START figure D-4 accordion -->
+          <div class=\"accordion\" id=\"figureD-4Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figureD-4heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureD-4collapse\" aria-expanded=\"false\" aria-controls=\"figureD-4collapse\">
+            Figure D.4 Station with Rime Ice 
+            <\/button>
+            <\/h2>
+            <div id=\"figureD-4collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureD-4heading\" data-bs-parent=\"#figureD-4Accordion\">
+            <!-- START image -->
+            <img src=\"images\/figures\/D-4.jpg\" class=\"img-fluid\" alt=\"A weather station coated in rime ice. \">
+              <div class=\"accordion-body\">
+                <p>A weather station coated in rime ice.  <\/p>
+                 <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">
+                John Stimberis<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure D-4 accordion -->
+          <!-- START figure D-5a accordion -->
+          <div class=\"accordion\" id=\"figureD-5aAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figureD-5aheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureD-5acollapse\" aria-expanded=\"false\" aria-controls=\"figureD-5acollapse\">
+            Figure D.5a remote weather station 
+            <\/button>
+            <\/h2>
+            <div id=\"figureD-5acollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureD-5aheading\" data-bs-parent=\"#figureD-5aAccordion\">
+            <!-- START image -->
+            <img src=\"images\/figures\/d-5.jpg\" class=\"img-fluid\" alt=\"A remote weather station to monitor general atmospheric conditions\">
+              <div class=\"accordion-body\">
+                <p>A remote weather station to monitor general atmospheric conditions<\/p>
+                 <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">
+                Kelly Elder<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure D-5a accordion -->
+          <!-- START figure D-5b accordion -->
+          <div class=\"accordion\" id=\"figureD-5bAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figureD-5bheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figureD-5bcollapse\" aria-expanded=\"false\" aria-controls=\"figureD-5bcollapse\">
+            Figure D.5b recording observations
+            <\/button>
+            <\/h2>
+            <div id=\"figureD-5bcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figureD-5bheading\" data-bs-parent=\"#figureD-5bAccordion\">
+            <!-- START image -->
+            <img src=\"images\/figures\/d-5b.jpg\" class=\"img-fluid\" alt=\"A study site to record manual and remote weather observations.\">
+              <div class=\"accordion-body\">
+                <p>A study site to record manual and remote weather observations.<\/p>
+                 <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">
+                Ethan Greene<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure D-5b accordion -->
+          
+        <\/div>
+      <\/main>"
+}

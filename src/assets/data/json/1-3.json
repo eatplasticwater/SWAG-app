@@ -1,0 +1,302 @@
+{
+     "_id" :  "1-3",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.3 STANDARD MORNING SNOW AND WEATHER OBSERVATION",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Operations that include an avalanche forecasting program typically
+            observe and record a set of weather and snow parameters daily.
+            These observations should be made at about the same time each
+            day and between 4 am and 10 am local standard time. An example record sheet appears in <a href=\"#figure1-2Accordion\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure1-2collapse\">Figure 1.2<\/a>.<\/p>
+            <!-- START figure 1-2 accordion -->
+              <div class=\"accordion\" id=\"figure1-2Accordion\">
+                <div class=\"accordion-item\">
+                <h2 class=\"accordion-header\" id=\"figure1-2heading\">
+                <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure1-2collapse\" aria-expanded=\"false\" aria-controls=\"figure1-2collapse\">
+                Figure 1.2 Standard observation
+                <\/button>
+                <\/h2>
+                <div id=\"figure1-2collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure1-2heading\" data-bs-parent=\"#figure1-2Accordion\">
+                <!-- START image -->
+                  <img src=\"images\/figures\/1-2.png\" class=\"img-fluid\" alt=\"An example standard observation record sheet.\">
+                  <div class=\"accordion-body\">
+                   <p>An example standard observation record sheet.<\/p>
+                  <\/div>
+                <!-- END image -->
+                <\/div>
+                <\/div>
+              <\/div>
+            <!-- END figure 1-2 accordion -->
+           <p> Many operations
+            will need to observe these parameters more than once per day. Listed below is a set of suggested fields to observe and record, and a brief explanation of each. Detailed information on each of
+            these parameters is available in the sections that follow. <strong>Sections
+            that are marked with a <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\"> contain information on the parameters listed below.<\/strong><\/p>
+            <!-- START steps accordion -->
+            <div class=\"accordion\" id=\"stepsAccordion\">
+              
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step1Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapseOne\" aria-expanded=\"false\" aria-controls=\"stepsCollapseOne\">
+                 Observation Location <img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapseOne\" class=\"accordion-collapse collapse\" aria-labelledby=\"step1Accordion\" data-bs-parent=\"#step1Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the location of the
+                  observation site or nearest prominent topographic landmark
+                  (mountain, pass, drainage, avalanche path, etc.),
+                  political landmark (town, road mile, etc.), or geographic
+                  coordinates (latitude\/longitude or UTM). If the measurements
+                  are made at an established study site, record the site
+                  name or number.<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step2Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapseTwo\" aria-expanded=\"false\" aria-controls=\"stepsCollapseTwo\">
+                Elevation (ASL)<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapseTwo\" class=\"accordion-collapse collapse\" aria-labelledby=\"step2Accordion\" data-bs-parent=\"#step2Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the elevation of the observation
+                  site in feet (meters) above sea level.<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step3Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse3\" aria-expanded=\"false\" aria-controls=\"stepsCollapse3\">
+                Date<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse3\" class=\"accordion-collapse collapse\" aria-labelledby=\"step3Accordion\" data-bs-parent=\"#step3Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the date on which the observation is being
+                  made (YYYYMMDD).<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step4Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse4\" aria-expanded=\"false\" aria-controls=\"stepsCollapse4\">
+                Time<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse4\" class=\"accordion-collapse collapse\" aria-labelledby=\"step4Accordion\" data-bs-parent=\"#step4Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the standard local time on the 24-hour
+                  clock (0000–2359) at which the observation began.<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step5Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse5\" aria-expanded=\"false\" aria-controls=\"stepsCollapse5\">
+                Observer<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse5\" class=\"accordion-collapse collapse\" aria-labelledby=\"step5Accordion\" data-bs-parent=\"#step5Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the name or names of the personnel
+                  that made the observation.<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step6Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse6\" aria-expanded=\"false\" aria-controls=\"stepsCollapse6\">
+                Sky Conditions<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse6\" class=\"accordion-collapse collapse\" aria-labelledby=\"step6Accordion\" data-bs-parent=\"#step6Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the sky conditions as Clear, Few,
+                  Scattered, Broken, Overcast, or Obscured (<a href=\"#placeholder\">Section 1.12<\/a>).<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step7Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse7\" aria-expanded=\"false\" aria-controls=\"stepsCollapse7\">
+                Current Precipitation<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse7\" class=\"accordion-collapse collapse\" aria-labelledby=\"step7Accordion\" data-bs-parent=\"#step7Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the precipitation type
+                  and rate using the scale and data codes in <a href=\"#placeholder\">Section 1.13<\/a>.<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step8Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse8\" aria-expanded=\"false\" aria-controls=\"stepsCollapse8\">
+                Air Temperature<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse8\" class=\"accordion-collapse collapse\" aria-labelledby=\"step8Accordion\" data-bs-parent=\"#step8Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the 24-hour maximum, minimum,
+                  and current air temperature to the nearest 0.5 &deg;C
+                  (or whole &deg;F) (<a href=\"#placeholder\">Section 1.14<\/a>).<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step9Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse9\" aria-expanded=\"false\" aria-controls=\"stepsCollapse9\">
+                Snow Temperature 20 cm (or 8 in)<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse9\" class=\"accordion-collapse collapse\" aria-labelledby=\"step9Accordion\" data-bs-parent=\"#stepsCollapse9\">
+              <div class=\"accordion-body\">
+                <p>Record the snow temperature 20 cm (or 8 in) below the snow surface
+                  (<a href=\"\">Section 1.17<\/a>).<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step10Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse10\" aria-expanded=\"false\" aria-controls=\"stepsCollapse10\">
+                Surface Penetration<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse10\" class=\"accordion-collapse collapse\" aria-labelledby=\"step10Accordion\" data-bs-parent=\"#step10Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the surface penetration to
+                  the nearest whole centimeter (or 0.5 inch) as described in
+                  <a href=\"#placeholder\">Section 1.18<\/a>.<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step11Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse11\" aria-expanded=\"false\" aria-controls=\"stepsCollapse11\">
+                Total Snow Depth<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse11\" class=\"accordion-collapse collapse\" aria-labelledby=\"step11Accordion\" data-bs-parent=\"#step11Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the total depth of snow on
+                  the ground to the nearest whole centimeter (or 0.5 inch)
+                  (<a href=\"#placeholder\">Section 1.20<\/a>).<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step12Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse12\" aria-expanded=\"false\" aria-controls=\"stepsCollapse12\">
+                24-hour New Snow Depth<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse12\" class=\"accordion-collapse collapse\" aria-labelledby=\"step12Accordion\" data-bs-parent=\"#step12Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the depth of the
+                  snow that accumulated during the previous 24 hours to
+                  the nearest whole centimeter (or 0.5 inch) (<a href=\"#placeholder\">Section 1.21<\/a>).<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step13Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse13\" aria-expanded=\"false\" aria-controls=\"stepsCollapse13\">
+                24-hour New Snow Water Equivalent<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse13\" class=\"accordion-collapse collapse\" aria-labelledby=\"step13Accordion\" data-bs-parent=\"#step13Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the
+                  water equivalent of the snow that accumulated during the
+                  previous 24-hours to the nearest 0.1 mm (or 0.01 inch)
+                  (<a href=\"#placeholder\">Section 1.22<\/a>).<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step14Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse14\" aria-expanded=\"false\" aria-controls=\"stepsCollapse14\">
+                24-hour Liquid Precipitation<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse14\" class=\"accordion-collapse collapse\" aria-labelledby=\"step14Accordion\" data-bs-parent=\"#step14Accordion\">
+              <div class=\"accordion-body\">
+                <p>Record the depth of the
+                  liquid precipitation that accumulated during the previous 24
+                  hours to the nearest 0.1 mm (or 0.01 inch) (<a href=\"#placeholder\">Section 1.24<\/a>).<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step15Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse15\" aria-expanded=\"false\" aria-controls=\"stepsCollapse15\">
+                Wind Direction<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse15\" class=\"accordion-collapse collapse\" aria-labelledby=\"step15Accordion\" data-bs-parent=\"#step15Accordion\">
+              <div class=\"accordion-body\">
+                <p>Observe the wind for at least two minutes
+                  and record the average wind direction or use an automated
+                  measurement. Record wind direction relative to true north
+                  as N, NE, E, SE, S, SW, W, or NW. If an automated measurement
+                  is used, record to the nearest 10 degrees (<a href=\"#placeholder\">Section 1.26<\/a>).<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step16Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse16\" aria-expanded=\"false\" aria-controls=\"stepsCollapse16\">
+                Wind Speed<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse16\" class=\"accordion-collapse collapse\" aria-labelledby=\"step16Accordion\" data-bs-parent=\"#stepsCollapse16\">
+              <div class=\"accordion-body\">
+                <p>Observe the wind for at least two minutes
+                  and record the average wind speed using the indicators in
+                  <a href=\"#placeholder\">Section 1.26<\/a>, or use an automated measurement.<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <div class=\"accordion-item\">
+              <h2 class=\"accordion-header\" id=\"step17Accordion\">
+              <button class=\"accordion-button collapsed btn-secondary\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#stepsCollapse17\" aria-expanded=\"false\" aria-controls=\"stepsCollapse17\">
+                Maximum Wind Gust<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">
+              <\/button>
+              <\/h2>
+              <div id=\"stepsCollapse17\" class=\"accordion-collapse collapse\" aria-labelledby=\"step17Accordion\" data-bs-parent=\"#step17Accordion\">
+              <div class=\"accordion-body\">
+                <p>Observe the wind for at least
+                  two minutes and record the speed of the strongest wind
+                  gust, or use an automated measurement. For an automated
+                  measurement record the time that the wind gust
+                  occurred (<a href=\"#placeholder\">Section 1.26<\/a>).<\/p>
+              <\/div>
+              <\/div>
+            <\/div>
+            
+            <\/div>
+            <!-- END steps accordion -->
+          <!-- END 1st section -->
+        <\/div>
+      <\/main>"
+}
+    

@@ -1,0 +1,37 @@
+{
+     "_id" :  "1-24",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.24 RAIN ",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>There are a variety of commercial rain gauges available. The stan-dard rain gauge is made of metal and has an 8-inch (~20 cm) orifice (<a href=\"#figure1-4Accordion\">Figure 1.4<\/a>). However, good results can be obtained with commercially manufactured 4-inch (&Tilde;10 cm) diameter plastic gauges. The gauge should be mounted at the study site (see <a href=\"#placeholder\">Appendix D<\/a> for site guidelines). If a mounted gauge is not available, an 8-inch (&Tilde;20 cm) gauge may be placed on the snow board prior to a rain event.<\/p>
+          <!-- START figure 1-4 accordion -->
+          <div class=\"accordion\" id=\"figure1-4Accordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"figure1-4heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#figure1-4collapse\" aria-expanded=\"false\" aria-controls=\"figure1-4collapse\">
+            Figure 1.4 Precipitation gauge
+            <\/button>
+            <\/h2>
+            <div id=\"figure1-4collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"figure1-4heading\" data-bs-parent=\"#figure1-4Accordion\">
+            <!-- START image -->
+              <img src=\"images\/figures\/1-4.jpg\" class=\"img-fluid\" alt=\"Precipitation gauge with Alter shield.\">
+              <div class=\"accordion-body\">
+              <p>Precipitation gauge with Alter shield.<\/p>
+              <p class=\"card-text\"><img src=\"images\/icons\/camera.svg\" alt=\"Icon: Camera\" style=\"margin:2px !important\"><small class=\"text-muted\">Tom Leonard<\/small><\/p>
+              <\/div>
+            <!-- END image -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END figure 1-4 accordion -->
+          <h3>Procedure<\/h3>
+          <p>Measure the amount of rain that has accumulated in the rain gauge with the length scale on the gauge or a ruler. Record the amount to the nearest 0.1 mm (or 0.01 in). Empty the gauge at each standard observation.<\/p>
+          <!-- END 1st section -->
+         
+        <\/div>
+      <\/main>"
+}

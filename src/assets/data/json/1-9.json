@@ -1,0 +1,15 @@
+{
+     "_id" :  "1-9",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.9 LOCATION",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+     "contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>Record the location and elevation, or study plot name, at the top of the record book page.<\/p>
+          <!-- END 1st section -->
+         
+        <\/div>
+      <\/main>"
+}

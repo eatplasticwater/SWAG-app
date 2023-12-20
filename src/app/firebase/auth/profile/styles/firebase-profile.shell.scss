@@ -1,0 +1,6 @@
+app-image-shell.user-image {
+  --image-shell-loading-background: rgba(var(--ion-color-bright-blue-rgb), 0.25);
+  --image-shell-spinner-color: var(--ion-color-bright-blue-tint);
+  --image-shell-border-radius: 0px 0px calc(var(--app-broad-radius) * 2) calc(var(--app-broad-radius) * 2);
+  --image-shell-overlay-background: linear-gradient(180deg, rgba(var(--ion-color-dark-rgb), 1) 0%, rgba(var(--ion-color-dark-rgb), 0.40) 25%, rgba(var(--ion-color-dark-rgb), 0.15) 100%);
+}

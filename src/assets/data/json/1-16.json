@@ -1,0 +1,17 @@
+{
+     "_id" :  "1-16",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.16 BAROMETRIC PRESSURE AT STATION",
+     "icon" : "",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START 1st section -->
+          <p>The SI unit for pressure is the pascal (Pa). For reporting weather observations, barometric pressure should be recorded in millibars (1 mb = 1 hPa = 100 Pa, see <a href=\"#placeholder\">Appendix B<\/a>). The recommended English unit for barometric pressure is inches of mercury (inHg). Conversions from other commonly used pressure units to millibars and inches of mercury are listed in <a href=\"#placeholder\">Appendix B<\/a>.<\/p>
+          <h2>1.16.1 Pressure Trend<\/h2>
+          <p>Use an arrow symbol to record the pressure trend as indicated by the change of pressure in the three hours preceding the observation. Record the change in barometric pressure in the past three hours.<\/p>
+          <!-- END 1st section -->
+         
+        <\/div>
+      <\/main>"
+}

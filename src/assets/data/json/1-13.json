@@ -1,0 +1,187 @@
+{
+     "_id" :  "1-13",
+     "chapter" : "CHAPTER 1: MANUAL SNOW AND WEATHER OBSERVATIONS",
+     "header" : "1.13 PRECIPITATION TYPE, RATE, AND INTENSITY",
+     "icon" : "<img src=\"images\/icons\/snow.svg\" alt=\"Icon: Standard Observation\" class=\"icon-sm\">",
+"contentHTML" : "<!-- START SWAG content -->
+      <main>
+        <div class=\"container-lg\">
+          <!-- START tables index accordion -->
+          <div class=\"accordion\" id=\"tablesIndexAccordion\">
+            <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"tablesIndexheading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#tablesIndexcollapse\" aria-expanded=\"false\" aria-controls=\"tablesIndexcollapse\">
+            Tables
+            <\/button>
+            <\/h2>
+            <div id=\"tablesIndexcollapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"tablesIndexheading\" data-bs-parent=\"#tablesIndexAccordion\">
+            <!-- START table -->
+            <div class=\"list-group\">
+              <a href=\"#table1-2Accordion\" class=\"list-group-item list-group-item-action\">Table 1.2 Precipitation Type<\/a>
+              <a href=\"#table1-3Accordion\" class=\"list-group-item list-group-item-action\">Table 1.3 Precipitation Rate<\/a>
+            <\/div>
+            <!-- END table -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <!-- END tables index accordion -->
+          <hr>
+          <!-- START 1st section -->
+          <p>The amount of snow, rain, or water equivalent that accumulates during a time period will help forecasters determine the rate and magnitude of the load increase on the snowpack. In this document, Precipitation Rate refers to an estimate of the snow or rain rate. Precipitation Intensity is a measurement of water equivalent per hour.<\/p>
+          <hr>
+          <h3>Procedure<\/h3>
+          
+          <h3>Precipitation Type<\/h3>
+          <p>Note the type of precipitation at the time of observation and record using the codes in <a href=\"#table1-2Accordion\">Table 1.2<\/a>.<\/p>
+          <!-- START table 1-2 accordion -->
+          <div class=\"accordion\" id=\"table1-2Accordion\">
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"table1-2heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table1-2collapse\" aria-expanded=\"false\" aria-controls=\"table1-2collapse\">
+              Table 1.2 Precipitation Type
+            <\/button>
+            <\/h2>
+            <div id=\"table1-2collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table1-2heading\" data-bs-parent=\"#table1-2Accordion\">
+            <div class=\"accordion-body\">
+              <!-- START table02 -->
+              <div class=\"table-responsive\">
+              <h5 id=\"table-1-2\">Table 1.2 Precipitation Type<\/h5>
+              <table class=\"table table-bordered\">
+              <thead class=\"thead-light\">
+                <tr>
+                <th scope=\"col\">Data Code<\/th>
+                <th scope=\"col\">Description<\/th>
+                <\/tr>
+              <\/thead>
+              <tbody>
+                <tr>
+                <td>NO<\/td>
+                <td>No Precipitation<\/td>
+                <\/tr>
+                <tr>
+                <td>RA<\/td>
+                <td>Rain<\/td>
+                <\/tr>
+                <tr>
+                <td>SN<\/td>
+                <td>Snow<\/td>
+                <\/tr>
+                <tr>
+                <td>RS<\/td>
+                <td>Mixed Rain and Snow<\/td>
+                <\/tr>
+                <tr>
+                <td>GR<\/td>
+                <td>Graupel and Hail<\/td>
+                <\/tr>
+                <tr>
+                <td>ZR<\/td>
+                <td>Freezing Rain<\/td>
+                <\/tr>  
+              <\/tbody>
+              <\/table>
+              <\/div>
+              <!-- END table02 -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <\/div>
+          <!-- END table 1-2 accordion -->
+          <h3>Precipitation Rate<\/h3>
+          <p>Use the descriptors listed in <a href=\"#table1-3Accordion\">Table 1.3<\/a> to assess the precipitation rate at the time of observation. Record the estimated rate with the appropriate data code in <a href=\"#table1-3Accordion\">Table 1.3<\/a>.<\/p>
+          <!-- START table 1-3 accordion -->
+          <div class=\"accordion\" id=\"table1-3Accordion\">
+          <div class=\"accordion-item\">
+            <h2 class=\"accordion-header\" id=\"table1-3heading\">
+            <button class=\"accordion-button collapsed text-info bg-light\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#table1-3collapse\" aria-expanded=\"false\" aria-controls=\"table1-3collapse\">
+              Table 1.3 Precipitation Rate
+            <\/button>
+            <\/h2>
+            <div id=\"table1-3collapse\" class=\"accordion-collapse collapse collapse\" aria-labelledby=\"table1-3heading\" data-bs-parent=\"#table1-3Accordion\">
+            <div class=\"accordion-body\">
+              <!-- START table03 -->
+              <div class=\"table-responsive\">
+              <h5 id=\"table-1-3\">Table 1.3 Precipitation Rate<\/h5>
+              <table class=\"table table-bordered\">
+              <thead class=\"thead-light\">
+                <tr>
+                <th scope=\"col\">Data Code<\/th>
+                <th scope=\"col\">Description<\/th>
+                <th scope=\"col\">Rate<\/th>
+                <\/tr>
+              <\/thead>
+              <tbody>
+                <tr>
+                <td colspan=\"3\"><strong>Snowfall Rate (this table provides examples; any appropriate rate may be specified)<\/strong><\/td>
+                <\/tr>
+                <tr>
+                <td>S-1<\/td>
+                <td>Very light snowfall<\/td>
+                <td>Snow accumulates at a rate of a trace to about 0.5 cm (&Tilde; 0.25 in) per hour<\/td>
+                <\/tr>
+                <tr>
+                <td>S1<\/td>
+                <td>Light snowfall<\/td>
+                <td>Snow accumulates at a rate of about 1 cm (&Tilde; 0.5 in) per hour<\/td>
+                <\/tr>
+                <tr>
+                <td>S2<\/td>
+                <td>Moderate snowfall<\/td>
+                <td>Snow accumulates at a rate of about 2 cm (a little less than 1 in) per hour<\/td>
+                <\/tr>
+                 <tr>
+                 <td>S5<\/td>
+                 <td>Heavy snowfall<\/td>
+                 <td>Snow accumulates at a rate of about 5 cm (&Tilde; 2 in) per hour<\/td>
+                 <\/tr>
+                <tr>
+                <td>S10<\/td>
+                  <td>Very heavy snowfall<\/td>
+                  <td>Snow accumulates at a rate of about 10 cm (&Tilde; 4 in) per hour<\/td>
+                <\/tr>
+                <tr>
+                  <td colspan=\"3\"><strong>Rainfall Rate<\/strong><\/td>
+                <\/tr>
+                <tr>
+                <td>RV<\/td>
+                  <td>Very light rain<\/td>
+                  <td>Rain produces no accumulation, regardless of duration<\/td>
+                <\/tr>
+                <tr>
+                  <td>RL<\/td>
+                  <td>Light rain<\/td>
+                  <td>Rain accumulates at a rate up to 2.5 mm (0.1 in) of water per hour<\/td>
+                <\/tr>
+                <tr>
+                  <td>RM<\/td>
+                  <td>Moderate rain<\/td>
+                  <td>Rain accumulates at a rate between 2.6 to 7.5 mm (0.1 to 0.3 in) of water per hour<\/td>
+                <\/tr>
+                 <tr>
+                   <td>RH<\/td>
+                   <td>Heavy rain<\/td>
+                   <td>Rain accumulates at a rate of 7.5 mm (0.3 in) of water per hour or more<\/td>
+                 <\/tr>
+                
+                
+              <\/tbody>
+              <\/table>
+              <\/div>
+              <!-- END table03 -->
+            <\/div>
+            <\/div>
+          <\/div>
+          <\/div>
+          <!-- END table 1-3 accordion -->
+          <h3>Precipitation Intensity<\/h3>
+          <p>Use measurements of rain or the water equivalent of snow to calculate the precipitation intensity with the following equation:<\/p>
+          <img src=\"images\/figures\/1-13.svg\" alt=\"Precipitaion Intensity Formula\" class=\"img-responsive\">
+          <p>&nbsp;<\/p>
+          <p>Record the results with the data code PI and the measured value in millimeters (inches) of water.<\/p>
+          <p><i>Note: PI values are assumed to be in millimeters, and duration is assumed to be one hour. Use the symbol \" to signify when inches are used.<\/i><\/p>
+          <p>Use measurements of rain or the water equivalent of snow to calculate the precipitation intensity with the following equation:<\/p>
+          <p><strong>Example:<\/strong> A precipitation intensity of one half inch per hour would be coded as PI 0.5\".<\/p>
+         <!-- END 1st section -->
+        <\/div>
+      <\/main>"
+}
