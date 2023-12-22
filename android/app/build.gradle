@@ -3,13 +3,14 @@ apply plugin: 'com.android.application'
 android {
 
     namespace 'org.americanavalancheassociation.swag'
-    compileSdkVersion rootProject.ext.compileSdkVersion
+//    targetSdkVersion 30
+    compileSdk 30
     defaultConfig {
         applicationId "org.americanavalancheassociation.swag"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0-beta+001"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -27,7 +28,7 @@ repositories {
 }
 
 dependencies {
-    implementation "androidx.core:core-splashscreen:$coreSplashScreenVersion"
+    implementation "androidx.core:core-splashscreen:1.0.1"
     implementation('commons-codec:commons-codec') {
         version {
             strictly '7.4.2'
@@ -52,6 +53,6 @@ try {
     if (servicesJSON.text) {
         apply plugin: 'com.google.gms.google-services'
     }
-} catch(Exception) {
+} catch(ignored) {
     logger.warn("google-services.json not found, google-services plugin not applied. Push Notifications won't work")
 }

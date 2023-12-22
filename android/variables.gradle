@@ -13,6 +13,6 @@ ext {
     cordovaAndroidVersion = '10.1.1'
     rgcfaIncludeFacebook = true
     rgcfaIncludeGoogle = true
-    coreSplashScreenVersion = '1.0.0'
+    coreSplashScreenVersion = '1.0.1'
     androidxWebkitVersion = '1.6.1'
 }
