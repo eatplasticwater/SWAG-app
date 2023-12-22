@@ -6,10 +6,10 @@ import { IonicModule } from '@ionic/angular';
 import { ShellModule } from '../shell/shell.module';
 
 import { CheckboxWrapperComponent } from './checkbox-wrapper/checkbox-wrapper.component';
-import { ShowHidePasswordComponent } from './show-hide-password/show-hide-password.component';
-import { CountdownTimerComponent } from './countdown-timer/countdown-timer.component';
-import { CounterInputComponent } from './counter-input/counter-input.component';
-import { RatingInputComponent } from './rating-input/rating-input.component';
+// import { ShowHidePasswordComponent } from './show-hide-password/show-hide-password.component';
+// import { CountdownTimerComponent } from './countdown-timer/countdown-timer.component';
+// import { CounterInputComponent } from './counter-input/counter-input.component';
+// import { RatingInputComponent } from './rating-input/rating-input.component';
 import { IndexComponent } from './index/index.component';
 
 @NgModule({
@@ -21,19 +21,19 @@ import { IndexComponent } from './index/index.component';
   ],
   declarations: [
     CheckboxWrapperComponent,
-    ShowHidePasswordComponent,
-    CountdownTimerComponent,
-    CounterInputComponent,
-    RatingInputComponent,
+    // ShowHidePasswordComponent,
+    // CountdownTimerComponent,
+    // CounterInputComponent,
+    // RatingInputComponent,
     IndexComponent
   ],
   exports: [
     ShellModule,
     CheckboxWrapperComponent,
-    ShowHidePasswordComponent,
-    CountdownTimerComponent,
-    CounterInputComponent,
-    RatingInputComponent,
+    // ShowHidePasswordComponent,
+    // CountdownTimerComponent,
+    // CounterInputComponent,
+    // RatingInputComponent,
     IndexComponent
   ]
 })
