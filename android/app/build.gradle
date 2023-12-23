@@ -2,6 +2,12 @@ apply plugin: 'com.android.application'
 
 android {
 
+
+    dependenciesInfo {
+        includeInApk false
+        includeInBundle false
+    }
+//    buildToolsVersion '30.0.3'
     namespace 'org.americanavalancheassociation.swag'
 //    targetSdkVersion 30
     compileSdk 30
@@ -9,7 +15,6 @@ android {
         applicationId "org.americanavalancheassociation.swag"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
         versionName "1.0.0-beta+001"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -31,8 +36,8 @@ dependencies {
     implementation "androidx.core:core-splashscreen:1.0.1"
     implementation('commons-codec:commons-codec') {
         version {
-            strictly '7.4.2'
-//            strictly '8.1.4'
+//            strictly '7.4.2'
+            strictly '8.1.4'
         }
     }
     implementation "androidx.coordinatorlayout:coordinatorlayout:$androidxCoordinatorLayoutVersion"
