@@ -10,7 +10,7 @@ android {
 //    buildToolsVersion '30.0.3'
     namespace 'org.americanavalancheassociation.swag'
 //    targetSdkVersion 30
-    compileSdk 30
+    compileSdk 34
     defaultConfig {
         applicationId "org.americanavalancheassociation.swag"
         minSdkVersion rootProject.ext.minSdkVersion
