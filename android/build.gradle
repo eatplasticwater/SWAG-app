@@ -2,22 +2,13 @@
 
 buildscript {
     
-    ext {
-        agp_version = '8.2.0'
-    }
     repositories {
         google()
-        // jcenter()
-        // Issue: the repository handler.jcenter() method has been deprecated (see: https://stackoverflow.com/questions/66651640/jcenter-deprecation-impact-on-gradle-and-android)
         mavenCentral()
-        maven {
-            url = "https://repo1.maven.org/maven2/"
-        }
-
     }
     dependencies {
-        classpath "com.android.tools.build:gradle:$agp_version"
-        classpath 'com.google.gms:google-services:4.4.0'
+        classpath 'com.android.tools.build:gradle:8.0.0'
+        classpath 'com.google.gms:google-services:4.3.15'
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
@@ -29,27 +20,10 @@ apply from: "variables.gradle"
 allprojects {
     repositories {
         google()
-        // jcenter()
-        // Issue: the repository-handler.jcenter() method has been deprecated (see: https://stackoverflow.com/questions/66651640/jcenter-deprecation-impact-on-gradle-and-android)
         mavenCentral()
-        maven {
-            url = "https://repo1.maven.org/maven2/"
-        }
-//        maven {
-//            url "https://repo.spring.io/release"
-//        }
-        maven {
-            url "https://download.jetbrains.com/teamcity-repository"
-        }
-        maven {
-            url "https://repository.jboss.org/maven2"
-        }
-        maven {
-            url 'https://repo.jenkins-ci.org/public/'
-        }
     }
 }
 
-//task clean(type: Delete) {
-//    delete rootProject.buildDir
-//}
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

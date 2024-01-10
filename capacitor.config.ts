@@ -1,16 +1,16 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.ionicthemes.ionic5fullapp',
+  appId: 'org.americanavalancheassociation.swag',
   appName: 'Ionic6FullAppBasic',
   webDir: 'www',
   bundledWebRuntime: true,
   plugins: {
     SplashScreen: {
-      launchAutoHide: false
+      launchAutoHide: true
     },
     FirebaseAuthentication: {
-      skipNativeAuth: false,
+      skipNativeAuth: true,
       providers: [
         "google.com",
         "twitter.com",
