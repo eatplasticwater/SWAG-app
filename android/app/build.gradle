@@ -27,6 +27,9 @@ android {
 }
 
 repositories {
+    google()
+    jcenter()
+    mavenCentral()
     flatDir{
         dirs '../capacitor-cordova-android-plugins/src/main/libs', 'libs'
     }
@@ -34,12 +37,7 @@ repositories {
 
 dependencies {
     implementation "androidx.core:core-splashscreen:1.0.1"
-    implementation('commons-codec:commons-codec') {
-        version {
-//            strictly '7.4.2'
-            strictly '8.1.4'
-        }
-    }
+    implementation "commons-codec:commons-codec:8.1.4"
     implementation "androidx.coordinatorlayout:coordinatorlayout:$androidxCoordinatorLayoutVersion"
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation "androidx.appcompat:appcompat:$androidxAppCompatVersion"
