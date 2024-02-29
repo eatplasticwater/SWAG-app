@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Ionic6FullAppBasic</string>
-    <string name="title_activity_main">Ionic6FullAppBasic</string>
+    <string name="app_name">SWAG</string>
+    <string name="title_activity_main">SWAG</string>
     <string name="package_name">org.americanavalancheassociation.swag</string>
     <string name="custom_url_scheme">org.americanavalancheassociation.swag</string>
 

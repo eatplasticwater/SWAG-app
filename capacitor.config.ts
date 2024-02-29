@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'org.americanavalancheassociation.swag',
-  appName: 'Ionic6FullAppBasic',
+  appName: 'SWAG',
   webDir: 'www',
   bundledWebRuntime: true,
   plugins: {
