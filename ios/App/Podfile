@@ -26,14 +26,7 @@ end
 target 'App' do
   capacitor_pods
   # Add your Pods here
-  # pod 'Firebase/Core'
-  # pod 'Firebase/Auth'
-  # pod 'FBSDKCoreKit'
-  # pod 'FBSDKLoginKit'
-  pod 'CapacitorFirebaseAuthentication/Facebook', :path => '../../node_modules/@capacitor-firebase/authentication'
-  pod 'CapacitorFirebaseAuthentication/Google', :path => '../../node_modules/@capacitor-firebase/authentication'
 end
-
 
 post_install do |installer|
   assertDeploymentTarget(installer)
